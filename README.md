@@ -75,9 +75,26 @@ hospital-appointment-system/
 │
 ├── src/
 │   ├── entities/
+│   │   ├── patient.py
+│   │   ├── doctor.py
+│   │   ├── appointment.py
+│   │   ├── medical_record.py
+│   │   └── doctor_schedule.py
+│   │
 │   ├── managers/
+│   │   ├── hospital_manager.py
+│   │   └── file_handler.py
+│   │
 │   ├── structures/
+│   │   ├── linked_list.py
+│   │   └── node.py
+│   │
 │   ├── ui/
+│   │   ├── patient_ui.py
+│   │   ├── admin_ui.py
+│   │   ├── doctor_ui.py
+│   │   └── menu.py
+│   │
 │   └── app.py
 │
 ├── data/
@@ -88,7 +105,11 @@ hospital-appointment-system/
 │   └── records.txt
 │
 ├── docs/
+│   ├── report.docx
+│   └── images/
+│
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 
