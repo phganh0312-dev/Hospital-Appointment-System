@@ -1,4 +1,4 @@
-from linked_list import Linked List
+from structures.linked_list import LinkedList
 
 class Patient:
     def __init__(self, patient_id, cccd, full_name, phone, province, ward, detailed_address):
