@@ -1,4 +1,5 @@
 from structures.node import Node
+
 class LinkedList:
     def __init__(self): # Khởi tạo một danh sách liên kết mới với head và tail ban đầu là None
         self.head = None
