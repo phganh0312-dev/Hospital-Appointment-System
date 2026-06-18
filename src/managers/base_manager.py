@@ -1,6 +1,68 @@
 import datetime
 
+# ==========================================
+# CÁC CLASS EXCEPTION TỰ ĐỊNH NGHĨA
+# ==========================================
+class ValidationError(Exception):
+    pass
 
+class DataConsistencyError(Exception):
+    pass
+
+# ==========================================
+# QUẢN LÝ TRẠNG THÁI CUỘC HẸN (KHÔNG DÙNG DICT/LIST)
+# ==========================================
+class AppointmentStatus:
+    PENDING = "PENDING"
+    CONFIRMED = "CONFIRMED"
+    COMPLETED = "COMPLETED"
+    CANCELLED = "CANCELLED"
+
+    @staticmethod
+    def is_valid(status):
+        # Sử dụng tuple () thay vì list []
+        return status in (
+            AppointmentStatus.PENDING, 
+            AppointmentStatus.CONFIRMED, 
+            AppointmentStatus.COMPLETED, 
+            AppointmentStatus.CANCELLED
+        )
+
+    @staticmethod
+    def normalize(status):
+        if not status:
+            return AppointmentStatus.PENDING
+        s = str(status).strip().upper()
+        if s in ("ĐÃ ĐẶT", "CHỜ KHÁM"): 
+            return AppointmentStatus.PENDING
+        if s == "ĐÃ XÁC NHẬN": 
+            return AppointmentStatus.CONFIRMED
+        if s == "ĐÃ KHÁM": 
+            return AppointmentStatus.COMPLETED
+        if s == "ĐÃ HỦY": 
+            return AppointmentStatus.CANCELLED
+        return s
+
+class AppointmentStateMachine:
+    @staticmethod
+    def can_transition(current_status, new_status):
+        # Không dùng Dictionary chứa rules, rẽ nhánh thủ công hoàn toàn
+        if current_status == AppointmentStatus.PENDING:
+            return new_status in (AppointmentStatus.CONFIRMED, AppointmentStatus.CANCELLED)
+        if current_status == AppointmentStatus.CONFIRMED:
+            return new_status in (AppointmentStatus.COMPLETED, AppointmentStatus.CANCELLED)
+        return False
+
+    @staticmethod
+    def transition(appointment, new_status):
+        if not AppointmentStateMachine.can_transition(appointment.status, new_status):
+            raise ValidationError(f"Không thể chuyển trạng thái từ '{appointment.status}' sang '{new_status}'")
+        appointment.status = new_status
+
+
+# ==========================================
+# BASE MANAGER CHỨA CÁC THUẬT TOÁN DÙNG CHUNG
+# ==========================================
 class BaseManager:
     def _to_date(self, date_input):
         if isinstance(date_input, datetime.datetime):
@@ -15,31 +77,57 @@ class BaseManager:
         if isinstance(weekday, int):
             return weekday
         w = str(weekday).strip().lower()
-        mapping_vi = {
-            'thứ hai': 0,
-            'thứ ba': 1,
-            'thứ tư': 2,
-            'thứ năm': 3,
-            'thứ sáu': 4,
-            'thứ bảy': 5,
-            'chủ nhật': 6,
-        }
-        if w in mapping_vi:
-            return mapping_vi[w]
+        
+        # ĐÃ XÓA DICTIONARY, THAY BẰNG IF/ELIF TUYẾN TÍNH
+        if w == 'thứ hai': return 0
+        elif w == 'thứ ba': return 1
+        elif w == 'thứ tư': return 2
+        elif w == 'thứ năm': return 3
+        elif w == 'thứ sáu': return 4
+        elif w == 'thứ bảy': return 5
+        elif w == 'chủ nhật': return 6
+        
         try:
             return int(w)
         except Exception:
             raise ValueError('Ngày không hợp lệ.')
         
     def _to_lower(self, text):
-        """Hàm tự xây đổi thành chữ thường không dùng thư viện"""
-        res = ""
-        for char in str(text):
-            if 'A' <= char <= 'Z':
-                res += chr(ord(char) + 32)
-            else:
-                res += char
-        return res
+        upper = (
+            "AĂÂBCDĐEÊGHIKLMNOÔƠPQRSTUƯVXY"
+            "ÁÀẢÃẠẮẰẲẴẶẤẦẨẪẬ"
+            "ÉÈẺẼẸẾỀỂỄỆ"
+            "ÍÌỈĨỊ"
+            "ÓÒỎÕỌỐỒỔỖỘỚỜỞỠỢ"
+            "ÚÙỦŨỤỨỪỬỮỰ"
+            "ÝỲỶỸỴ"
+        )
+
+        lower = (
+            "aăâbcdđeêghiklmnoôơpqrstuưvxy"
+            "áàảãạắằẳẵặấầẩẫậ"
+            "éèẻẽẹếềểễệ"
+            "íìỉĩị"
+            "óòỏõọốồổỗộớờởỡợ"
+            "úùủũụứừửữự"
+            "ýỳỷỹỵ"
+        )
+
+        result = ""
+
+        for ch in str(text):
+            found = False
+
+            for i in range(len(upper)):
+                if ch == upper[i]:
+                    result += lower[i]
+                    found = True
+                    break
+
+            if not found:
+                result += ch
+
+        return result
 
     def _custom_find_substring(self, main_str, sub_str):
         """Thuật toán Linear Search tìm chuỗi con"""

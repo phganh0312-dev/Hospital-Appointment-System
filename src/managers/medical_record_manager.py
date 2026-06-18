@@ -1,6 +1,7 @@
 from structures.linked_list import LinkedList
 from entities.medical_record import MedicalRecord
 from managers.file_handler import FileHandler
+from managers.appointment_manager import AppointmentManager
 
 class MedicalRecordManager:
     def __init__(self, medical_records=None, appointment_manager=None, schedule_manager=None):

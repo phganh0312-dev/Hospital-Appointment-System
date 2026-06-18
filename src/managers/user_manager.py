@@ -54,13 +54,13 @@ class UserManager(BaseManager):
                 while current:
                     p_id = getattr(current.value, 'id', 'B00000001')
                     try:
-                        num = int(p_id[2:])
+                        num = int(p_id[1:])
                         if num > max_id:
                             max_id = num
                     except:
                         pass
                     current = current.next
-            return f"B{str(max_id + 1).zfill(5)}"
+            return f"B{str(max_id + 1).zfill(8)}"
 
     # ==========================
     # LUỒNG ĐĂNG KÝ (REGISTRATION)
@@ -94,7 +94,7 @@ class UserManager(BaseManager):
 
         # 4. Sinh mã và tạo Entity
         new_patient_id = self._generate_patient_id()
-        new_user_id = "U" + new_patient_id[2:] 
+        new_user_id = "U" + new_patient_id[1:] 
 
         new_patient = Patient(new_patient_id, cccd, full_name, phone, email, province, ward, detailed_address, None, None)
         new_user = User(new_user_id, phone, email, password, "patient", new_patient_id)
@@ -143,7 +143,9 @@ class UserManager(BaseManager):
             return True, found_user
         else:
             # Ghi nhận nhập sai
-            attempts = self.failed_attempts.get(user_id, 0) + 1
+            # Lấy giá trị ra trước, nếu là None thì mặc định là 0
+            current_attempts = self.failed_attempts.get(user_id, 0)
+            attempts = (current_attempts if current_attempts is not None else 0) + 1
             self.failed_attempts.set(user_id, attempts)
             
             if attempts >= 5:
@@ -166,7 +168,8 @@ class UserManager(BaseManager):
             return False, pw_msg
             
         user = result
-        user.password = new_password
+        if isinstance(user, User):
+            user.password = new_password
         self._save_data_to_file()
         return True, "Đổi mật khẩu thành công"
 
