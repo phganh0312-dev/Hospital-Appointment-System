@@ -1,0 +1,700 @@
+B00000001|606297209|Bùi Thị Thắn|08961156372|buithithan@hospital.local|Cần Thơ|Phường An Cư|Số 6, Đường Trần Văn Hoài, Phường An Cư, Ninh Kiều, Cần Thơ|HA149406436|2028-01-03
+B00000002|994686543|Hồ Đình Đạo|09637749860|hodinhdao@hospital.local|Hải Dương|Phường Quang Trung|Số 401, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương||
+B00000003|958464834|Lê Uyên Tinh|08691443901|leuyentinh@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 250, Đường Lê Văn Sỹ, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh|VT536075721|2027-07-16
+B00000004|262270640|Hoàng Quốc Tiên|09021859345|hoangquoctien@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 25, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|BH752900478|2029-03-11
+B00000005|650424085|Trần Đình Tưởng|09511182766|trandinhtuong@hospital.local|Biên Hòa|Phường Tân Phong|Số 400, Đường Đồng Khởi, Phường Tân Phong, Trảng Dài, Biên Hòa||
+B00000006|793714303|Phạm Đình Tiếp|09243105075|phamdinhtiep@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 474, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|HP483986739|2028-06-01
+B00000007|223253992|Vũ Trang Long|09923865913|vutranglong@hospital.local|Hải Phòng|Phường An Biên|Số 42, Đường Cầu Đất, Phường An Biên, Lê Chân, Hải Phòng|NT509596659|2028-04-05
+B00000008|932333957|Bùi Hương Rên|09226980510|buihuongren@hospital.local|Đà Nẵng|Phường Hải Châu II|Số 286, Đường Hoàng Sa, Phường Hải Châu II, Hải Châu, Đà Nẵng|TG923613922|2028-08-30
+B00000009|529072462|Nguyễn Hiền Toàng|08026517526|nguyenhientoang@hospital.local|Biên Hòa|Phường Tân Phong|Số 270, Đường Đồng Khởi, Phường Tân Phong, Trảng Dài, Biên Hòa||
+B00000010|243205346|Hoàng Khánh Thà|09493630755|hoangkhanhtha@hospital.local|Cần Thơ|Phường Long Hòa|Số 171, Đường Trần Văn Hoài, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000011|107795898|Đặng Anh Quyết|08518653130|danganhquyet@hospital.local|Đà Nẵng|Phường Hải Châu I|Số 124, Đường Hoàng Sa, Phường Hải Châu I, Hải Châu, Đà Nẵng||
+B00000012|658978860|Bùi Hà Tương|09137697432|buihatuong@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 253, Đường Phạm Văn Đồng, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|CT591003717|2028-07-29
+B00000013|391302308|Phan Quốc Thoại|09191399088|phanquocthoai@hospital.local|TP. Hồ Chí Minh|Phường 2|Số 248, Đường Nguyễn Tri Phương, Phường 2, Quận 5, TP. Hồ Chí Minh||
+B00000014|746403557|Dương Thị Ninh|09184753091|duongthininh@hospital.local|Hải Phòng|Phường An Dương|Số 252, Đường Trần Phú, Phường An Dương, Lê Chân, Hải Phòng|BH961757220|2028-05-21
+B00000015|340300821|Trần Văn Tưởng|08797450124|tranvantuong@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 26, Đường Nguyễn Tri Phương, Phường Tân Định, Quận 1, TP. Hồ Chí Minh|HP502162874|2029-05-15
+B00000016|188557682|Đinh Hương Thái|08765953146|dinhhuongthai@hospital.local|Bình Dương|Phường Phú Cường|Số 100, Đường Nguyễn Trãi, Phường Phú Cường, Thủ Dầu Một, Bình Dương||
+B00000017|875391167|Tạ Anh Định|08348180498|taanhdinh@hospital.local|TP. Hồ Chí Minh|Phường 5|Số 301, Đường Lê Văn Sỹ, Phường 5, Quận 10, TP. Hồ Chí Minh|BH701791571|2028-01-31
+B00000018|177359273|Tạ Minh Uyêu|09229379503|taminhuyeu@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 331, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|HD240420356|2028-12-03
+B00000019|368734198|Đặng Linh Quyết|08326520815|danglinhquyet@hospital.local|Hà Nội|Phường Trung Tự|Số 144, Đường Láng, Phường Trung Tự, Đống Đa, Hà Nội|BH625231040|2029-03-22
+B00000020|603126206|Hoàng Khánh Tuân|09644716407|hoangkhanhtuan@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 90, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|VT358940265|2028-01-07
+B00000021|877207842|Đặng Thị Dân|08571805429|dangthidan@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 12, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|DA788403873|2028-10-01
+B00000022|918938324|Tô Quốc Thiều|09851377838|toquocthieu@hospital.local|Bình Dương|Phường Phú Lợi|Số 137, Đường Phú Lợi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|CT388888789|2028-09-15
+B00000023|329197037|Vũ Hiền Luân|08624707634|vuhienluan@hospital.local|Cần Thơ|Phường An Thới|Số 473, Đường Nguyễn Văn Cừ, Phường An Thới, Bình Thủy, Cần Thơ||
+B00000024|995340275|Đinh Hiền Tự|08533501993|dinhhientu@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 19, Đường Trần Phú, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang|HP460210699|2027-10-03
+B00000025|678873506|Hoàng Khánh Tâu|09852056441|hoangkhanhtau@hospital.local|Đà Nẵng|Phường Thạch Thang|Số 41, Đường Võ Nguyên Giáp, Phường Thạch Thang, Hải Châu, Đà Nẵng|HA814240861|2028-09-18
+B00000026|819278811|Đỗ Yến Tinh|08927286386|doyentinh@hospital.local|Cần Thơ|Phường An Khánh|Số 112, Đường 30 Tháng 4, Phường An Khánh, Ninh Kiều, Cần Thơ|BA180182618|2028-09-06
+B00000027|919141186|Đỗ Thanh Uyêu|09283900216|dothanhuyeu@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 224, Đường Lê Thánh Tôn, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang||
+B00000028|137489672|Vũ Hiền Châu|09991438517|vuhienchau@hospital.local|Hải Dương|Phường Tân Bình|Số 198, Đường Nguyễn Trãi, Phường Tân Bình, Hải Dương, Hải Dương|TG153398563|2028-09-03
+B00000029|441536703|Trần Uyên Mộng|09494061249|tranuyenmong@hospital.local|Hà Nội|Phường Dịch Vọng|Số 257, Đường Láng, Phường Dịch Vọng, Cầu Giấy, Hà Nội||
+B00000030|781189420|Tô Anh Tiếp|09072862102|toanhtiep@hospital.local|Hải Phòng|Phường Kênh Dương|Số 137, Đường Cầu Đất, Phường Kênh Dương, Lê Chân, Hải Phòng|DN440063344|2028-08-01
+B00000031|402017878|Vũ Uyên Hùng|09878675386|vuuyenhung@hospital.local|Hà Nội|Phường Phúc Tân|Số 364, Đường Láng, Phường Phúc Tân, Hoàn Kiếm, Hà Nội|VT861056218|2027-07-01
+B00000032|866282292|Đỗ Anh Tường|09573599204|doanhtuong@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 176, Đường Trần Phú, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang||
+B00000033|515492218|Lê Khánh Linh|09235653663|lekhanhlinh@hospital.local|Hà Nội|Phường Ô Chợ Dừa|Số 118, Đường Láng, Phường Ô Chợ Dừa, Đống Đa, Hà Nội||
+B00000034|167649832|Tạ Hiền Thê|08479738759|tahienthe@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 329, Đường Kinh Dương Vương, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|HA788131585|2028-12-08
+B00000035|514069452|Nguyễn Trang Lộc|09992453359|nguyentrangloc@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 323, Đường Nguyễn Văn Linh, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng|BA580117726|2028-05-30
+B00000036|457609897|Đinh Minh Tiếp|09622798232|dinhminhtiep@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 348, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000037|599239945|Đặng Minh Tưởng|08558638831|dangminhtuong@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 347, Đường Phạm Văn Đồng, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang||
+B00000038|202381649|Tô Linh Tứ|08973975195|tolinhtu@hospital.local|Cần Thơ|Phường An Cư|Số 431, Đường Trần Văn Hoài, Phường An Cư, Ninh Kiều, Cần Thơ||
+B00000039|369160008|Đỗ Phương Thực|08557638362|dophuongthuc@hospital.local|Cần Thơ|Phường An Cư|Số 190, Đường Nguyễn Văn Cừ, Phường An Cư, Ninh Kiều, Cần Thơ|HA373397096|2027-07-01
+B00000040|386957068|Đặng Thị Tớ|09015522796|dangthito@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 389, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|HCM824372093|2029-03-09
+B00000041|569323549|Bùi Lan Cảnh|09792672091|builancanh@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 489, Đường Nguyễn Tri Phương, Phường 8, Quận 3, TP. Hồ Chí Minh||
+B00000042|367055014|Nguyễn Anh Thà|08472471142|nguyenanhtha@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 304, Đường Lê Thánh Tôn, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|BA917980056|2027-10-22
+B00000043|234605969|Bùi Hiền Thía|08370360502|buihienthia@hospital.local|Hải Dương|Phường Quang Trung|Số 79, Đường Nguyễn Trãi, Phường Quang Trung, Hải Dương, Hải Dương|HD527787010|2029-01-24
+B00000044|335708642|Tạ Thị Tương|09839058981|tathituong@hospital.local|Hải Phòng|Phường Kênh Dương|Số 249, Đường Lạch Tray, Phường Kênh Dương, Lê Chân, Hải Phòng|TA759474450|2029-06-11
+B00000045|823550198|Hoàng Phương Hòa|09928018951|hoangphuonghoa@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 216, Đường Trần Phú, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang||
+B00000046|896212049|Tô Uyên Dân|08783738782|touyendan@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 462, Đường Phạm Văn Đồng, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|HCM903222342|2029-02-23
+B00000047|234273658|Hoàng Anh Thoa|08932687351|hoanganhthoa@hospital.local|Hải Dương|Phường Quang Trung|Số 36, Đường Nguyễn Trãi, Phường Quang Trung, Hải Dương, Hải Dương||
+B00000048|580042645|Dương Hữu Uyên|08656650801|duonghuuuyen@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 315, Đường Kinh Dương Vương, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh||
+B00000049|540236678|Đinh Vân Sáu|08617990963|dinhvansau@hospital.local|Hà Nội|Phường Láng Thượng|Số 56, Đường Trần Duy Hưng, Phường Láng Thượng, Đống Đa, Hà Nội|CT979404874|2028-04-30
+B00000050|541557828|Đặng Trang Lợi|09092584555|dangtrangloi@hospital.local|Biên Hòa|Phường An Bình|Số 419, Đường Đồng Khởi, Phường An Bình, Long Bình Tân, Biên Hòa|DA687640290|2027-10-17
+B00000051|760349579|Bùi Trang Thái|08634181542|buitrangthai@hospital.local|Cần Thơ|Phường Tân An|Số 143, Đường Trần Văn Hoài, Phường Tân An, Ninh Kiều, Cần Thơ||
+B00000052|199093184|Tạ Hương Đông|08053025026|tahuongdong@hospital.local|Hải Dương|Phường Tân Bình|Số 373, Đường Phạm Ngũ Lão, Phường Tân Bình, Hải Dương, Hải Dương|HCM592801390|2029-03-16
+B00000053|947625698|Đỗ Hà Tường|08046043456|dohatuong@hospital.local|Biên Hòa|Phường Tân Biên|Số 311, Đường Phạm Văn Thuận, Phường Tân Biên, Long Bình Tân, Biên Hòa|HA930814328|2028-03-24
+B00000054|348093099|Đặng Thị Tín|09948706973|dangthitin@hospital.local|Hải Dương|Phường Quang Trung|Số 282, Đường Phạm Hồng Thái, Phường Quang Trung, Hải Dương, Hải Dương|DN913703643|2028-01-19
+B00000055|557700145|Hoàng Phương Thìn|09322718744|hoangphuongthin@hospital.local|Hà Nội|Phường Quan Hoa|Số 228, Đường Láng, Phường Quan Hoa, Cầu Giấy, Hà Nội||
+B00000056|630272480|Phan Văn Hưỡng|09182930258|phanvanhuong@hospital.local|Đà Nẵng|Phường Tam Thuận|Số 364, Đường Nguyễn Văn Linh, Phường Tam Thuận, Thanh Khê, Đà Nẵng||
+B00000057|115666544|Phan Quốc Tâng|09379321051|phanquoctang@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 313, Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng||
+B00000058|303264534|Tô Thị Uy|08724964422|tothiuy@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 428, Đường Hoàng Sa, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng|CT612289614|2028-07-01
+B00000059|693879703|Hoàng Văn Tiếp|08832279526|hoangvantiep@hospital.local|Biên Hòa|Phường Tân Mai|Số 3, Đường Võ Thị Sáu, Phường Tân Mai, Trảng Dài, Biên Hòa|TG867518146|2029-04-23
+B00000060|751592993|Đỗ Đình Thước|09955358402|dodinhthuoc@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 296, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|CT807354940|2029-01-25
+B00000061|965520924|Hoàng Linh Thếp|08266788807|hoanglinhthep@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 476, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|DN519686630|2028-02-05
+B00000062|368804770|Đinh Hữu Tưởng|08972920490|dinhhuutuong@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 120, Đường Hùng Vương, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000063|499866761|Trần Thanh Kiên|09931248431|tranthanhkien@hospital.local|TP. Hồ Chí Minh|Phường Bến Nghé|Số 224, Đường Lê Văn Sỹ, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh|TA537273547|2028-08-24
+B00000064|194507858|Trần Trang Thiệu|08419921558|trantrangthieu@hospital.local|Hải Dương|Phường Quang Trung|Số 478, Đường Phạm Hồng Thái, Phường Quang Trung, Hải Dương, Hải Dương|CT466610030|2028-07-17
+B00000065|197546080|Dương Hương Tường|09979012757|duonghuongtuong@hospital.local|Đà Nẵng|Phường Hải Châu II|Số 176, Đường Nguyễn Văn Linh, Phường Hải Châu II, Hải Châu, Đà Nẵng|DN663065318|2029-02-21
+B00000066|297849389|Hồ Quốc Uy|08686273604|hoquocuy@hospital.local|Hà Nội|Phường Hàng Trống|Số 410, Đường Nguyễn Văn Cừ, Phường Hàng Trống, Hoàn Kiếm, Hà Nội||
+B00000067|967585519|Hồ Hằng Nhật|08743543837|hohangnhat@hospital.local|Hải Dương|Phường Tân Bình|Số 345, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương|HA120366375|2028-08-12
+B00000068|526105769|Tạ Anh Lương|08659222785|taanhluong@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 156, Đường Kinh Dương Vương, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|HP198104116|2029-03-30
+B00000069|732784822|Đỗ Yến Rạng|08181648204|doyenrang@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 374, Đường Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh|TA926882054|2027-10-28
+B00000070|361351689|Đặng Hằng Tây|09151119208|danghangtay@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 241, Đường Cầu Đất, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000071|455591029|Phan Linh Phụng|08394763388|phanlinhphung@hospital.local|Đà Nẵng|Phường Thạch Thang|Số 492, Đường Hoàng Sa, Phường Thạch Thang, Hải Châu, Đà Nẵng|HCM381920850|2029-03-24
+B00000072|296689226|Hồ Hiền Khải|09932217598|hohienkhai@hospital.local|Hải Dương|Phường Quang Trung|Số 300, Đường Phạm Hồng Thái, Phường Quang Trung, Hải Dương, Hải Dương|HCM743065167|2029-05-23
+B00000073|185137789|Đinh Hữu Tinh|08213543891|dinhhuutinh@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 266, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|BA605720607|2028-03-04
+B00000074|707332419|Đỗ Thị Kiệt|08762273651|dothikiet@hospital.local|Hải Dương|Phường Quang Trung|Số 98, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương|HP465985189|2029-05-11
+B00000075|172745368|Tạ Đình Đạo|08242046729|tadinhdao@hospital.local|Cần Thơ|Phường An Cư|Số 103, Đường 30 Tháng 4, Phường An Cư, Ninh Kiều, Cần Thơ|HD637130526|2027-11-09
+B00000076|521451186|Tạ Uyên Thành|09335876858|tauyenthanh@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 17, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|BA180208304|2028-05-30
+B00000077|404418633|Trần Uyên Phong|09999119339|tranuyenphong@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 29, Đường Võ Thị Sáu, Phường Long Bình Tân, Long Bình Tân, Biên Hòa||
+B00000078|448397324|Dương Hiền Thứ|09624171651|duonghienthu@hospital.local|Hà Nội|Phường Minh Khai|Số 21, Đường Giảng Võ, Phường Minh Khai, Hai Bà Trưng, Hà Nội|TG492619846|2028-08-21
+B00000079|877432746|Trần Quốc Kha|08378371985|tranquockha@hospital.local|Cần Thơ|Phường An Cư|Số 189, Đường Nguyễn Văn Cừ, Phường An Cư, Ninh Kiều, Cần Thơ||
+B00000080|806561490|Tạ Minh Sánh|08242559712|taminhsanh@hospital.local|Hà Nội|Phường Thái Hà|Số 307, Đường Nguyễn Văn Cừ, Phường Thái Hà, Đống Đa, Hà Nội|HP182283366|2029-04-19
+B00000081|134554421|Phan Vân Nhật|09318596988|phanvannhat@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 322, Đường Trường Sa, Phường 7, Quận 3, TP. Hồ Chí Minh|TG609547020|2027-09-29
+B00000082|123060316|Hồ Yến Tiên|08130209572|hoyentien@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 257, Đường Kinh Dương Vương, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|HP706317023|2028-11-19
+B00000083|220589000|Bùi Đình Tuý|08549080119|buidinhtuy@hospital.local|Bình Dương|Phường Đông Hòa|Số 268, Đường Phú Lợi, Phường Đông Hòa, Dĩ An, Bình Dương|BA553979376|2028-11-23
+B00000084|204627974|Bùi Yến Tiểu|08427188864|buiyentieu@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 274, Đường Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh|HD999092076|2029-05-22
+B00000085|577832351|Hoàng Hương Duy|09048801890|hoanghuongduy@hospital.local|Cần Thơ|Phường Long Hòa|Số 444, Đường Trần Văn Hoài, Phường Long Hòa, Bình Thủy, Cần Thơ|TA983934177|2029-06-01
+B00000086|713390452|Dương Hương Hợp|09719120771|duonghuonghop@hospital.local|Biên Hòa|Phường Tân Biên|Số 337, Đường Phạm Văn Thuận, Phường Tân Biên, Long Bình Tân, Biên Hòa||
+B00000087|758968408|Đặng Phương Đức|09642521789|dangphuongduc@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 414, Đường Cách Mạng Tháng Tám, Phường 8, Quận 3, TP. Hồ Chí Minh|TA930267876|2027-10-11
+B00000088|827577220|Dương Lan Luân|08421602735|duonglanluan@hospital.local|Đà Nẵng|Phường Hải Châu II|Số 489, Đường Võ Nguyên Giáp, Phường Hải Châu II, Hải Châu, Đà Nẵng|CT869226412|2028-10-29
+B00000089|769531377|Đỗ Minh Nhật|08964242541|dominhnhat@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 218, Đường Lê Thánh Tôn, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang||
+B00000090|222052802|Lê Uyên Thắm|09149099381|leuyentham@hospital.local|Hải Phòng|Phường Đông Khê|Số 166, Đường Cầu Đất, Phường Đông Khê, Ngô Quyền, Hải Phòng|NT915839240|2027-12-23
+B00000091|991223116|Nguyễn Trang Tâng|08271476072|nguyentrangtang@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 215, Đường Kinh Dương Vương, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh|BH159060505|2028-09-13
+B00000092|974956545|Tô Hà Tông|08176273598|tohatong@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 300, Đường Phạm Văn Đồng, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|BH739823609|2028-04-09
+B00000093|251055198|Dương Minh Lực|09493683642|duongminhluc@hospital.local|Cần Thơ|Phường Tân An|Số 254, Đường 30 Tháng 4, Phường Tân An, Ninh Kiều, Cần Thơ||
+B00000094|824047955|Hồ Vân Khôi|09957199724|hovankhoi@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 475, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|BH232850784|2028-09-05
+B00000095|891011381|Hồ Trang Sánh|09393481652|hotrangsanh@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 51, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|NT856130308|2029-01-04
+B00000096|422472629|Vũ Uyên Hồng|09660838184|vuuyenhong@hospital.local|Hà Nội|Phường Nghĩa Đô|Số 300, Đường Nguyễn Văn Cừ, Phường Nghĩa Đô, Cầu Giấy, Hà Nội|NT958890273|2029-02-18
+B00000097|748598515|Dương Hương Tiểu|09986923621|duonghuongtieu@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 212, Đường Nguyễn Văn Linh, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng|DA616492581|2028-11-28
+B00000098|857769447|Phan Thanh Tâng|08112708637|phanthanhtang@hospital.local|Hải Phòng|Phường An Biên|Số 261, Đường Trần Phú, Phường An Biên, Lê Chân, Hải Phòng||
+B00000099|444927009|Đặng Vân Thoái|08949852605|dangvanthoai@hospital.local|Hải Dương|Phường Tân Bình|Số 348, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương|TG607828050|2027-09-18
+B00000100|737427568|Tô Hiền Tài|08629085681|tohientai@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 48, Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng|TA932196354|2028-12-18
+B00000101|936785689|Lê Hà Hải|08222877745|lehahai@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 220, Đường Kinh Dương Vương, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|HA207446585|2028-09-09
+B00000102|541073664|Phan Thị Mỹ|08843052076|phanthimy@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 444, Đường Nguyễn Tri Phương, Phường 7, Quận 3, TP. Hồ Chí Minh||
+B00000103|745890763|Phạm Minh Thớ|09594432544|phamminhtho@hospital.local|TP. Hồ Chí Minh|Phường 5|Số 129, Đường Trường Sa, Phường 5, Quận 10, TP. Hồ Chí Minh|HA191884061|2028-12-25
+B00000104|925338689|Đinh Yến Thiệu|08878789900|dinhyenthieu@hospital.local|Biên Hòa|Phường Tân Phong|Số 423, Đường Phạm Văn Thuận, Phường Tân Phong, Trảng Dài, Biên Hòa|TA210961835|2029-02-08
+B00000105|400022590|Phạm Hương Sáu|09352391706|phamhuongsau@hospital.local|Hải Phòng|Phường An Biên|Số 388, Đường Cầu Đất, Phường An Biên, Lê Chân, Hải Phòng|HA493851768|2028-11-13
+B00000106|363831088|Vũ Uyên Luân|08066563586|vuuyenluan@hospital.local|Hà Nội|Phường Ô Chợ Dừa|Số 302, Đường Giảng Võ, Phường Ô Chợ Dừa, Đống Đa, Hà Nội||
+B00000107|375529775|Phạm Quốc Oánh|09570910939|phamquocoanh@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 158, Đường Lạch Tray, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng|BH429724053|2028-06-11
+B00000108|609191041|Đinh Đình Thêm|08088383161|dinhdinhthem@hospital.local|Bình Dương|Phường Đông Hòa|Số 483, Đường Nguyễn Trãi, Phường Đông Hòa, Dĩ An, Bình Dương|NT166675730|2027-09-10
+B00000109|378749696|Vũ Đình Thành|08892021121|vudinhthanh@hospital.local|Hải Phòng|Phường Đông Khê|Số 33, Đường Lạch Tray, Phường Đông Khê, Ngô Quyền, Hải Phòng||
+B00000110|163189997|Dương Văn Thực|08066286533|duongvanthuc@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 257, Đường Cách Mạng Tháng Tám, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh||
+B00000111|929933046|Phạm Hương Tứng|08331268122|phamhuongtung@hospital.local|TP. Hồ Chí Minh|Phường 2|Số 17, Đường Cách Mạng Tháng Tám, Phường 2, Quận 5, TP. Hồ Chí Minh||
+B00000112|205377754|Vũ Hiền Thoại|08192342270|vuhienthoai@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 346, Đường Kinh Dương Vương, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh||
+B00000113|803617853|Dương Phương Đức|09445009320|duongphuongduc@hospital.local|Hải Dương|Phường Quang Trung|Số 290, Đường Phạm Hồng Thái, Phường Quang Trung, Hải Dương, Hải Dương||
+B00000114|270982812|Đặng Anh Thực|09997838942|danganhthuc@hospital.local|Đà Nẵng|Phường Mỹ An|Số 23, Đường 2 Tháng 9, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng|BH782170477|2027-12-21
+B00000115|469551114|Lê Anh Bách|09876522369|leanhbach@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 117, Đường Kinh Dương Vương, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|DA426808419|2027-08-20
+B00000116|276174891|Nguyễn Uyên Uẩn|09349469700|nguyenuyenuan@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 334, Đường Phú Lợi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương|HCM780911400|2029-01-13
+B00000117|157432790|Dương Linh Châu|08073629222|duonglinhchau@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 144, Đường Lê Thánh Tôn, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang|BH566686093|2028-11-30
+B00000118|995251843|Đặng Hà Tâu|08541564397|danghatau@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 286, Đường Trần Phú, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang|HP288232986|2028-08-12
+B00000119|720714593|Hồ Đình Tiết|08449224668|hodinhtiet@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 120, Đường Trần Phú, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000120|737261786|Đặng Anh Sang|09892595087|danganhsang@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 431, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|BA665991624|2027-07-25
+B00000121|541715107|Nguyễn Hằng Tuấn|08113904431|nguyenhangtuan@hospital.local|Bình Dương|Phường Phú Cường|Số 404, Đường Nguyễn Trãi, Phường Phú Cường, Thủ Dầu Một, Bình Dương|BH365214768|2027-07-24
+B00000122|437044162|Đỗ Vân Thê|08147838869|dovanthe@hospital.local|Cần Thơ|Phường An Khánh|Số 485, Đường Nguyễn Văn Cừ, Phường An Khánh, Ninh Kiều, Cần Thơ|HD603120130|2028-08-01
+B00000123|627266496|Vũ Lan An|08541099105|vulanan@hospital.local|Cần Thơ|Phường An Thới|Số 210, Đường Nguyễn Văn Cừ, Phường An Thới, Bình Thủy, Cần Thơ|CT560019465|2029-01-11
+B00000124|247321449|Dương Yến Thước|09050106101|duongyenthuoc@hospital.local|Hà Nội|Phường Hàng Bồ|Số 492, Đường Láng, Phường Hàng Bồ, Hoàn Kiếm, Hà Nội|TG907467706|2028-08-06
+B00000125|278778957|Hoàng Vân Châu|09260872554|hoangvanchau@hospital.local|Biên Hòa|Phường Tân Biên|Số 45, Đường Võ Thị Sáu, Phường Tân Biên, Long Bình Tân, Biên Hòa|CT229435859|2028-02-14
+B00000126|310287729|Dương Minh Thoát|08412750335|duongminhthoat@hospital.local|Biên Hòa|Phường An Bình|Số 186, Đường Đồng Khởi, Phường An Bình, Long Bình Tân, Biên Hòa||
+B00000127|675442471|Hoàng Vân Tứng|08224552316|hoangvantung@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 482, Đường 30 Tháng 4, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|BH678255203|2027-06-19
+B00000128|550608483|Tạ Trang Thong|09421167604|tatrangthong@hospital.local|TP. Hồ Chí Minh|Phường 14|Số 419, Đường Cách Mạng Tháng Tám, Phường 14, Quận 10, TP. Hồ Chí Minh|DN540799367|2028-08-11
+B00000129|693373099|Lê Thị Tương|09850930747|lethituong@hospital.local|TP. Hồ Chí Minh|Phường 5|Số 77, Đường Lê Văn Sỹ, Phường 5, Quận 10, TP. Hồ Chí Minh|CT736012849|2028-08-28
+B00000130|658795818|Hoàng Vân Tiết|09559130801|hoangvantiet@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 31, Đường Kinh Dương Vương, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|HP189554824|2029-05-03
+B00000131|839213922|Tạ Anh Toàn|09441534192|taanhtoan@hospital.local|Hải Phòng|Phường Kênh Dương|Số 340, Đường Trần Phú, Phường Kênh Dương, Lê Chân, Hải Phòng|HD609472061|2029-05-09
+B00000132|495939374|Vũ Uyên Thếp|08089004151|vuuyenthep@hospital.local|Đà Nẵng|Phường Tân Chính|Số 467, Đường Võ Nguyên Giáp, Phường Tân Chính, Thanh Khê, Đà Nẵng|BH160333867|2028-12-13
+B00000133|320011838|Hoàng Minh Khải|09758952243|hoangminhkhai@hospital.local|Hải Dương|Phường Quang Trung|Số 167, Đường Nguyễn Trãi, Phường Quang Trung, Hải Dương, Hải Dương||
+B00000134|521254088|Hoàng Trang Thìn|09892899924|hoangtrangthin@hospital.local|Hải Dương|Phường Quang Trung|Số 54, Đường Phạm Hồng Thái, Phường Quang Trung, Hải Dương, Hải Dương|HA769391742|2027-10-10
+B00000135|330223214|Tô Lan Oanh|09493512869|tolanoanh@hospital.local|Biên Hòa|Phường An Bình|Số 362, Đường Đồng Khởi, Phường An Bình, Long Bình Tân, Biên Hòa|BH685843115|2029-06-17
+B00000136|841406719|Phạm Trang Đạt|08975416288|phamtrangdat@hospital.local|Đà Nẵng|Phường Thạch Thang|Số 476, Đường Nguyễn Văn Linh, Phường Thạch Thang, Hải Châu, Đà Nẵng|DN997463274|2028-08-01
+B00000137|671502913|Lê Trang Riêng|09439066747|letrangrieng@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 335, Đường 30 Tháng 4, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|TG386643713|2029-03-26
+B00000138|591912547|Vũ Trang Tinh|09443598267|vutrangtinh@hospital.local|Hải Phòng|Phường An Dương|Số 202, Đường Cầu Đất, Phường An Dương, Lê Chân, Hải Phòng||
+B00000139|657622866|Trần Hằng Tứ|09184382640|tranhangtu@hospital.local|Bình Dương|Phường Đông Hòa|Số 158, Đường Hùng Vương, Phường Đông Hòa, Dĩ An, Bình Dương||
+B00000140|983471066|Tô Thanh Tường|08257257687|tothanhtuong@hospital.local|Hải Phòng|Phường Máy Chai|Số 447, Đường Lạch Tray, Phường Máy Chai, Ngô Quyền, Hải Phòng||
+B00000141|664339224|Đỗ Thanh Thứ|08510397829|dothanhthu@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 148, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000142|460388448|Tạ Quốc Oánh|09161827198|taquocoanh@hospital.local|Biên Hòa|Phường An Bình|Số 246, Đường Võ Thị Sáu, Phường An Bình, Long Bình Tân, Biên Hòa|BH892183285|2028-04-21
+B00000143|481667662|Tạ Anh Tuân|09229949497|taanhtuan@hospital.local|TP. Hồ Chí Minh|Phường 14|Số 320, Đường Nguyễn Tri Phương, Phường 14, Quận 10, TP. Hồ Chí Minh|DN778215749|2028-10-17
+B00000144|683243821|Bùi Vân Hưỡng|08144735964|buivanhuong@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 5, Đường Lê Thánh Tôn, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|NT263291579|2028-08-16
+B00000145|887185854|Tạ Hiền Nam|08242250026|tahiennam@hospital.local|Hải Phòng|Phường Kênh Dương|Số 26, Đường Trần Phú, Phường Kênh Dương, Lê Chân, Hải Phòng|CT710128674|2029-06-17
+B00000146|170387199|Tạ Hiền Quyền|09548151022|tahienquyen@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 248, Đường Lý Thái Tổ, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|BA142583387|2028-04-24
+B00000147|932466009|Đỗ Thị Thắn|08890124757|dothithan@hospital.local|Cần Thơ|Phường An Cư|Số 197, Đường 30 Tháng 4, Phường An Cư, Ninh Kiều, Cần Thơ||
+B00000148|835951928|Dương Hà Thưa|08683220189|duonghathua@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 170, Đường Trần Văn Hoài, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ||
+B00000149|218208312|Nguyễn Yến Thắn|09221432116|nguyenyenthan@hospital.local|Hà Nội|Phường Láng Thượng|Số 337, Đường Bưởi, Phường Láng Thượng, Đống Đa, Hà Nội||
+B00000150|968961724|Bùi Quốc Tiết|09984802903|buiquoctiet@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 301, Đường Lê Văn Sỹ, Phường 4, Quận 5, TP. Hồ Chí Minh|BA973513340|2027-07-12
+B00000151|968486032|Hoàng Hữu Thột|09268712535|hoanghuuthot@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 443, Đường Phú Lợi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000152|732437503|Hoàng Lan Rạng|09251612301|hoanglanrang@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 121, Đường 2 Tháng 9, Phường Hòa Khê, Thanh Khê, Đà Nẵng|HCM813764769|2029-01-04
+B00000153|652436165|Hồ Hương Thông|09920069810|hohuongthong@hospital.local|Hải Dương|Phường Tân Bình|Số 176, Đường Phạm Ngũ Lão, Phường Tân Bình, Hải Dương, Hải Dương|HCM322672780|2028-10-14
+B00000154|564465470|Tô Quốc Hào|08466413414|toquochao@hospital.local|Bình Dương|Phường Đông Hòa|Số 445, Đường Hùng Vương, Phường Đông Hòa, Dĩ An, Bình Dương||
+B00000155|933854263|Nguyễn Anh Sơn|09878750636|nguyenanhson@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 488, Đường Nguyễn Văn Linh, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng||
+B00000156|701826494|Nguyễn Phương Thích|09715980352|nguyenphuongthich@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 346, Đường Nguyễn Tri Phương, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh||
+B00000157|576901831|Tạ Hương Uyêu|09375727156|tahuonguyeu@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 377, Đường Nguyễn Thị Minh Khai, Phường Tân Định, Quận 1, TP. Hồ Chí Minh|BH982896559|2028-06-07
+B00000158|184670535|Bùi Quốc Tiểu|09521075447|buiquoctieu@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 142, Đường Lê Thánh Tôn, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang||
+B00000159|631284626|Tạ Uyên Đạt|08957028193|tauyendat@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 361, Đường Phú Lợi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương|HA823659935|2028-10-12
+B00000160|167950155|Hồ Thanh Sang|08576166671|hothanhsang@hospital.local|Biên Hòa|Phường Tân Biên|Số 147, Đường Phạm Văn Thuận, Phường Tân Biên, Long Bình Tân, Biên Hòa|BA229643963|2027-07-15
+B00000161|898324284|Đinh Hương Lưỡng|08841703066|dinhhuongluong@hospital.local|Hải Phòng|Phường Máy Chai|Số 381, Đường Cầu Đất, Phường Máy Chai, Ngô Quyền, Hải Phòng|DN856842263|2028-02-06
+B00000162|570493944|Vũ Trang Tâng|09052258126|vutrangtang@hospital.local|TP. Hồ Chí Minh|Phường 14|Số 91, Đường Nguyễn Thị Minh Khai, Phường 14, Quận 10, TP. Hồ Chí Minh|TG656182925|2029-01-10
+B00000163|396861086|Tạ Vân Hưỡng|08072843755|tavanhuong@hospital.local|Đà Nẵng|Phường Hòa Hải|Số 242, Đường 2 Tháng 9, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng|DA925524512|2027-10-13
+B00000164|281709929|Tô Đình Thiếm|09044866887|todinhthiem@hospital.local|TP. Hồ Chí Minh|Phường 5|Số 451, Đường Nguyễn Thị Minh Khai, Phường 5, Quận 10, TP. Hồ Chí Minh||
+B00000165|841849899|Bùi Vân Thưa|09712542298|buivanthua@hospital.local|Đà Nẵng|Phường Mỹ An|Số 377, Đường 2 Tháng 9, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng||
+B00000166|698727449|Tô Hương Phú|09621827844|tohuongphu@hospital.local|Biên Hòa|Phường Tân Phong|Số 382, Đường Phạm Văn Thuận, Phường Tân Phong, Trảng Dài, Biên Hòa|VT905570606|2028-06-23
+B00000167|942377380|Lê Hà Hồng|08471676318|lehahong@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 243, Đường Phạm Hồng Thái, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|VT865926273|2028-08-27
+B00000168|708356719|Trần Trang Thục|08955583025|trantrangthuc@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 162, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000169|603978363|Tạ Phương Tuy|09037192501|taphuongtuy@hospital.local|Biên Hòa|Phường Tân Mai|Số 357, Đường Đồng Khởi, Phường Tân Mai, Trảng Dài, Biên Hòa|HCM666835156|2029-02-02
+B00000170|601922085|Phan Hiền Úc|09043820068|phanhienuc@hospital.local|Đà Nẵng|Phường Tân Chính|Số 214, Đường Nguyễn Văn Linh, Phường Tân Chính, Thanh Khê, Đà Nẵng||
+B00000171|398724139|Lê Hiền Than|09270260460|lehienthan@hospital.local|Hà Nội|Phường Nghĩa Đô|Số 410, Đường Nguyễn Văn Cừ, Phường Nghĩa Đô, Cầu Giấy, Hà Nội|CT310580699|2028-01-08
+B00000172|721790534|Hoàng Lan Thoa|08872451107|hoanglanthoa@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 38, Đường Trần Phú, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000173|865872999|Phạm Vân Tược|09585797617|phamvantuoc@hospital.local|Biên Hòa|Phường Tân Mai|Số 251, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|BH319883625|2028-09-15
+B00000174|188196293|Lê Hương Riêng|08984459755|lehuongrieng@hospital.local|Bình Dương|Phường Phú Cường|Số 28, Đường Phú Lợi, Phường Phú Cường, Thủ Dầu Một, Bình Dương||
+B00000175|833966341|Trần Hương Hào|09017339109|tranhuonghao@hospital.local|Đà Nẵng|Phường Hải Châu I|Số 61, Đường Võ Nguyên Giáp, Phường Hải Châu I, Hải Châu, Đà Nẵng||
+B00000176|786919001|Tạ Hà Quyết|09858717854|tahaquyet@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 50, Đường Phạm Văn Đồng, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang|HD111479619|2027-07-28
+B00000177|409618064|Dương Văn Thía|09261607128|duongvanthia@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 375, Đường Lạch Tray, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000178|871240192|Tô Uyên Tín|08595570355|touyentin@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 230, Đường Võ Nguyên Giáp, Phường Hòa Khê, Thanh Khê, Đà Nẵng|CT820336023|2029-04-30
+B00000179|777370256|Đỗ Trang Nhật|08516375537|dotrangnhat@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 412, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|NT527807132|2027-09-09
+B00000180|895475178|Trần Phương Mạnh|08811892865|tranphuongmanh@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 264, Đường Nguyễn Văn Cừ, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|HA894367485|2028-12-12
+B00000181|398598984|Đặng Vân Thoát|08968449985|dangvanthoat@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 302, Đường Trần Phú, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|HCM153545567|2027-12-13
+B00000182|572011632|Nguyễn Hữu Thếp|09099771616|nguyenhuuthep@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 144, Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng|TG551261789|2028-08-17
+B00000183|946818851|Tạ Quốc Thêm|08496948197|taquocthem@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 486, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa||
+B00000184|765824052|Đặng Lan Lực|09624711823|danglanluc@hospital.local|Hà Nội|Phường Trung Tự|Số 388, Đường Trần Duy Hưng, Phường Trung Tự, Đống Đa, Hà Nội|BA116934568|2027-09-11
+B00000185|960557775|Tạ Minh Thắm|08318531429|taminhtham@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 286, Đường Nguyễn Thị Minh Khai, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh||
+B00000186|904663945|Phan Linh Khải|08392273096|phanlinhkhai@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 22, Đường Kinh Dương Vương, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|BH840795796|2027-08-31
+B00000187|715504416|Tạ Lan Ứng|08413333357|talanung@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 172, Đường Phạm Văn Thuận, Phường Long Bình Tân, Long Bình Tân, Biên Hòa||
+B00000188|197770451|Phạm Vân Oanh|08149988781|phamvanoanh@hospital.local|Hải Phòng|Phường Máy Chai|Số 359, Đường Cầu Đất, Phường Máy Chai, Ngô Quyền, Hải Phòng||
+B00000189|393534771|Phan Đình Phong|09479684724|phandinhphong@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 454, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|DN892876157|2027-12-22
+B00000190|699912077|Dương Minh Thước|08738104468|duongminhthuoc@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 10, Đường Nguyễn Thị Minh Khai, Phường 4, Quận 5, TP. Hồ Chí Minh|HD846716783|2028-07-09
+B00000191|499119414|Tô Văn Kiệt|08918662092|tovankiet@hospital.local|Biên Hòa|Phường An Bình|Số 174, Đường Võ Thị Sáu, Phường An Bình, Long Bình Tân, Biên Hòa|CT383806693|2028-08-22
+B00000192|258600454|Đặng Hiền Phúc|09040324913|danghienphuc@hospital.local|Hải Phòng|Phường Máy Chai|Số 76, Đường Trần Phú, Phường Máy Chai, Ngô Quyền, Hải Phòng||
+B00000193|634957630|Hồ Hà Nhanh|08332477541|hohanhanh@hospital.local|Cần Thơ|Phường An Khánh|Số 229, Đường 30 Tháng 4, Phường An Khánh, Ninh Kiều, Cần Thơ|BH110126479|2028-11-27
+B00000194|722628353|Vũ Phương Tây|08038742490|vuphuongtay@hospital.local|Đà Nẵng|Phường Tân Chính|Số 315, Đường Hoàng Sa, Phường Tân Chính, Thanh Khê, Đà Nẵng|CT285647227|2029-02-02
+B00000195|953086189|Trần Đình Hải|08711731759|trandinhhai@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 361, Đường Nguyễn Tri Phương, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh||
+B00000196|792908216|Tô Linh Đạt|09192008455|tolinhdat@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 404, Đường Phạm Văn Đồng, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang||
+B00000197|371912867|Bùi Lan Tiểu|09225589914|builantieu@hospital.local|Cần Thơ|Phường Long Hòa|Số 299, Đường Trần Văn Hoài, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000198|810921192|Nguyễn Văn Sĩ|09516913266|nguyenvansi@hospital.local|Hải Phòng|Phường Kênh Dương|Số 77, Đường Lạch Tray, Phường Kênh Dương, Lê Chân, Hải Phòng||
+B00000199|611219012|Trần Hiền Hải|09960485236|tranhienhai@hospital.local|Hà Nội|Phường Dịch Vọng|Số 213, Đường Giảng Võ, Phường Dịch Vọng, Cầu Giấy, Hà Nội|HP702827804|2028-10-20
+B00000200|183718610|Tạ Linh Thiệu|08289582949|talinhthieu@hospital.local|Cần Thơ|Phường An Khánh|Số 6, Đường 30 Tháng 4, Phường An Khánh, Ninh Kiều, Cần Thơ|CT716183934|2027-12-29
+B00000201|179780859|Vũ Linh Túng|09523752880|vulinhtung@hospital.local|Hà Nội|Phường Ô Chợ Dừa|Số 397, Đường Giảng Võ, Phường Ô Chợ Dừa, Đống Đa, Hà Nội||
+B00000202|147840630|Hoàng Khánh Tứng|08027004313|hoangkhanhtung@hospital.local|Đà Nẵng|Phường Mỹ An|Số 212, Đường Võ Nguyên Giáp, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng|HP839756042|2029-03-03
+B00000203|665300894|Vũ Quốc Tâm|09420058497|vuquoctam@hospital.local|Hà Nội|Phường Hàng Gai|Số 416, Đường Nguyễn Văn Cừ, Phường Hàng Gai, Hoàn Kiếm, Hà Nội||
+B00000204|503555846|Đinh Hà Thái|08137697842|dinhhathai@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 168, Đường Nguyễn Văn Linh, Phường Hòa Khê, Thanh Khê, Đà Nẵng|TG164031222|2028-01-07
+B00000205|342410462|Tạ Vân Ninh|09137535001|tavanninh@hospital.local|Hải Phòng|Phường An Biên|Số 202, Đường Lạch Tray, Phường An Biên, Lê Chân, Hải Phòng||
+B00000206|395850941|Trần Quốc Phú|08142486702|tranquocphu@hospital.local|Bình Dương|Phường Phú Lợi|Số 148, Đường Nguyễn Trãi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|TA668346102|2028-06-18
+B00000207|787044312|Phạm Khánh Ứng|09276482395|phamkhanhung@hospital.local|Cần Thơ|Phường An Thới|Số 93, Đường 30 Tháng 4, Phường An Thới, Bình Thủy, Cần Thơ|BH253328385|2028-06-14
+B00000208|844738185|Phạm Linh Uyển|08828999884|phamlinhuyen@hospital.local|Đà Nẵng|Phường Hòa Hải|Số 367, Đường Nguyễn Văn Linh, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng|HD827093442|2028-09-19
+B00000209|281772435|Phan Vân Lộc|08038266039|phanvanloc@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 134, Đường Võ Thị Sáu, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|BH922127776|2028-12-14
+B00000210|190141108|Dương Lan Thước|08960661241|duonglanthuoc@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 480, Đường Lê Văn Sỹ, Phường Tân Định, Quận 1, TP. Hồ Chí Minh|BH112597104|2028-10-19
+B00000211|901004785|Hoàng Quốc Lộc|08232106737|hoangquocloc@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 417, Đường Lê Thánh Tôn, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang|HA725902144|2028-03-06
+B00000212|690822371|Lê Lan Thiếm|08772558953|lelanthiem@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 199, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|HP709036206|2028-04-25
+B00000213|485857242|Dương Lan Uý|09451981776|duonglanuy@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 196, Đường Trường Sa, Phường 7, Quận 3, TP. Hồ Chí Minh|HD987852832|2028-10-25
+B00000214|669009438|Hồ Quốc Hồng|09381725683|hoquochong@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 226, Đường Nguyễn Văn Cừ, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|HCM217491322|2027-08-22
+B00000215|458538826|Lê Yến Quyền|08223345854|leyenquyen@hospital.local|Hải Phòng|Phường An Dương|Số 288, Đường Cầu Đất, Phường An Dương, Lê Chân, Hải Phòng|BH179593520|2027-11-24
+B00000216|530560689|Bùi Hữu Tuệ|09392883356|buihuutue@hospital.local|Hải Phòng|Phường Đông Khê|Số 1, Đường Trần Phú, Phường Đông Khê, Ngô Quyền, Hải Phòng|DN456034146|2027-10-10
+B00000217|687605018|Nguyễn Linh Thong|09979229090|nguyenlinhthong@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 121, Đường Nguyễn Văn Linh, Phường Hòa Khê, Thanh Khê, Đà Nẵng|NT481235625|2028-09-03
+B00000218|835211317|Tô Uyên Tứng|08311293817|touyentung@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 86, Đường Phạm Văn Thuận, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|TA186737673|2027-08-10
+B00000219|422893773|Lê Thanh Tạo|08261752056|lethanhtao@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 5, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000220|692564632|Nguyễn Uyên Tiếu|09887420352|nguyenuyentieu@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 392, Đường Cách Mạng Tháng Tám, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh||
+B00000221|431013527|Bùi Uyên Tây|09356582797|buiuyentay@hospital.local|Hải Phòng|Phường Kênh Dương|Số 160, Đường Cầu Đất, Phường Kênh Dương, Lê Chân, Hải Phòng||
+B00000222|440682214|Lê Thanh Tuệ|09379639088|lethanhtue@hospital.local|Hải Dương|Phường Tân Bình|Số 308, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương|BA431600730|2028-05-23
+B00000223|988367556|Hồ Vân Tuệ|08729755438|hovantue@hospital.local|Hải Phòng|Phường Kênh Dương|Số 256, Đường Trần Phú, Phường Kênh Dương, Lê Chân, Hải Phòng||
+B00000224|547968271|Vũ Hữu Sánh|08320545393|vuhuusanh@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 149, Đường Nguyễn Thị Minh Khai, Phường 8, Quận 3, TP. Hồ Chí Minh|HA429761753|2027-12-02
+B00000225|294486006|Đinh Quốc Phúc|09510522816|dinhquocphuc@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 61, Đường Phạm Văn Đồng, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|HCM877130517|2029-02-07
+B00000226|572474750|Đỗ Yến Thắm|09211087301|doyentham@hospital.local|Hải Phòng|Phường An Biên|Số 435, Đường Cầu Đất, Phường An Biên, Lê Chân, Hải Phòng|BH753260968|2028-01-14
+B00000227|421066531|Đỗ Hương Tạp|09416733242|dohuongtap@hospital.local|Hải Phòng|Phường Máy Chai|Số 138, Đường Cầu Đất, Phường Máy Chai, Ngô Quyền, Hải Phòng|CT718225530|2027-10-17
+B00000228|221129459|Đỗ Vân Duy|09646206922|dovanduy@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 226, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|DA431364931|2029-04-21
+B00000229|408184534|Đỗ Lan Lực|09575243620|dolanluc@hospital.local|Biên Hòa|Phường Tân Phong|Số 174, Đường Đồng Khởi, Phường Tân Phong, Trảng Dài, Biên Hòa|HD139152523|2027-06-20
+B00000230|310312748|Dương Yến Thục|09393259681|duongyenthuc@hospital.local|Hải Phòng|Phường An Dương|Số 211, Đường Trần Phú, Phường An Dương, Lê Chân, Hải Phòng|TA438033460|2028-01-28
+B00000231|127850849|Phan Hương Toàn|08194255392|phanhuongtoan@hospital.local|Cần Thơ|Phường Tân An|Số 358, Đường Trần Văn Hoài, Phường Tân An, Ninh Kiều, Cần Thơ|HD514421033|2027-11-13
+B00000232|698970727|Phan Quốc Phú|08927134125|phanquocphu@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 296, Đường Trường Sa, Phường Tân Định, Quận 1, TP. Hồ Chí Minh|TG885663932|2027-07-13
+B00000233|604472130|Bùi Quốc Tín|08865677175|buiquoctin@hospital.local|Hải Phòng|Phường Đông Khê|Số 210, Đường Trần Phú, Phường Đông Khê, Ngô Quyền, Hải Phòng|TA379634501|2028-03-12
+B00000234|804889321|Tô Anh Ly|09693710063|toanhly@hospital.local|Hà Nội|Phường Thanh Nhàn|Số 43, Đường Nguyễn Văn Cừ, Phường Thanh Nhàn, Hai Bà Trưng, Hà Nội|DN275258873|2028-05-13
+B00000235|545520281|Đỗ Quốc Tâm|08670650683|doquoctam@hospital.local|Hải Phòng|Phường Đông Khê|Số 214, Đường Trần Phú, Phường Đông Khê, Ngô Quyền, Hải Phòng|BA786439339|2028-03-11
+B00000236|684102457|Phan Hiền Phú|09590434432|phanhienphu@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 120, Đường Lê Văn Sỹ, Phường 4, Quận 5, TP. Hồ Chí Minh|HCM544954532|2028-07-14
+B00000237|687265968|Hoàng Hữu Phước|08564207993|hoanghuuphuoc@hospital.local|Bình Dương|Phường Tân Bình|Số 95, Đường Hùng Vương, Phường Tân Bình, Dĩ An, Bình Dương||
+B00000238|948954443|Hoàng Hương Thắn|09899324404|hoanghuongthan@hospital.local|Hà Nội|Phường Vĩnh Tuy|Số 173, Đường Nguyễn Văn Cừ, Phường Vĩnh Tuy, Hai Bà Trưng, Hà Nội|HCM945060114|2028-10-31
+B00000239|261523164|Đinh Văn Túc|09193803774|dinhvantuc@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 100, Đường Cách Mạng Tháng Tám, Phường 8, Quận 3, TP. Hồ Chí Minh||
+B00000240|537980252|Trần Văn Kha|09398363262|tranvankha@hospital.local|Bình Dương|Phường Đông Hòa|Số 333, Đường Hùng Vương, Phường Đông Hòa, Dĩ An, Bình Dương|TA143968990|2029-02-17
+B00000241|935625902|Trần Uyên Thiếm|08319043641|tranuyenthiem@hospital.local|Đà Nẵng|Phường Hòa Hải|Số 437, Đường Võ Nguyên Giáp, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng||
+B00000242|897235829|Phan Khánh Chiến|09726337734|phankhanhchien@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 456, Đường Phạm Hồng Thái, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|DN818424728|2029-01-17
+B00000243|800580577|Trần Linh Khôi|09434371792|tranlinhkhoi@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 264, Đường Nguyễn Văn Linh, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng|BA137199554|2028-01-27
+B00000244|173049125|Đỗ Quốc Thước|09572547134|doquocthuoc@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 38, Đường Trần Phú, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang||
+B00000245|488509089|Vũ Quốc Úc|08721525179|vuquocuc@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 104, Đường Lê Văn Sỹ, Phường 7, Quận 3, TP. Hồ Chí Minh|VT804128105|2027-12-11
+B00000246|283026196|Đinh Lan Uyển|09713333171|dinhlanuyen@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 362, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh||
+B00000247|536380833|Đinh Khánh Hồng|08823545091|dinhkhanhhong@hospital.local|TP. Hồ Chí Minh|Phường 14|Số 235, Đường Trường Sa, Phường 14, Quận 10, TP. Hồ Chí Minh|TG673511196|2029-05-31
+B00000248|971947126|Phan Văn Thinh|09365844253|phanvanthinh@hospital.local|Đà Nẵng|Phường Thạch Thang|Số 13, Đường 2 Tháng 9, Phường Thạch Thang, Hải Châu, Đà Nẵng|CT524695260|2028-08-20
+B00000249|408649313|Phan Đình Thông|08332485269|phandinhthong@hospital.local|Hải Phòng|Phường Máy Chai|Số 81, Đường Cầu Đất, Phường Máy Chai, Ngô Quyền, Hải Phòng|DA403362147|2027-07-15
+B00000250|309948693|Dương Minh Thà|09385448855|duongminhtha@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 488, Đường Nguyễn Văn Cừ, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ||
+B00000251|357063111|Bùi Lan Kiên|09553341619|builankien@hospital.local|Hà Nội|Phường Thái Hà|Số 186, Đường Giảng Võ, Phường Thái Hà, Đống Đa, Hà Nội||
+B00000252|722163411|Phan Yến Thiệp|08360917793|phanyenthiep@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 408, Đường Phạm Hồng Thái, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000253|147587844|Đinh Lan Rên|09483208148|dinhlanren@hospital.local|Hải Dương|Phường Tân Bình|Số 489, Đường Phạm Ngũ Lão, Phường Tân Bình, Hải Dương, Hải Dương|VT369795174|2029-04-21
+B00000254|338505572|Vũ Trang Mạnh|08469735640|vutrangmanh@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 330, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh||
+B00000255|415640758|Phạm Văn Uẩn|08736549739|phamvanuan@hospital.local|Hải Dương|Phường Quang Trung|Số 376, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương||
+B00000256|933509854|Dương Hiền Khôi|09730426080|duonghienkhoi@hospital.local|Cần Thơ|Phường An Thới|Số 381, Đường Nguyễn Văn Cừ, Phường An Thới, Bình Thủy, Cần Thơ|HP257534141|2029-03-13
+B00000257|444212550|Phạm Vân Mỹ|09246295253|phamvanmy@hospital.local|Đà Nẵng|Phường Thạch Thang|Số 182, Đường 2 Tháng 9, Phường Thạch Thang, Hải Châu, Đà Nẵng||
+B00000258|700864515|Đặng Anh Thoại|09738249155|danganhthoai@hospital.local|Đà Nẵng|Phường Tam Thuận|Số 27, Đường Võ Nguyên Giáp, Phường Tam Thuận, Thanh Khê, Đà Nẵng|NT512110125|2028-06-13
+B00000259|156759865|Lê Vân Thoa|09065049521|levanthoa@hospital.local|Hà Nội|Phường Dịch Vọng Hậu|Số 486, Đường Trần Duy Hưng, Phường Dịch Vọng Hậu, Cầu Giấy, Hà Nội|NT549807866|2028-09-30
+B00000260|559588972|Nguyễn Vân Uy|09429948961|nguyenvanuy@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 409, Đường Võ Thị Sáu, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|DA856500902|2029-06-13
+B00000261|762165280|Hoàng Hà Nước|09865635831|hoanghanuoc@hospital.local|Cần Thơ|Phường An Khánh|Số 1, Đường Nguyễn Văn Cừ, Phường An Khánh, Ninh Kiều, Cần Thơ||
+B00000262|603235167|Phan Linh Duy|09934546245|phanlinhduy@hospital.local|Bình Dương|Phường Phú Lợi|Số 261, Đường Hùng Vương, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|BH946393091|2028-10-29
+B00000263|265463584|Bùi Trang Thục|08364392521|buitrangthuc@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 296, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|HCM742034893|2027-12-12
+B00000264|581799866|Phan Hữu Thớ|09690314455|phanhuutho@hospital.local|Đà Nẵng|Phường Thạch Thang|Số 291, Đường Hoàng Sa, Phường Thạch Thang, Hải Châu, Đà Nẵng|HP342781647|2028-04-09
+B00000265|691181627|Phan Đình Toàng|08289276274|phandinhtoang@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 437, Đường Nguyễn Thị Minh Khai, Phường 4, Quận 5, TP. Hồ Chí Minh|CT520252559|2029-05-09
+B00000266|978276523|Phan Thanh Uy|08125121804|phanthanhuy@hospital.local|Hải Phòng|Phường Đông Khê|Số 322, Đường Cầu Đất, Phường Đông Khê, Ngô Quyền, Hải Phòng|DA547126400|2029-05-28
+B00000267|398335343|Tô Hằng Uyên|09728766046|tohanguyen@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 172, Đường Lê Thánh Tôn, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|BA303313255|2029-03-28
+B00000268|396836187|Tô Thanh Sở|08885549769|tothanhso@hospital.local|Hà Nội|Phường Thanh Nhàn|Số 357, Đường Láng, Phường Thanh Nhàn, Hai Bà Trưng, Hà Nội|HCM863386827|2027-10-14
+B00000269|301067058|Vũ Lan Hồng|08469355870|vulanhong@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 497, Đường Lê Thánh Tôn, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|TG590651165|2027-06-30
+B00000270|227289524|Nguyễn Anh Thiếm|09981097145|nguyenanhthiem@hospital.local|Bình Dương|Phường Đông Hòa|Số 477, Đường Phú Lợi, Phường Đông Hòa, Dĩ An, Bình Dương||
+B00000271|649296736|Đinh Hiền Thắn|09094213763|dinhhienthan@hospital.local|Hải Phòng|Phường An Dương|Số 294, Đường Cầu Đất, Phường An Dương, Lê Chân, Hải Phòng||
+B00000272|650960946|Nguyễn Khánh Tương|09269378248|nguyenkhanhtuong@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 286, Đường Kinh Dương Vương, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh|DN519672683|2028-04-15
+B00000273|753645484|Đỗ Phương Uy|08764801260|dophuonguy@hospital.local|Hà Nội|Phường Hàng Trống|Số 494, Đường Bưởi, Phường Hàng Trống, Hoàn Kiếm, Hà Nội|VT575301369|2028-08-29
+B00000274|856026560|Vũ Thanh Kiên|09886141892|vuthanhkien@hospital.local|Hải Dương|Phường Tân Bình|Số 406, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương|BH281722611|2028-02-17
+B00000275|857764966|Phạm Hữu Tinh|09453470242|phamhuutinh@hospital.local|Đà Nẵng|Phường Tân Chính|Số 161, Đường Võ Nguyên Giáp, Phường Tân Chính, Thanh Khê, Đà Nẵng||
+B00000276|506920037|Đặng Phương Thột|08212761266|dangphuongthot@hospital.local|Đà Nẵng|Phường Tam Thuận|Số 139, Đường 2 Tháng 9, Phường Tam Thuận, Thanh Khê, Đà Nẵng|HD211465171|2027-08-08
+B00000277|883021682|Dương Hương Uyêu|09733439078|duonghuonguyeu@hospital.local|Hà Nội|Phường Phúc Tân|Số 447, Đường Bưởi, Phường Phúc Tân, Hoàn Kiếm, Hà Nội||
+B00000278|997829756|Phạm Thị Thúy|09085654446|phamthithuy@hospital.local|Đà Nẵng|Phường Tân Chính|Số 473, Đường 2 Tháng 9, Phường Tân Chính, Thanh Khê, Đà Nẵng|NT536476884|2028-02-02
+B00000279|531046643|Hoàng Văn Phương|09289286919|hoangvanphuong@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 144, Đường Lý Thái Tổ, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|DA459669288|2028-02-01
+B00000280|262013257|Phạm Yến Nhân|08376125424|phamyennhan@hospital.local|Biên Hòa|Phường Tân Phong|Số 270, Đường Võ Thị Sáu, Phường Tân Phong, Trảng Dài, Biên Hòa|DA334276329|2027-09-15
+B00000281|924752114|Hồ Khánh Tứng|09143379214|hokhanhtung@hospital.local|Cần Thơ|Phường An Thới|Số 224, Đường 30 Tháng 4, Phường An Thới, Bình Thủy, Cần Thơ|CT505215224|2028-09-01
+B00000282|605465928|Đinh Thị Lương|09995631434|dinhthiluong@hospital.local|Biên Hòa|Phường Tân Phong|Số 229, Đường Đồng Khởi, Phường Tân Phong, Trảng Dài, Biên Hòa||
+B00000283|121608227|Lê Minh Thoa|08823233865|leminhthoa@hospital.local|Hải Phòng|Phường An Dương|Số 372, Đường Lạch Tray, Phường An Dương, Lê Chân, Hải Phòng||
+B00000284|540553546|Đặng Thị Toàng|09489049979|dangthitoang@hospital.local|Hải Phòng|Phường Máy Chai|Số 2, Đường Lạch Tray, Phường Máy Chai, Ngô Quyền, Hải Phòng|TG687521212|2027-11-23
+B00000285|301758783|Tạ Yến Thêm|08411227117|tayenthem@hospital.local|Hải Dương|Phường Tân Bình|Số 30, Đường Nguyễn Trãi, Phường Tân Bình, Hải Dương, Hải Dương||
+B00000286|516142577|Tạ Hương Thứ|08572131321|tahuongthu@hospital.local|Hải Dương|Phường Tân Bình|Số 252, Đường Nguyễn Trãi, Phường Tân Bình, Hải Dương, Hải Dương|DN652133509|2029-03-18
+B00000287|801604069|Vũ Minh Uy|09156169085|vuminhuy@hospital.local|Biên Hòa|Phường An Bình|Số 269, Đường Đồng Khởi, Phường An Bình, Long Bình Tân, Biên Hòa||
+B00000288|788790637|Vũ Uyên Sánh|08232341566|vuuyensanh@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 427, Đường Phú Lợi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương|DN677254152|2027-07-13
+B00000289|197563096|Tô Yến Than|08523574205|toyenthan@hospital.local|Đà Nẵng|Phường Hải Châu I|Số 461, Đường Nguyễn Văn Linh, Phường Hải Châu I, Hải Châu, Đà Nẵng|CT579825222|2028-12-05
+B00000290|741213763|Hồ Khánh Tiếp|08014137043|hokhanhtiep@hospital.local|Hải Dương|Phường Tân Bình|Số 298, Đường Phạm Ngũ Lão, Phường Tân Bình, Hải Dương, Hải Dương|BH747246852|2028-11-07
+B00000291|990647593|Nguyễn Yến Thực|09094826085|nguyenyenthuc@hospital.local|Hà Nội|Phường Phúc Tân|Số 318, Đường Nguyễn Văn Cừ, Phường Phúc Tân, Hoàn Kiếm, Hà Nội|TG509123563|2028-03-24
+B00000292|868512876|Dương Trang Thước|09814247639|duongtrangthuoc@hospital.local|Bình Dương|Phường Phú Cường|Số 16, Đường Phú Lợi, Phường Phú Cường, Thủ Dầu Một, Bình Dương|CT247634126|2028-02-10
+B00000293|807281969|Đặng Trang Nhân|08881252198|dangtrangnhan@hospital.local|Đà Nẵng|Phường Hòa Hải|Số 294, Đường Hoàng Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng||
+B00000294|125591207|Đỗ Hằng Thiệp|08871407990|dohangthiep@hospital.local|Hải Phòng|Phường An Biên|Số 55, Đường Cầu Đất, Phường An Biên, Lê Chân, Hải Phòng||
+B00000295|968900875|Phan Hằng Thạc|09864202610|phanhangthac@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 444, Đường Lê Thánh Tôn, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang||
+B00000296|448476473|Bùi Khánh Uẩn|09639816177|buikhanhuan@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 495, Đường Lê Thánh Tôn, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang||
+B00000297|447786139|Đặng Thị Tâng|09463725580|dangthitang@hospital.local|Biên Hòa|Phường Tân Biên|Số 302, Đường Đồng Khởi, Phường Tân Biên, Long Bình Tân, Biên Hòa|HA979964964|2028-08-13
+B00000298|963147190|Phạm Văn Tuy|09989782104|phamvantuy@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 299, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|HD146566400|2027-07-17
+B00000299|344072565|Hoàng Hà Nhật|09197163587|hoanghanhat@hospital.local|Đà Nẵng|Phường Tam Thuận|Số 470, Đường 2 Tháng 9, Phường Tam Thuận, Thanh Khê, Đà Nẵng|NT529341173|2028-03-20
+B00000300|433742405|Phan Linh Minh|09919507738|phanlinhminh@hospital.local|Bình Dương|Phường Phú Lợi|Số 378, Đường Phú Lợi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|DA885365563|2028-06-02
+B00000301|459029299|Đinh Đình Than|09151277377|dinhdinhthan@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 335, Đường Trường Sa, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh|DA467730773|2027-11-17
+B00000302|540774902|Phạm Linh Dung|09592116739|phamlinhdung@hospital.local|Hải Phòng|Phường An Dương|Số 443, Đường Lạch Tray, Phường An Dương, Lê Chân, Hải Phòng|DA698385084|2027-11-03
+B00000303|676841729|Trần Khánh Hải|08269134825|trankhanhhai@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 178, Đường Phạm Văn Đồng, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang||
+B00000304|880646890|Đặng Vân Bách|08363004213|dangvanbach@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 87, Đường Hoàng Sa, Phường Hòa Khê, Thanh Khê, Đà Nẵng||
+B00000305|191511351|Đặng Thanh Nam|08482781870|dangthanhnam@hospital.local|Biên Hòa|Phường Tân Phong|Số 135, Đường Đồng Khởi, Phường Tân Phong, Trảng Dài, Biên Hòa|TG856157229|2028-04-29
+B00000306|951816145|Đặng Hằng Thột|08371234261|danghangthot@hospital.local|Hải Phòng|Phường Máy Chai|Số 427, Đường Trần Phú, Phường Máy Chai, Ngô Quyền, Hải Phòng|BH190329843|2027-07-07
+B00000307|811101665|Hoàng Lan Uyển|09777320425|hoanglanuyen@hospital.local|Cần Thơ|Phường An Thới|Số 493, Đường Trần Văn Hoài, Phường An Thới, Bình Thủy, Cần Thơ|HD425765516|2027-10-28
+B00000308|418260605|Tô Quốc Kỳ|08232155365|toquocky@hospital.local|Bình Dương|Phường Tân Bình|Số 163, Đường Phú Lợi, Phường Tân Bình, Dĩ An, Bình Dương||
+B00000309|975479874|Bùi Trang Hùng|09815155196|buitranghung@hospital.local|Hải Phòng|Phường An Biên|Số 495, Đường Trần Phú, Phường An Biên, Lê Chân, Hải Phòng|HD425671272|2029-05-31
+B00000310|573140276|Đỗ Yến Oánh|09357935940|doyenoanh@hospital.local|Cần Thơ|Phường An Thới|Số 169, Đường Trần Văn Hoài, Phường An Thới, Bình Thủy, Cần Thơ|NT937311389|2027-08-02
+B00000311|769313888|Vũ Văn Hòa|08723549422|vuvanhoa@hospital.local|Hà Nội|Phường Phúc Tân|Số 64, Đường Láng, Phường Phúc Tân, Hoàn Kiếm, Hà Nội|HD137068526|2028-02-14
+B00000312|496094893|Trần Quốc Quyền|09986581314|tranquocquyen@hospital.local|Bình Dương|Phường Phú Lợi|Số 272, Đường Phú Lợi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương||
+B00000313|762699955|Đỗ Quốc Tiếu|08871757295|doquoctieu@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 108, Đường Trần Phú, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang||
+B00000314|738350719|Nguyễn Vân Thuận|09418001292|nguyenvanthuan@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 334, Đường Cách Mạng Tháng Tám, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh|HCM626459444|2029-05-22
+B00000315|629518102|Phạm Hằng Uy|09862317205|phamhanguy@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 363, Đường Lê Thánh Tôn, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|VT493372832|2029-03-20
+B00000316|746850521|Bùi Phương Hợp|09799856156|buiphuonghop@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 37, Đường Lê Thánh Tôn, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|HD782399440|2028-07-30
+B00000317|956415453|Phan Phương Toàn|09413517960|phanphuongtoan@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 27, Đường Nguyễn Tri Phương, Phường 7, Quận 3, TP. Hồ Chí Minh|TA418773094|2027-08-06
+B00000318|577282056|Nguyễn Vân Phi|09241230694|nguyenvanphi@hospital.local|Hải Dương|Phường Tân Bình|Số 364, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương|HD974654851|2028-02-20
+B00000319|565124784|Dương Lan Đạt|09320558645|duonglandat@hospital.local|Hà Nội|Phường Hàng Gai|Số 453, Đường Nguyễn Văn Cừ, Phường Hàng Gai, Hoàn Kiếm, Hà Nội|BA963481240|2028-09-08
+B00000320|247320129|Đặng Uyên Tín|08956659773|danguyentin@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 291, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|DN849125248|2028-11-02
+B00000321|790157069|Bùi Trang Sáu|08850145640|buitrangsau@hospital.local|Hải Dương|Phường Quang Trung|Số 465, Đường Nguyễn Trãi, Phường Quang Trung, Hải Dương, Hải Dương|BA285069516|2029-02-17
+B00000322|685437079|Tô Thanh Đức|08516808805|tothanhduc@hospital.local|Biên Hòa|Phường Tân Mai|Số 202, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|DN703973154|2028-12-12
+B00000323|738570787|Tạ Hà Uyển|09452425535|tahauyen@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 22, Đường Nguyễn Trãi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000324|647505710|Tô Minh Thương|08698450904|tominhthuong@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 115, Đường Trần Phú, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang||
+B00000325|682118477|Đặng Hữu Kỳ|09595234670|danghuuky@hospital.local|Cần Thơ|Phường An Khánh|Số 217, Đường 30 Tháng 4, Phường An Khánh, Ninh Kiều, Cần Thơ|BH773210370|2027-09-27
+B00000326|216970655|Bùi Thanh Oánh|09152678195|buithanhoanh@hospital.local|Hải Phòng|Phường An Dương|Số 288, Đường Trần Phú, Phường An Dương, Lê Chân, Hải Phòng||
+B00000327|506829977|Phan Trang Tiểu|09046540657|phantrangtieu@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 207, Đường Nguyễn Tri Phương, Phường 7, Quận 3, TP. Hồ Chí Minh|NT634408076|2028-10-14
+B00000328|660313355|Bùi Vân Thêm|08093372366|buivanthem@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 397, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|HCM880596801|2027-12-28
+B00000329|552248176|Đinh Hương Thương|08650618866|dinhhuongthuong@hospital.local|Biên Hòa|Phường Tân Phong|Số 356, Đường Phạm Văn Thuận, Phường Tân Phong, Trảng Dài, Biên Hòa|BH888277245|2028-09-16
+B00000330|947438618|Trần Hữu Tinh|08356610681|tranhuutinh@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 137, Đường Nguyễn Văn Cừ, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|DA598802336|2029-02-14
+B00000331|802294255|Phạm Đình Tự|08913026047|phamdinhtu@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 46, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|DA866196067|2028-08-23
+B00000332|452818610|Đỗ Hương Lương|09073041419|dohuongluong@hospital.local|Hà Nội|Phường Minh Khai|Số 35, Đường Trần Duy Hưng, Phường Minh Khai, Hai Bà Trưng, Hà Nội||
+B00000333|301860675|Hồ Hà Tâu|09613626369|hohatau@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 287, Đường Cách Mạng Tháng Tám, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh|TG490407689|2029-01-04
+B00000334|999390448|Bùi Khánh Thạc|09565183882|buikhanhthac@hospital.local|Bình Dương|Phường Phú Lợi|Số 33, Đường Phú Lợi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương||
+B00000335|613569775|Hồ Trang Khanh|08312954362|hotrangkhanh@hospital.local|Cần Thơ|Phường An Khánh|Số 470, Đường Nguyễn Văn Cừ, Phường An Khánh, Ninh Kiều, Cần Thơ|HD165619588|2029-06-01
+B00000336|468022549|Phan Hằng Phú|08898415635|phanhangphu@hospital.local|Cần Thơ|Phường Long Hòa|Số 298, Đường Nguyễn Văn Cừ, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000337|452094274|Trần Linh Chiến|09227029433|tranlinhchien@hospital.local|Hải Phòng|Phường Đông Khê|Số 393, Đường Lạch Tray, Phường Đông Khê, Ngô Quyền, Hải Phòng|BH525473119|2029-05-12
+B00000338|146146425|Đỗ Uyên Ninh|09078242254|douyenninh@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 409, Đường Lê Văn Sỹ, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh||
+B00000339|931742237|Bùi Đình Thứ|08926047670|buidinhthu@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 67, Đường 30 Tháng 4, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|HA995272770|2028-06-17
+B00000340|384870807|Bùi Quốc Phú|08058332157|buiquocphu@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 138, Đường Trường Sa, Phường 4, Quận 5, TP. Hồ Chí Minh|CT881687234|2029-02-16
+B00000341|218093985|Phạm Trang Khanh|08132619015|phamtrangkhanh@hospital.local|Hà Nội|Phường Thái Hà|Số 100, Đường Láng, Phường Thái Hà, Đống Đa, Hà Nội|HCM451220956|2028-04-30
+B00000342|895882388|Trần Hương Minh|08778528325|tranhuongminh@hospital.local|Hải Phòng|Phường An Biên|Số 454, Đường Trần Phú, Phường An Biên, Lê Chân, Hải Phòng|BH613658083|2027-10-03
+B00000343|827002813|Tô Uyên Dân|08118019191|touyendan@hospital.local|TP. Hồ Chí Minh|Phường Bến Nghé|Số 451, Đường Cách Mạng Tháng Tám, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh||
+B00000344|744540495|Phan Hương Dung|08855596583|phanhuongdung@hospital.local|Biên Hòa|Phường Tân Biên|Số 81, Đường Đồng Khởi, Phường Tân Biên, Long Bình Tân, Biên Hòa|BH604125919|2029-04-30
+B00000345|470797613|Tạ Phương Nam|09352150822|taphuongnam@hospital.local|Bình Dương|Phường Đông Hòa|Số 415, Đường Nguyễn Trãi, Phường Đông Hòa, Dĩ An, Bình Dương|BH744759577|2028-12-15
+B00000346|591924891|Dương Khánh Túng|09076734532|duongkhanhtung@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 372, Đường Nguyễn Thị Minh Khai, Phường Tân Định, Quận 1, TP. Hồ Chí Minh||
+B00000347|293110453|Phạm Đình Tâng|08453190000|phamdinhtang@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 307, Đường Cầu Đất, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng|TG370429742|2028-03-12
+B00000348|942246110|Nguyễn Thanh Thành|09493638037|nguyenthanhthanh@hospital.local|TP. Hồ Chí Minh|Phường 2|Số 119, Đường Nguyễn Thị Minh Khai, Phường 2, Quận 5, TP. Hồ Chí Minh|HA495198244|2027-07-19
+B00000349|182453123|Hồ Anh Đức|09737389598|hoanhduc@hospital.local|Hải Dương|Phường Tân Bình|Số 460, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương|HA513499718|2028-04-17
+B00000350|240378903|Dương Uyên Hải|09563073608|duonguyenhai@hospital.local|TP. Hồ Chí Minh|Phường 5|Số 313, Đường Trường Sa, Phường 5, Quận 10, TP. Hồ Chí Minh|TA317160465|2027-10-12
+B00000351|295852260|Nguyễn Thanh Khải|09983407886|nguyenthanhkhai@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 231, Đường Võ Thị Sáu, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|TA916379444|2028-03-22
+B00000352|725008584|Bùi Anh Thớ|08842320601|buianhtho@hospital.local|Hải Dương|Phường Tân Bình|Số 85, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương|HCM822811701|2027-11-14
+B00000353|881403267|Đặng Hương Duy|09839309474|danghuongduy@hospital.local|Bình Dương|Phường Tân Bình|Số 426, Đường Phú Lợi, Phường Tân Bình, Dĩ An, Bình Dương||
+B00000354|520110346|Tô Quốc Tớ|09091996324|toquocto@hospital.local|Cần Thơ|Phường An Khánh|Số 10, Đường Trần Văn Hoài, Phường An Khánh, Ninh Kiều, Cần Thơ||
+B00000355|443144738|Tô Khánh Tuân|09079455827|tokhanhtuan@hospital.local|Bình Dương|Phường Đông Hòa|Số 152, Đường Hùng Vương, Phường Đông Hòa, Dĩ An, Bình Dương|VT309364092|2028-04-20
+B00000356|416391011|Tô Trang Sĩ|08084079502|totrangsi@hospital.local|Biên Hòa|Phường An Bình|Số 153, Đường Phạm Văn Thuận, Phường An Bình, Long Bình Tân, Biên Hòa||
+B00000357|387077268|Đặng Thị Ứng|09122322030|dangthiung@hospital.local|Cần Thơ|Phường Tân An|Số 295, Đường Nguyễn Văn Cừ, Phường Tân An, Ninh Kiều, Cần Thơ|NT112313201|2028-06-03
+B00000358|332488868|Phạm Vân Thước|08630481849|phamvanthuoc@hospital.local|Cần Thơ|Phường Long Hòa|Số 376, Đường Nguyễn Văn Cừ, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000359|473932670|Trần Quốc Phong|08953168684|tranquocphong@hospital.local|Cần Thơ|Phường Tân An|Số 413, Đường Nguyễn Văn Cừ, Phường Tân An, Ninh Kiều, Cần Thơ|DN924886820|2028-07-18
+B00000360|579145153|Đỗ Hương Hưỡng|09270205577|dohuonghuong@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 330, Đường Phú Lợi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000361|671094261|Hoàng Phương Uẩn|08751912112|hoangphuonguan@hospital.local|Bình Dương|Phường Đông Hòa|Số 93, Đường Nguyễn Trãi, Phường Đông Hòa, Dĩ An, Bình Dương|NT189653033|2028-07-19
+B00000362|225353997|Nguyễn Trang Nhật|08717576476|nguyentrangnhat@hospital.local|Bình Dương|Phường Tân Bình|Số 106, Đường Nguyễn Trãi, Phường Tân Bình, Dĩ An, Bình Dương||
+B00000363|460464160|Dương Anh Tiết|09559718940|duonganhtiet@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 36, Đường Phạm Văn Đồng, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang|HD582076285|2028-01-15
+B00000364|709959105|Đỗ Thị Thếp|09695989838|dothithep@hospital.local|Cần Thơ|Phường An Cư|Số 448, Đường Nguyễn Văn Cừ, Phường An Cư, Ninh Kiều, Cần Thơ|HP559509850|2029-01-20
+B00000365|238849787|Tô Anh Thương|09279308678|toanhthuong@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 462, Đường Phạm Văn Đồng, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang||
+B00000366|213331170|Vũ Minh Tâm|09531507968|vuminhtam@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 201, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|VT270073521|2029-05-16
+B00000367|836783167|Dương Khánh Tường|09493064625|duongkhanhtuong@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 391, Đường Nguyễn Trãi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000368|456385329|Trần Yến Thước|08254804644|tranyenthuoc@hospital.local|TP. Hồ Chí Minh|Phường 2|Số 98, Đường Lê Văn Sỹ, Phường 2, Quận 5, TP. Hồ Chí Minh||
+B00000369|735974007|Lê Vân Ứng|08177182236|levanung@hospital.local|Biên Hòa|Phường Tân Mai|Số 234, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|DA166251144|2028-04-29
+B00000370|694916293|Lê Thị Hào|08884500319|lethihao@hospital.local|Hải Dương|Phường Quang Trung|Số 429, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương|DN743658606|2028-05-29
+B00000371|712253489|Nguyễn Uyên Tương|09637783635|nguyenuyentuong@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 353, Đường Phú Lợi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương|HCM930982737|2027-06-27
+B00000372|439329214|Đinh Hữu Khanh|08236267912|dinhhuukhanh@hospital.local|Biên Hòa|Phường Tân Phong|Số 375, Đường Phạm Văn Thuận, Phường Tân Phong, Trảng Dài, Biên Hòa|VT963187345|2027-10-18
+B00000373|319446924|Bùi Quốc Ninh|08188302409|buiquocninh@hospital.local|Bình Dương|Phường Tân Bình|Số 373, Đường Nguyễn Trãi, Phường Tân Bình, Dĩ An, Bình Dương|BH212123644|2028-10-25
+B00000374|308817928|Hoàng Yến Tú|09674748099|hoangyentu@hospital.local|Biên Hòa|Phường Tân Mai|Số 234, Đường Đồng Khởi, Phường Tân Mai, Trảng Dài, Biên Hòa||
+B00000375|396294639|Dương Trang Sinh|08816543402|duongtrangsinh@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 98, Đường Trần Phú, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|BA224085411|2028-03-16
+B00000376|511072982|Tô Phương Thục|09719433126|tophuongthuc@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 406, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh||
+B00000377|848015900|Tô Thị Tiên|09470842097|tothitien@hospital.local|Hải Phòng|Phường Máy Chai|Số 143, Đường Lạch Tray, Phường Máy Chai, Ngô Quyền, Hải Phòng||
+B00000378|664180227|Đỗ Thanh Sang|09425201362|dothanhsang@hospital.local|Bình Dương|Phường Đông Hòa|Số 403, Đường Nguyễn Trãi, Phường Đông Hòa, Dĩ An, Bình Dương|BH175555867|2027-10-09
+B00000379|472231472|Trần Uyên Oanh|09343569282|tranuyenoanh@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 109, Đường Lạch Tray, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000380|705127106|Nguyễn Văn Thạc|08031341046|nguyenvanthac@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 444, Đường Nguyễn Trãi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000381|232809371|Nguyễn Anh Tuấn|08663653930|nguyenanhtuan@hospital.local|Biên Hòa|Phường Tân Mai|Số 286, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|HP653726731|2027-08-26
+B00000382|461717831|Nguyễn Hằng Thắm|09918910564|nguyenhangtham@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 44, Đường Lê Thánh Tôn, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|BH581661133|2029-01-27
+B00000383|502793930|Hồ Khánh Toàn|09588918307|hokhanhtoan@hospital.local|Cần Thơ|Phường An Thới|Số 443, Đường Nguyễn Văn Cừ, Phường An Thới, Bình Thủy, Cần Thơ|HP871150935|2028-05-12
+B00000384|566158884|Hoàng Trang Ly|08175240422|hoangtrangly@hospital.local|Hà Nội|Phường Quan Hoa|Số 414, Đường Giảng Võ, Phường Quan Hoa, Cầu Giấy, Hà Nội|DA587068187|2028-08-06
+B00000385|549183954|Đỗ Hằng Tây|08439902653|dohangtay@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 358, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|CT436073674|2028-03-27
+B00000386|292759927|Đinh Quốc Thiệp|09445004305|dinhquocthiep@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 432, Đường Phạm Hồng Thái, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|DN460585419|2028-09-05
+B00000387|208062872|Vũ Thanh Tạp|09254179144|vuthanhtap@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 4, Đường 2 Tháng 9, Phường Hòa Khê, Thanh Khê, Đà Nẵng|HA578154267|2028-07-17
+B00000388|145649343|Vũ Thanh Cảnh|09060192975|vuthanhcanh@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 434, Đường Cách Mạng Tháng Tám, Phường 4, Quận 5, TP. Hồ Chí Minh|TA685837934|2027-11-20
+B00000389|739681712|Hồ Thanh Hào|09932663244|hothanhhao@hospital.local|Hà Nội|Phường Dịch Vọng|Số 377, Đường Bưởi, Phường Dịch Vọng, Cầu Giấy, Hà Nội|BH687472573|2028-12-22
+B00000390|855911277|Nguyễn Hữu Tú|08240576980|nguyenhuutu@hospital.local|Hải Phòng|Phường Máy Chai|Số 188, Đường Cầu Đất, Phường Máy Chai, Ngô Quyền, Hải Phòng|DN502418070|2027-12-23
+B00000391|393119583|Đặng Yến Thột|08744375917|dangyenthot@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 244, Đường Phú Lợi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000392|303422470|Tạ Lan Thía|08713949298|talanthia@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 241, Đường Cách Mạng Tháng Tám, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh|HA584482416|2027-10-08
+B00000393|934664139|Hồ Thanh Hải|08746857527|hothanhhai@hospital.local|Biên Hòa|Phường An Bình|Số 439, Đường Võ Thị Sáu, Phường An Bình, Long Bình Tân, Biên Hòa||
+B00000394|268073048|Phan Anh Tinh|08581822839|phananhtinh@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 482, Đường 2 Tháng 9, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng|TG730699426|2027-11-18
+B00000395|529497573|Bùi Lan Hợp|09512218744|builanhop@hospital.local|TP. Hồ Chí Minh|Phường 14|Số 488, Đường Nguyễn Tri Phương, Phường 14, Quận 10, TP. Hồ Chí Minh|BH392580758|2027-08-19
+B00000396|224290300|Vũ Thanh Thía|09288337409|vuthanhthia@hospital.local|Đà Nẵng|Phường Tam Thuận|Số 326, Đường Hoàng Sa, Phường Tam Thuận, Thanh Khê, Đà Nẵng|CT544153362|2028-08-13
+B00000397|643907873|Phạm Minh Dân|08455319256|phamminhdan@hospital.local|TP. Hồ Chí Minh|Phường 14|Số 191, Đường Nguyễn Tri Phương, Phường 14, Quận 10, TP. Hồ Chí Minh||
+B00000398|999250439|Hồ Khánh Hồng|09843987364|hokhanhhong@hospital.local|Hải Phòng|Phường Máy Chai|Số 362, Đường Lạch Tray, Phường Máy Chai, Ngô Quyền, Hải Phòng|HP669698500|2028-06-26
+B00000399|855626380|Trần Hà Tứ|08486046691|tranhatu@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 147, Đường Cách Mạng Tháng Tám, Phường 8, Quận 3, TP. Hồ Chí Minh|HA591398437|2028-05-12
+B00000400|364997486|Đỗ Vân Nông|09788780180|dovannong@hospital.local|Bình Dương|Phường Phú Lợi|Số 290, Đường Nguyễn Trãi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|DN709276610|2029-06-05
+B00000401|785944727|Phan Yến Rên|09651272073|phanyenren@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 98, Đường Trần Phú, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|VT309756542|2028-10-24
+B00000402|859741674|Phan Thanh Thắn|08398663118|phanthanhthan@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 89, Đường Võ Thị Sáu, Phường Long Bình Tân, Long Bình Tân, Biên Hòa||
+B00000403|613881938|Hoàng Hà Ninh|08060894395|hoanghaninh@hospital.local|Hà Nội|Phường Nghĩa Đô|Số 377, Đường Trần Duy Hưng, Phường Nghĩa Đô, Cầu Giấy, Hà Nội|HA680057770|2029-03-27
+B00000404|817233448|Phan Uyên Đông|09861555891|phanuyendong@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 346, Đường Lê Thánh Tôn, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|VT796466823|2027-10-23
+B00000405|331674012|Phạm Lan Thắp|09664127593|phamlanthap@hospital.local|Cần Thơ|Phường An Khánh|Số 315, Đường Trần Văn Hoài, Phường An Khánh, Ninh Kiều, Cần Thơ|HP623549483|2028-06-01
+B00000406|374558792|Đỗ Yến Tinh|09326848985|doyentinh@hospital.local|TP. Hồ Chí Minh|Phường 5|Số 145, Đường Lê Văn Sỹ, Phường 5, Quận 10, TP. Hồ Chí Minh|HCM196094118|2029-03-27
+B00000407|764284816|Trần Khánh Phước|09332457087|trankhanhphuoc@hospital.local|Hà Nội|Phường Phúc Tân|Số 112, Đường Láng, Phường Phúc Tân, Hoàn Kiếm, Hà Nội||
+B00000408|576166329|Trần Quốc Mỹ|08364728295|tranquocmy@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 35, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh||
+B00000409|626622708|Đinh Hà Thột|08724214003|dinhhathot@hospital.local|Đà Nẵng|Phường Thạch Thang|Số 324, Đường Nguyễn Văn Linh, Phường Thạch Thang, Hải Châu, Đà Nẵng|HCM905952599|2027-07-20
+B00000410|986273570|Dương Uyên Thiều|08720209180|duonguyenthieu@hospital.local|Hải Dương|Phường Quang Trung|Số 41, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương||
+B00000411|965783290|Đinh Hà Thía|09417903735|dinhhathia@hospital.local|Cần Thơ|Phường Tân An|Số 426, Đường 30 Tháng 4, Phường Tân An, Ninh Kiều, Cần Thơ|TA302676600|2028-06-27
+B00000412|366904270|Hoàng Hằng Danh|08934504610|hoanghangdanh@hospital.local|Biên Hòa|Phường Tân Mai|Số 180, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|BH471967213|2028-06-22
+B00000413|300372797|Lê Trang Nước|08673101884|letrangnuoc@hospital.local|Hải Dương|Phường Quang Trung|Số 500, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương|DA396843004|2029-01-02
+B00000414|840726525|Bùi Vân Túc|09546139579|buivantuc@hospital.local|TP. Hồ Chí Minh|Phường 15|Số 164, Đường Cách Mạng Tháng Tám, Phường 15, Quận 10, TP. Hồ Chí Minh|DN301189896|2028-09-04
+B00000415|915135070|Tạ Anh Quyết|09397664459|taanhquyet@hospital.local|Cần Thơ|Phường Long Hòa|Số 42, Đường Nguyễn Văn Cừ, Phường Long Hòa, Bình Thủy, Cần Thơ|TG116946834|2028-08-13
+B00000416|627238413|Trần Khánh Thiệp|09367481672|trankhanhthiep@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 34, Đường Phạm Văn Đồng, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|DA462305769|2029-02-27
+B00000417|403723104|Tạ Thị Riêng|08750328296|tathirieng@hospital.local|Hải Dương|Phường Tân Bình|Số 310, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương||
+B00000418|783510264|Trần Đình Sáu|08993452904|trandinhsau@hospital.local|Hà Nội|Phường Thanh Nhàn|Số 456, Đường Bưởi, Phường Thanh Nhàn, Hai Bà Trưng, Hà Nội|DN851708766|2029-05-21
+B00000419|484232415|Phan Khánh Toàng|09273089554|phankhanhtoang@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 285, Đường Phạm Văn Đồng, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang||
+B00000420|274816881|Dương Minh Mỹ|08430322213|duongminhmy@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 90, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000421|471769853|Hoàng Lan Thà|09340757467|hoanglantha@hospital.local|Hải Phòng|Phường An Biên|Số 255, Đường Lạch Tray, Phường An Biên, Lê Chân, Hải Phòng|NT624300905|2029-01-22
+B00000422|432486256|Vũ Linh Phương|08891530104|vulinhphuong@hospital.local|Hải Phòng|Phường Kênh Dương|Số 72, Đường Lạch Tray, Phường Kênh Dương, Lê Chân, Hải Phòng|DN801476587|2028-04-30
+B00000423|558853306|Phạm Hằng Ứng|08687313012|phamhangung@hospital.local|Hải Dương|Phường Quang Trung|Số 197, Đường Nguyễn Trãi, Phường Quang Trung, Hải Dương, Hải Dương|CT984459870|2028-03-30
+B00000424|654704981|Tạ Hương Mỹ|09264954102|tahuongmy@hospital.local|Biên Hòa|Phường An Bình|Số 203, Đường Phạm Văn Thuận, Phường An Bình, Long Bình Tân, Biên Hòa|HP104823687|2028-12-24
+B00000425|127108961|Phạm Lan Đông|08074320797|phamlandong@hospital.local|Cần Thơ|Phường Long Hòa|Số 184, Đường Nguyễn Văn Cừ, Phường Long Hòa, Bình Thủy, Cần Thơ|BH470971708|2028-12-04
+B00000426|294334083|Lê Quốc Oánh|09663106709|lequocoanh@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 101, Đường Lý Thái Tổ, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh|BA818134163|2027-08-08
+B00000427|883423426|Phan Uyên Thiều|09282741300|phanuyenthieu@hospital.local|Cần Thơ|Phường Tân An|Số 289, Đường Trần Văn Hoài, Phường Tân An, Ninh Kiều, Cần Thơ||
+B00000428|928593722|Tạ Hiền Định|09641221368|tahiendinh@hospital.local|Biên Hòa|Phường Tân Phong|Số 327, Đường Đồng Khởi, Phường Tân Phong, Trảng Dài, Biên Hòa|VT131199585|2028-07-12
+B00000429|449778444|Đinh Linh Thớ|08984787681|dinhlinhtho@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 252, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000430|409377086|Trần Hương Toàn|09881357653|tranhuongtoan@hospital.local|Cần Thơ|Phường Long Hòa|Số 430, Đường 30 Tháng 4, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000431|402587698|Phạm Thanh Dân|08689971250|phamthanhdan@hospital.local|Bình Dương|Phường Đông Hòa|Số 17, Đường Nguyễn Trãi, Phường Đông Hòa, Dĩ An, Bình Dương||
+B00000432|877588781|Hoàng Trang Bách|09559505011|hoangtrangbach@hospital.local|Biên Hòa|Phường An Bình|Số 366, Đường Võ Thị Sáu, Phường An Bình, Long Bình Tân, Biên Hòa|TA171819804|2028-10-31
+B00000433|661630280|Nguyễn Khánh Nhật|08381126107|nguyenkhanhnhat@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 82, Đường Lê Văn Sỹ, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh|DN275572383|2028-10-16
+B00000434|899990860|Đỗ Yến Thắp|09113657686|doyenthap@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 9, Đường Lê Văn Sỹ, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh|DN812263058|2027-06-20
+B00000435|312485592|Vũ Anh Hợp|09619438414|vuanhhop@hospital.local|Biên Hòa|Phường Tân Mai|Số 247, Đường Đồng Khởi, Phường Tân Mai, Trảng Dài, Biên Hòa|TG653930679|2029-02-21
+B00000436|358426977|Vũ Hương Danh|09362122558|vuhuongdanh@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 280, Đường Phạm Văn Đồng, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|BA769992032|2028-08-25
+B00000437|580684292|Nguyễn Khánh Thắm|08321726664|nguyenkhanhtham@hospital.local|Bình Dương|Phường Phú Lợi|Số 367, Đường Nguyễn Trãi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương||
+B00000438|413251690|Đặng Thanh Hòa|08524466567|dangthanhhoa@hospital.local|Cần Thơ|Phường An Khánh|Số 378, Đường 30 Tháng 4, Phường An Khánh, Ninh Kiều, Cần Thơ||
+B00000439|576178102|Phạm Anh Thứ|08616042635|phamanhthu@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 470, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa|NT292369322|2027-11-29
+B00000440|247259812|Hoàng Hiền Rên|08782121087|hoanghienren@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 77, Đường Võ Nguyên Giáp, Phường Hòa Khê, Thanh Khê, Đà Nẵng||
+B00000441|888086011|Phạm Yến Thạc|08167462775|phamyenthac@hospital.local|Bình Dương|Phường Phú Cường|Số 361, Đường Nguyễn Trãi, Phường Phú Cường, Thủ Dầu Một, Bình Dương|HD906426250|2028-12-27
+B00000442|296436327|Đinh Văn Phúc|09273868611|dinhvanphuc@hospital.local|Hải Phòng|Phường Đông Khê|Số 39, Đường Trần Phú, Phường Đông Khê, Ngô Quyền, Hải Phòng|HP902906715|2028-04-30
+B00000443|328247615|Vũ Quốc Sở|08046839693|vuquocso@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 59, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|BA468016666|2029-01-09
+B00000444|568947521|Vũ Minh Toàng|08745381950|vuminhtoang@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 342, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|TG872515988|2028-07-28
+B00000445|506942464|Đặng Phương Bảo|09088605992|dangphuongbao@hospital.local|Hải Phòng|Phường An Dương|Số 90, Đường Lạch Tray, Phường An Dương, Lê Chân, Hải Phòng|BH364886986|2027-06-23
+B00000446|496962609|Vũ Khánh Thêm|08171401366|vukhanhthem@hospital.local|Hải Dương|Phường Tân Bình|Số 405, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương||
+B00000447|629189823|Hoàng Hằng Ứng|08610047944|hoanghangung@hospital.local|Hải Dương|Phường Tân Bình|Số 468, Đường Phạm Hồng Thái, Phường Tân Bình, Hải Dương, Hải Dương||
+B00000448|364960985|Đinh Hà Tiếu|08620106598|dinhhatieu@hospital.local|Hải Dương|Phường Tân Bình|Số 342, Đường Phạm Ngũ Lão, Phường Tân Bình, Hải Dương, Hải Dương|CT497547438|2028-03-24
+B00000449|366595603|Nguyễn Hà Toàn|08594653871|nguyenhatoan@hospital.local|Bình Dương|Phường Đông Hòa|Số 477, Đường Phú Lợi, Phường Đông Hòa, Dĩ An, Bình Dương||
+B00000450|362984602|Hoàng Thanh Tường|09598162559|hoangthanhtuong@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 193, Đường Kinh Dương Vương, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh|TG571412041|2028-08-09
+B00000451|196881101|Hoàng Linh Tưởng|09471359301|hoanglinhtuong@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 306, Đường Lê Văn Sỹ, Phường Tân Định, Quận 1, TP. Hồ Chí Minh|TG777048177|2027-11-16
+B00000452|184191744|Đinh Trang Thuận|09393194617|dinhtrangthuan@hospital.local|Bình Dương|Phường Phú Lợi|Số 9, Đường Nguyễn Trãi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương||
+B00000453|262295320|Tô Hữu Anh|09870155254|tohuuanh@hospital.local|Hải Phòng|Phường An Biên|Số 226, Đường Lạch Tray, Phường An Biên, Lê Chân, Hải Phòng|HA598070070|2028-07-06
+B00000454|836452807|Phan Hà Thương|09773263726|phanhathuong@hospital.local|Biên Hòa|Phường An Bình|Số 331, Đường Võ Thị Sáu, Phường An Bình, Long Bình Tân, Biên Hòa|VT976732493|2027-07-22
+B00000455|195613439|Dương Uyên Bách|09015512423|duonguyenbach@hospital.local|TP. Hồ Chí Minh|Phường 5|Số 1, Đường Nguyễn Thị Minh Khai, Phường 5, Quận 10, TP. Hồ Chí Minh|BA106383737|2027-09-22
+B00000456|128217397|Đinh Đình Tâu|08768111166|dinhdinhtau@hospital.local|TP. Hồ Chí Minh|Phường 5|Số 48, Đường Trường Sa, Phường 5, Quận 10, TP. Hồ Chí Minh|CT934237626|2029-03-20
+B00000457|597690020|Hồ Văn Sánh|09251864381|hovansanh@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 429, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|VT693139799|2029-03-10
+B00000458|391571379|Tô Vân Tiên|08660410774|tovantien@hospital.local|Cần Thơ|Phường Tân An|Số 145, Đường Nguyễn Văn Cừ, Phường Tân An, Ninh Kiều, Cần Thơ|HP268731241|2029-05-10
+B00000459|242547127|Đỗ Phương Tiếp|09771810685|dophuongtiep@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 10, Đường Phạm Văn Đồng, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang||
+B00000460|143800307|Bùi Khánh Tiếp|09114068637|buikhanhtiep@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 368, Đường Nguyễn Thị Minh Khai, Phường 8, Quận 5, TP. Hồ Chí Minh|DN134947606|2027-08-13
+B00000461|647040330|Dương Lan Tường|09423913538|duonglantuong@hospital.local|Hải Phòng|Phường Đông Khê|Số 446, Đường Trần Phú, Phường Đông Khê, Ngô Quyền, Hải Phòng||
+B00000462|181582046|Phạm Hương Tinh|09077919372|phamhuongtinh@hospital.local|Hà Nội|Phường Minh Khai|Số 439, Đường Bưởi, Phường Minh Khai, Hai Bà Trưng, Hà Nội|TG500402871|2029-04-25
+B00000463|575127719|Tạ Trang Thiệp|08421550454|tatrangthiep@hospital.local|Bình Dương|Phường Tân Bình|Số 494, Đường Nguyễn Trãi, Phường Tân Bình, Dĩ An, Bình Dương|HCM184297509|2029-04-22
+B00000464|177750517|Dương Phương Hào|09787031108|duongphuonghao@hospital.local|Bình Dương|Phường Đông Hòa|Số 258, Đường Phú Lợi, Phường Đông Hòa, Dĩ An, Bình Dương||
+B00000465|343704651|Lê Đình Lực|09864836303|ledinhluc@hospital.local|Hải Phòng|Phường An Biên|Số 110, Đường Trần Phú, Phường An Biên, Lê Chân, Hải Phòng|CT110210767|2029-03-23
+B00000466|199140404|Trần Quốc Tưởng|08137485021|tranquoctuong@hospital.local|Đà Nẵng|Phường Tân Chính|Số 9, Đường Võ Nguyên Giáp, Phường Tân Chính, Thanh Khê, Đà Nẵng|HA586786310|2027-08-10
+B00000467|873539999|Vũ Minh Tín|08766562038|vuminhtin@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 270, Đường Trường Sa, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh|CT166991379|2027-09-20
+B00000468|798361585|Bùi Hương Châu|08090568825|buihuongchau@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 369, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|HP274819639|2029-04-17
+B00000469|395082626|Vũ Trang Sĩ|09910976315|vutrangsi@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 189, Đường Kinh Dương Vương, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|DA332743605|2029-01-18
+B00000470|105071778|Phan Phương Thực|08923656418|phanphuongthuc@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 389, Đường Lê Thánh Tôn, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|DN270287603|2028-04-18
+B00000471|229225660|Nguyễn Minh Phước|09396981666|nguyenminhphuoc@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 255, Đường Cách Mạng Tháng Tám, Phường 7, Quận 3, TP. Hồ Chí Minh|CT968051049|2027-09-12
+B00000472|936345119|Hồ Đình Thắn|09288418782|hodinhthan@hospital.local|Bình Dương|Phường Phú Lợi|Số 389, Đường Hùng Vương, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|DA319393253|2027-08-20
+B00000473|785759546|Hồ Hữu Toàng|09368259056|hohuutoang@hospital.local|Đà Nẵng|Phường Tân Chính|Số 286, Đường 2 Tháng 9, Phường Tân Chính, Thanh Khê, Đà Nẵng||
+B00000474|612682425|Vũ Thị Hào|08154043975|vuthihao@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 379, Đường Phạm Văn Đồng, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang||
+B00000475|526492653|Đỗ Lan Thưa|08764333987|dolanthua@hospital.local|Cần Thơ|Phường An Thới|Số 422, Đường 30 Tháng 4, Phường An Thới, Bình Thủy, Cần Thơ|DN915373741|2028-08-18
+B00000476|940225567|Phạm Văn Hải|08938741100|phamvanhai@hospital.local|Hải Phòng|Phường An Biên|Số 131, Đường Trần Phú, Phường An Biên, Lê Chân, Hải Phòng|BH447783811|2028-07-27
+B00000477|861896086|Dương Hương Kim|08667454143|duonghuongkim@hospital.local|Đà Nẵng|Phường Tân Chính|Số 361, Đường Võ Nguyên Giáp, Phường Tân Chính, Thanh Khê, Đà Nẵng|CT804176968|2029-03-02
+B00000478|469726880|Phạm Hiền Tuý|08686490715|phamhientuy@hospital.local|Biên Hòa|Phường Tân Mai|Số 98, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|VT152022400|2029-02-15
+B00000479|153031495|Hồ Lan Thông|08930201676|holanthong@hospital.local|Hà Nội|Phường Nghĩa Đô|Số 343, Đường Bưởi, Phường Nghĩa Đô, Cầu Giấy, Hà Nội|BH574973625|2027-11-13
+B00000480|323621811|Lê Hiền Thích|08839229545|lehienthich@hospital.local|Cần Thơ|Phường An Thới|Số 167, Đường Trần Văn Hoài, Phường An Thới, Bình Thủy, Cần Thơ|HD292239218|2027-08-05
+B00000481|630895685|Bùi Minh Tâu|08820373694|buiminhtau@hospital.local|Đà Nẵng|Phường Mỹ An|Số 33, Đường Võ Nguyên Giáp, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng||
+B00000482|739879442|Đặng Linh Thương|08424579619|danglinhthuong@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 185, Đường Trần Phú, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000483|594375240|Vũ Minh Tạp|09178252583|vuminhtap@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 352, Đường Lê Văn Sỹ, Phường 4, Quận 5, TP. Hồ Chí Minh|TG439219631|2028-09-07
+B00000484|242625402|Hồ Trang Sở|09678967801|hotrangso@hospital.local|Cần Thơ|Phường Tân An|Số 325, Đường Nguyễn Văn Cừ, Phường Tân An, Ninh Kiều, Cần Thơ|HD683364468|2029-02-28
+B00000485|447028959|Dương Hà Đức|08722084446|duonghaduc@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 221, Đường Trần Văn Hoài, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|BH693153501|2028-12-01
+B00000486|706054062|Hồ Khánh Hào|08652158367|hokhanhhao@hospital.local|Đà Nẵng|Phường Tam Thuận|Số 206, Đường Võ Nguyên Giáp, Phường Tam Thuận, Thanh Khê, Đà Nẵng||
+B00000487|226092381|Đỗ Linh Cảnh|08964666101|dolinhcanh@hospital.local|Hải Dương|Phường Quang Trung|Số 148, Đường Nguyễn Trãi, Phường Quang Trung, Hải Dương, Hải Dương||
+B00000488|475218113|Hoàng Vân Thoái|09419830000|hoangvanthoai@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 355, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|CT131536791|2029-04-13
+B00000489|500583986|Trần Lan Đạo|08962377554|tranlandao@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 491, Đường Cách Mạng Tháng Tám, Phường Tân Định, Quận 1, TP. Hồ Chí Minh|BH493842625|2028-02-05
+B00000490|515562041|Phan Hằng Tuân|09085482566|phanhangtuan@hospital.local|Biên Hòa|Phường Tân Phong|Số 145, Đường Phạm Văn Thuận, Phường Tân Phong, Trảng Dài, Biên Hòa||
+B00000491|746469956|Tô Anh Bảo|09749659208|toanhbao@hospital.local|Hà Nội|Phường Trung Tự|Số 289, Đường Láng, Phường Trung Tự, Đống Đa, Hà Nội||
+B00000492|646225650|Bùi Thanh Tạo|08352370932|buithanhtao@hospital.local|Hải Dương|Phường Tân Bình|Số 199, Đường Phạm Ngũ Lão, Phường Tân Bình, Hải Dương, Hải Dương|CT923438457|2028-09-26
+B00000493|823580638|Tô Khánh Kim|09333264050|tokhanhkim@hospital.local|Hải Dương|Phường Quang Trung|Số 491, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương|VT987685281|2027-08-06
+B00000494|308955766|Tạ Văn Tín|09341950485|tavantin@hospital.local|Hải Phòng|Phường Kênh Dương|Số 274, Đường Cầu Đất, Phường Kênh Dương, Lê Chân, Hải Phòng|HP141458798|2028-06-22
+B00000495|486889364|Bùi Uyên Phú|08430451433|buiuyenphu@hospital.local|Hà Nội|Phường Láng Thượng|Số 149, Đường Bưởi, Phường Láng Thượng, Đống Đa, Hà Nội|HCM395815367|2027-08-16
+B00000496|345404078|Hồ Hằng Hưỡng|09895549320|hohanghuong@hospital.local|Hà Nội|Phường Minh Khai|Số 207, Đường Trần Duy Hưng, Phường Minh Khai, Hai Bà Trưng, Hà Nội|DA131144286|2028-05-13
+B00000497|749227012|Đỗ Hà Châu|08497727764|dohachau@hospital.local|Đà Nẵng|Phường Mỹ An|Số 39, Đường 2 Tháng 9, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng|BH251574812|2027-08-12
+B00000498|768186913|Đỗ Phương Mạnh|08322153206|dophuongmanh@hospital.local|Hải Dương|Phường Quang Trung|Số 286, Đường Nguyễn Trãi, Phường Quang Trung, Hải Dương, Hải Dương|HD907247738|2028-12-26
+B00000499|733338990|Bùi Thanh Phú|08858981634|buithanhphu@hospital.local|Biên Hòa|Phường Tân Mai|Số 326, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|NT297679028|2029-01-23
+B00000500|796451213|Trần Thanh Thục|08418059328|tranthanhthuc@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 33, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000501|915886157|Dương Minh Thê|09398830198|duongminhthe@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 243, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000502|786348741|Đinh Thị Tứng|08623312218|dinhthitung@hospital.local|Hải Phòng|Phường Đông Khê|Số 262, Đường Lạch Tray, Phường Đông Khê, Ngô Quyền, Hải Phòng|BH566219654|2027-11-03
+B00000503|756347282|Đinh Lan Phi|08775297177|dinhlanphi@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 287, Đường Phạm Hồng Thái, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000504|644545696|Phan Hà Tuấn|08242174884|phanhatuan@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 362, Đường Lê Văn Sỹ, Phường 8, Quận 5, TP. Hồ Chí Minh|HP903570024|2028-08-18
+B00000505|254123513|Hoàng Quốc Rạng|08393741706|hoangquocrang@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 179, Đường Phạm Văn Đồng, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|NT887280396|2028-10-08
+B00000506|197545942|Vũ Anh Dân|08426377420|vuanhdan@hospital.local|Bình Dương|Phường Tân Bình|Số 497, Đường Phú Lợi, Phường Tân Bình, Dĩ An, Bình Dương|DN276509674|2028-05-18
+B00000507|670801099|Trần Hương Thắn|08518554904|tranhuongthan@hospital.local|Bình Dương|Phường Phú Lợi|Số 449, Đường Hùng Vương, Phường Phú Lợi, Thủ Dầu Một, Bình Dương||
+B00000508|217198250|Đặng Linh Tiếu|09521805565|danglinhtieu@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 80, Đường Nguyễn Tri Phương, Phường Tân Định, Quận 1, TP. Hồ Chí Minh||
+B00000509|126308822|Đặng Quốc Thiều|09181520509|dangquocthieu@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 82, Đường Phú Lợi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương|NT395833037|2028-07-08
+B00000510|267817546|Đỗ Vân Ứng|08968732803|dovanung@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 147, Đường Cách Mạng Tháng Tám, Phường 8, Quận 3, TP. Hồ Chí Minh|VT366160850|2027-07-26
+B00000511|144888545|Tô Phương Đông|08568687330|tophuongdong@hospital.local|Cần Thơ|Phường An Thới|Số 470, Đường Nguyễn Văn Cừ, Phường An Thới, Bình Thủy, Cần Thơ|DN204865580|2029-05-26
+B00000512|966626213|Trần Phương Thiệu|09673275983|tranphuongthieu@hospital.local|Cần Thơ|Phường Long Hòa|Số 273, Đường 30 Tháng 4, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000513|516216063|Bùi Trang Ninh|08795243053|buitrangninh@hospital.local|Biên Hòa|Phường Tân Phong|Số 71, Đường Đồng Khởi, Phường Tân Phong, Trảng Dài, Biên Hòa||
+B00000514|225031014|Đinh Vân Túc|08840699688|dinhvantuc@hospital.local|Bình Dương|Phường Phú Cường|Số 450, Đường Hùng Vương, Phường Phú Cường, Thủ Dầu Một, Bình Dương|TG110811469|2028-12-14
+B00000515|223197334|Nguyễn Hiền Tây|08543038066|nguyenhientay@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 93, Đường Trần Phú, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|HA696099546|2027-07-16
+B00000516|310357802|Đỗ Vân Thiệp|09095884508|dovanthiep@hospital.local|Hà Nội|Phường Vĩnh Tuy|Số 402, Đường Bưởi, Phường Vĩnh Tuy, Hai Bà Trưng, Hà Nội|NT184124713|2027-12-08
+B00000517|961706694|Hồ Lan Thành|09057664889|holanthanh@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 50, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|DN283849006|2028-09-24
+B00000518|636388202|Lê Hương Tài|08339217932|lehuongtai@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 477, Đường Lạch Tray, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000519|603267739|Phan Hữu Tứng|08338031385|phanhuutung@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 480, Đường Kinh Dương Vương, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh|BA250969644|2027-10-05
+B00000520|212825430|Hoàng Khánh Đức|09629370044|hoangkhanhduc@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 302, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh||
+B00000521|741879283|Phan Thị Thực|09615136928|phanthithuc@hospital.local|Bình Dương|Phường Phú Lợi|Số 29, Đường Hùng Vương, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|HD159586399|2027-08-20
+B00000522|161635576|Bùi Anh Thột|09265950946|buianhthot@hospital.local|Hải Phòng|Phường Máy Chai|Số 249, Đường Lạch Tray, Phường Máy Chai, Ngô Quyền, Hải Phòng|HCM701421262|2029-06-16
+B00000523|364433624|Đỗ Hương Tú|09676187361|dohuongtu@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 69, Đường Trần Phú, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000524|142682571|Lê Hữu Kha|08039351538|lehuukha@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 489, Đường Nguyễn Tri Phương, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh|VT529752903|2028-08-18
+B00000525|600627208|Bùi Lan Uyêu|09436037300|builanuyeu@hospital.local|Hải Phòng|Phường Kênh Dương|Số 106, Đường Lạch Tray, Phường Kênh Dương, Lê Chân, Hải Phòng|DA531486487|2028-07-30
+B00000526|634267368|Phạm Lan Tạp|08439970937|phamlantap@hospital.local|Đà Nẵng|Phường Tân Chính|Số 70, Đường Hoàng Sa, Phường Tân Chính, Thanh Khê, Đà Nẵng|HP836428348|2028-07-01
+B00000527|788295048|Đỗ Hằng Đức|09499970401|dohangduc@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 59, Đường 2 Tháng 9, Phường Hòa Khê, Thanh Khê, Đà Nẵng||
+B00000528|328850444|Phan Lan Tông|09619876910|phanlantong@hospital.local|Hải Dương|Phường Tân Bình|Số 180, Đường Nguyễn Trãi, Phường Tân Bình, Hải Dương, Hải Dương|VT851917316|2027-11-05
+B00000529|385812396|Dương Phương Tường|09278203249|duongphuongtuong@hospital.local|Hải Phòng|Phường An Biên|Số 281, Đường Lạch Tray, Phường An Biên, Lê Chân, Hải Phòng|BA959634154|2027-11-24
+B00000530|821032808|Nguyễn Hiền Bách|08570503947|nguyenhienbach@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 448, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|CT546877825|2028-02-08
+B00000531|761679689|Đinh Văn Thà|08161138487|dinhvantha@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 411, Đường Hoàng Sa, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng|BH230953909|2028-06-04
+B00000532|984719999|Tạ Lan Phụng|09313806131|talanphung@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 394, Đường Phạm Văn Đồng, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang||
+B00000533|890531323|Tạ Hữu Thắn|09624456472|tahuuthan@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 430, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|BA675262800|2029-03-06
+B00000534|126690688|Tô Hà Minh|08185518478|tohaminh@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 80, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương||
+B00000535|303091126|Đinh Đình Kỳ|09947210162|dinhdinhky@hospital.local|Cần Thơ|Phường An Thới|Số 253, Đường 30 Tháng 4, Phường An Thới, Bình Thủy, Cần Thơ||
+B00000536|359004171|Đinh Hữu Tuý|09531448494|dinhhuutuy@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 198, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|HA874285802|2028-03-19
+B00000537|108156122|Trần Hằng Thắp|08930763145|tranhangthap@hospital.local|Biên Hòa|Phường Tân Mai|Số 50, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa||
+B00000538|917447691|Hồ Minh Quyền|08345360672|hominhquyen@hospital.local|Biên Hòa|Phường Tân Phong|Số 186, Đường Đồng Khởi, Phường Tân Phong, Trảng Dài, Biên Hòa|BH293006583|2027-10-09
+B00000539|815439935|Phạm Văn Uyêu|09380329460|phamvanuyeu@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 399, Đường Kinh Dương Vương, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh||
+B00000540|814207548|Tạ Minh Tuệ|09458363664|taminhtue@hospital.local|Hà Nội|Phường Ô Chợ Dừa|Số 459, Đường Bưởi, Phường Ô Chợ Dừa, Đống Đa, Hà Nội|HP761570376|2027-07-23
+B00000541|926318005|Đỗ Anh Thoại|09593768317|doanhthoai@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 163, Đường Lê Thánh Tôn, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|HCM610644734|2028-09-11
+B00000542|743841058|Đinh Linh Uyêu|08582412383|dinhlinhuyeu@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 494, Đường Nguyễn Văn Cừ, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|NT591854272|2028-05-27
+B00000543|621029765|Tạ Đình Mạnh|08583696661|tadinhmanh@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 463, Đường Trần Văn Hoài, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ||
+B00000544|574506915|Phạm Hằng Oanh|08850688227|phamhangoanh@hospital.local|Cần Thơ|Phường An Khánh|Số 209, Đường 30 Tháng 4, Phường An Khánh, Ninh Kiều, Cần Thơ|BA857537839|2028-02-15
+B00000545|776931347|Đặng Yến Nhân|09836815597|dangyennhan@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 101, Đường Trường Sa, Phường 4, Quận 5, TP. Hồ Chí Minh|DN276361935|2027-07-21
+B00000546|446263678|Dương Yến Tín|09660217648|duongyentin@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 15, Đường Lý Thái Tổ, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh|DN921081830|2028-08-16
+B00000547|204987754|Vũ Thanh Ứng|09463451323|vuthanhung@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 141, Đường Lý Thái Tổ, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh|TG678205634|2027-06-26
+B00000548|374960117|Đỗ Linh Thưa|08516209378|dolinhthua@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 45, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|BH217669720|2028-06-13
+B00000549|878626719|Đinh Hà Nhanh|08694377993|dinhhanhanh@hospital.local|Hà Nội|Phường Dịch Vọng Hậu|Số 298, Đường Bưởi, Phường Dịch Vọng Hậu, Cầu Giấy, Hà Nội|BH551355916|2028-02-27
+B00000550|510964404|Đặng Hà Phong|08067102378|danghaphong@hospital.local|Cần Thơ|Phường An Cư|Số 401, Đường 30 Tháng 4, Phường An Cư, Ninh Kiều, Cần Thơ||
+B00000551|153299867|Đặng Hữu Ly|09396689578|danghuuly@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 347, Đường Trần Phú, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|TA198167640|2027-08-25
+B00000552|939800138|Nguyễn Hương Sâm|09910379404|nguyenhuongsam@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 325, Đường Phạm Văn Đồng, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|NT492956633|2029-05-02
+B00000553|653913708|Lê Trang Tiểu|08023772903|letrangtieu@hospital.local|Cần Thơ|Phường Long Hòa|Số 132, Đường Trần Văn Hoài, Phường Long Hòa, Bình Thủy, Cần Thơ|BA761816650|2027-08-05
+B00000554|517216874|Trần Hiền Sở|08145668149|tranhienso@hospital.local|Hà Nội|Phường Trung Tự|Số 204, Đường Trần Duy Hưng, Phường Trung Tự, Đống Đa, Hà Nội||
+B00000555|443647036|Hoàng Phương Toàn|08197940449|hoangphuongtoan@hospital.local|Bình Dương|Phường Tân Bình|Số 283, Đường Nguyễn Trãi, Phường Tân Bình, Dĩ An, Bình Dương||
+B00000556|202144179|Nguyễn Trang Thắp|08143310061|nguyentrangthap@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 412, Đường Lạch Tray, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng|BH735673269|2029-02-11
+B00000557|450476506|Bùi Anh Danh|08474001550|buianhdanh@hospital.local|Hải Dương|Phường Quang Trung|Số 142, Đường Nguyễn Trãi, Phường Quang Trung, Hải Dương, Hải Dương|HD924037720|2028-03-15
+B00000558|252602532|Phan Văn Tông|09396909925|phanvantong@hospital.local|Cần Thơ|Phường An Khánh|Số 25, Đường Trần Văn Hoài, Phường An Khánh, Ninh Kiều, Cần Thơ|CT452045131|2028-01-31
+B00000559|398379624|Đặng Thị Hải|08780918097|dangthihai@hospital.local|Hải Phòng|Phường Đông Khê|Số 186, Đường Lạch Tray, Phường Đông Khê, Ngô Quyền, Hải Phòng|CT674725018|2027-12-18
+B00000560|239883142|Phan Hương Thắm|09361205326|phanhuongtham@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 233, Đường Trần Phú, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|BA401436301|2027-07-14
+B00000561|679540876|Phạm Quốc Thạo|09147610789|phamquocthao@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 389, Đường Nguyễn Tri Phương, Phường 7, Quận 3, TP. Hồ Chí Minh|VT909414431|2028-12-18
+B00000562|907050184|Trần Trang Túng|09277074003|trantrangtung@hospital.local|Cần Thơ|Phường Long Hòa|Số 344, Đường 30 Tháng 4, Phường Long Hòa, Bình Thủy, Cần Thơ|HCM149943689|2029-03-14
+B00000563|280473050|Vũ Hương Nam|09746675215|vuhuongnam@hospital.local|Hải Dương|Phường Quang Trung|Số 169, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương||
+B00000564|700987727|Hồ Minh Phong|09572692727|hominhphong@hospital.local|Bình Dương|Phường Phú Lợi|Số 243, Đường Hùng Vương, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|CT922002753|2028-07-19
+B00000565|192393536|Phạm Hà Oánh|09937227519|phamhaoanh@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 393, Đường Trần Phú, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|CT999293558|2029-05-24
+B00000566|204968776|Hoàng Minh Tuệ|09574735283|hoangminhtue@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 57, Đường 2 Tháng 9, Phường Hòa Khê, Thanh Khê, Đà Nẵng||
+B00000567|924030322|Nguyễn Anh Nông|09661760626|nguyenanhnong@hospital.local|Đà Nẵng|Phường Mỹ An|Số 240, Đường Nguyễn Văn Linh, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng|VT741443816|2027-06-25
+B00000568|667066709|Lê Hiền Hùng|08941756554|lehienhung@hospital.local|Hải Dương|Phường Quang Trung|Số 160, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương|VT137196730|2029-05-23
+B00000569|762090319|Trần Hữu Kim|09666582757|tranhuukim@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 374, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|CT397485863|2027-11-01
+B00000570|258082900|Đinh Hiền Thông|09511091102|dinhhienthong@hospital.local|Cần Thơ|Phường Long Hòa|Số 29, Đường Nguyễn Văn Cừ, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000571|934744289|Lê Yến Thúy|09412690067|leyenthuy@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 92, Đường Trần Phú, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|BH416646238|2027-08-14
+B00000572|518885013|Trần Quốc Phi|08562896943|tranquocphi@hospital.local|Biên Hòa|Phường Tân Mai|Số 363, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|HP566070181|2027-12-27
+B00000573|946152175|Bùi Đình Phú|09236186730|buidinhphu@hospital.local|Bình Dương|Phường Phú Lợi|Số 144, Đường Nguyễn Trãi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|NT830690992|2027-10-16
+B00000574|930382763|Bùi Uyên Oánh|08897387834|buiuyenoanh@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 305, Đường Nguyễn Trãi, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000575|750267250|Tô Uyên Oánh|08443399432|touyenoanh@hospital.local|Hải Dương|Phường Tân Bình|Số 410, Đường Nguyễn Trãi, Phường Tân Bình, Hải Dương, Hải Dương|CT293235114|2027-07-13
+B00000576|580112116|Hồ Văn Phúc|09386136412|hovanphuc@hospital.local|Hải Phòng|Phường An Dương|Số 494, Đường Trần Phú, Phường An Dương, Lê Chân, Hải Phòng|BA700620494|2028-10-07
+B00000577|723220478|Đặng Hằng Tuệ|09124344222|danghangtue@hospital.local|Đà Nẵng|Phường Hải Châu I|Số 266, Đường Hoàng Sa, Phường Hải Châu I, Hải Châu, Đà Nẵng||
+B00000578|216329927|Hoàng Hữu Uyêu|09226555600|hoanghuuuyeu@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 129, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|HA494521005|2028-03-31
+B00000579|366021102|Tô Thanh Sang|09069050670|tothanhsang@hospital.local|Đà Nẵng|Phường Hải Châu II|Số 187, Đường Võ Nguyên Giáp, Phường Hải Châu II, Hải Châu, Đà Nẵng|TG449644995|2028-06-30
+B00000580|770251650|Dương Khánh Nam|08445389456|duongkhanhnam@hospital.local|Hải Phòng|Phường An Dương|Số 132, Đường Cầu Đất, Phường An Dương, Lê Chân, Hải Phòng||
+B00000581|241933208|Hoàng Minh Thục|08383347706|hoangminhthuc@hospital.local|Hà Nội|Phường Hàng Gai|Số 498, Đường Bưởi, Phường Hàng Gai, Hoàn Kiếm, Hà Nội||
+B00000582|784698128|Đặng Hương Khanh|09939207988|danghuongkhanh@hospital.local|Biên Hòa|Phường Tân Phong|Số 14, Đường Võ Thị Sáu, Phường Tân Phong, Trảng Dài, Biên Hòa|BH981128323|2028-12-26
+B00000583|180636750|Đinh Linh Thinh|09655005634|dinhlinhthinh@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 441, Đường Lê Thánh Tôn, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|CT694070043|2027-12-18
+B00000584|350282223|Đặng Minh Phi|09988884630|dangminhphi@hospital.local|Bình Dương|Phường Tân Bình|Số 382, Đường Phú Lợi, Phường Tân Bình, Dĩ An, Bình Dương|DA302784828|2027-12-16
+B00000585|769234878|Tô Phương Tiên|08495828949|tophuongtien@hospital.local|Hà Nội|Phường Láng Thượng|Số 171, Đường Nguyễn Văn Cừ, Phường Láng Thượng, Đống Đa, Hà Nội|HCM990476314|2029-06-12
+B00000586|991911365|Đỗ Yến Kỳ|09393931400|doyenky@hospital.local|Đà Nẵng|Phường Hòa Hải|Số 166, Đường Hoàng Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng|TA529380116|2029-06-16
+B00000587|443370177|Đỗ Phương Rạng|08457650661|dophuongrang@hospital.local|Cần Thơ|Phường Long Hòa|Số 242, Đường 30 Tháng 4, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000588|141038686|Lê Vân Tứ|08210797426|levantu@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 451, Đường Nguyễn Thị Minh Khai, Phường Tân Định, Quận 1, TP. Hồ Chí Minh|TG447161952|2028-11-24
+B00000589|849259662|Nguyễn Phương Phú|09465332002|nguyenphuongphu@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 175, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|BH537886001|2028-05-01
+B00000590|991420224|Trần Hương Tương|08690081308|tranhuongtuong@hospital.local|Bình Dương|Phường Chánh Nghĩa|Số 285, Đường Hùng Vương, Phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương||
+B00000591|318135193|Phạm Hiền Tinh|09717063094|phamhientinh@hospital.local|Bình Dương|Phường Tân Bình|Số 454, Đường Phú Lợi, Phường Tân Bình, Dĩ An, Bình Dương|TG952110535|2028-02-08
+B00000592|519308447|Đỗ Đình Uy|08924139079|dodinhuy@hospital.local|Bình Dương|Phường Phú Lợi|Số 71, Đường Nguyễn Trãi, Phường Phú Lợi, Thủ Dầu Một, Bình Dương|TG359946371|2029-02-26
+B00000593|839466926|Hoàng Yến Thành|08835874171|hoangyenthanh@hospital.local|Đà Nẵng|Phường Hòa Hải|Số 75, Đường Hoàng Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng|NT440232372|2029-02-09
+B00000594|762692125|Đỗ Hà Tuân|08477420233|dohatuan@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 479, Đường Trần Phú, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|HD919138711|2028-03-17
+B00000595|460229797|Đinh Thanh Tịnh|09462607611|dinhthanhtinh@hospital.local|Đà Nẵng|Phường Khuê Mỹ|Số 176, Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng||
+B00000596|962301503|Phan Hương Tâng|08474582764|phanhuongtang@hospital.local|Hà Nội|Phường Dịch Vọng|Số 22, Đường Bưởi, Phường Dịch Vọng, Cầu Giấy, Hà Nội||
+B00000597|696699278|Vũ Trang Sáu|09266960748|vutrangsau@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 44, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|TA611999128|2027-07-16
+B00000598|149658481|Vũ Yến Thành|08318144253|vuyenthanh@hospital.local|TP. Hồ Chí Minh|Phường Bến Thành|Số 328, Đường Cách Mạng Tháng Tám, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh||
+B00000599|143878007|Bùi Khánh Thêm|08663492957|buikhanhthem@hospital.local|Biên Hòa|Phường Tân Mai|Số 10, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|DA588455233|2028-01-03
+B00000600|332982136|Phan Anh Thực|09881469272|phananhthuc@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 272, Đường Lê Văn Sỹ, Phường 7, Quận 3, TP. Hồ Chí Minh|CT754992675|2028-07-31
+B00000601|402616080|Nguyễn Hiền Thúy|08573338710|nguyenhienthuy@hospital.local|Biên Hòa|Phường Tân Biên|Số 124, Đường Đồng Khởi, Phường Tân Biên, Long Bình Tân, Biên Hòa|HCM650394124|2027-09-25
+B00000602|159423463|Bùi Hữu Tuệ|08189465253|buihuutue@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 346, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|BH479217219|2027-08-10
+B00000603|207997593|Hoàng Trang Thinh|08268136151|hoangtrangthinh@hospital.local|Bắc Ninh|Phường Đình Bảng|Số 72, Đường Kinh Dương Vương, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh|DN803546794|2028-01-28
+B00000604|266105106|Phan Hiền Châu|09165110122|phanhienchau@hospital.local|Hà Nội|Phường Dịch Vọng Hậu|Số 445, Đường Láng, Phường Dịch Vọng Hậu, Cầu Giấy, Hà Nội||
+B00000605|835411454|Dương Minh Thưa|09515632916|duongminhthua@hospital.local|TP. Hồ Chí Minh|Phường Võ Thị Sáu|Số 126, Đường Nguyễn Thị Minh Khai, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh||
+B00000606|148926368|Dương Uyên Thuận|09761867836|duonguyenthuan@hospital.local|TP. Hồ Chí Minh|Phường 4|Số 257, Đường Nguyễn Thị Minh Khai, Phường 4, Quận 5, TP. Hồ Chí Minh||
+B00000607|397569663|Bùi Linh Thúy|09464083005|builinhthuy@hospital.local|Hà Nội|Phường Hàng Bồ|Số 85, Đường Giảng Võ, Phường Hàng Bồ, Hoàn Kiếm, Hà Nội|CT570768846|2028-11-17
+B00000608|554168504|Đinh Hữu Lương|08626286388|dinhhuuluong@hospital.local|Hà Nội|Phường Dịch Vọng Hậu|Số 416, Đường Láng, Phường Dịch Vọng Hậu, Cầu Giấy, Hà Nội|DN339791469|2028-10-21
+B00000609|854480659|Phạm Hiền Sánh|08158437956|phamhiensanh@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 296, Đường Lê Thánh Tôn, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|VT430314186|2029-03-18
+B00000610|720603894|Nguyễn Phương Tiếp|08370822146|nguyenphuongtiep@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 50, Đường Lý Thái Tổ, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|HA117872351|2029-01-14
+B00000611|736480197|Phạm Hữu Anh|09711256118|phamhuuanh@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 300, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa||
+B00000612|838950035|Vũ Thanh Tinh|08397670915|vuthanhtinh@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 386, Đường Trần Phú, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang|CT456618057|2029-04-07
+B00000613|613799650|Đỗ Yến Thiều|09547438415|doyenthieu@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 150, Đường Phạm Ngũ Lão, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|HP822907999|2027-07-22
+B00000614|180117923|Tạ Thanh Kim|09334200958|tathanhkim@hospital.local|Hải Dương|Phường Quang Trung|Số 261, Đường Phạm Ngũ Lão, Phường Quang Trung, Hải Dương, Hải Dương|VT578888588|2029-04-01
+B00000615|330835931|Tô Vân Ứng|08350421128|tovanung@hospital.local|Hà Nội|Phường Dịch Vọng|Số 410, Đường Trần Duy Hưng, Phường Dịch Vọng, Cầu Giấy, Hà Nội||
+B00000616|285717451|Bùi Phương Cảnh|08953700972|buiphuongcanh@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 458, Đường Nguyễn Thị Minh Khai, Phường 7, Quận 3, TP. Hồ Chí Minh|BH833905193|2028-09-01
+B00000617|650210158|Nguyễn Hà Uyên|09885177413|nguyenhauyen@hospital.local|Biên Hòa|Phường Tân Phong|Số 147, Đường Võ Thị Sáu, Phường Tân Phong, Trảng Dài, Biên Hòa|HCM864325521|2029-03-28
+B00000618|355979334|Đinh Lan Tịnh|08224701390|dinhlantinh@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 354, Đường Kinh Dương Vương, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh||
+B00000619|219996642|Đinh Phương Uẩn|08671564488|dinhphuonguan@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 269, Đường 30 Tháng 4, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ||
+B00000620|453391602|Hồ Đình Toàng|08918405829|hodinhtoang@hospital.local|Hà Nội|Phường Dịch Vọng|Số 88, Đường Giảng Võ, Phường Dịch Vọng, Cầu Giấy, Hà Nội|BH802390355|2027-12-03
+B00000621|717971680|Hồ Hữu Sinh|09141908713|hohuusinh@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 187, Đường Lý Thái Tổ, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh|TA813895512|2028-02-22
+B00000622|380529550|Đinh Trang Thước|08493694161|dinhtrangthuoc@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 498, Đường Đồng Khởi, Phường Long Bình Tân, Long Bình Tân, Biên Hòa||
+B00000623|310366148|Vũ Quốc Kỳ|08178486702|vuquocky@hospital.local|Nha Trang|Phường Vĩnh Hòa|Số 390, Đường Phạm Văn Đồng, Phường Vĩnh Hòa, Vĩnh Hòa, Nha Trang|HD575046239|2028-05-12
+B00000624|410302894|Vũ Uyên Kha|09841607521|vuuyenkha@hospital.local|Hà Nội|Phường Hàng Gai|Số 53, Đường Giảng Võ, Phường Hàng Gai, Hoàn Kiếm, Hà Nội||
+B00000625|356979031|Nguyễn Trang Phúc|09419557650|nguyentrangphuc@hospital.local|Hà Nội|Phường Nghĩa Đô|Số 295, Đường Giảng Võ, Phường Nghĩa Đô, Cầu Giấy, Hà Nội|HD818388235|2027-11-19
+B00000626|177700389|Trần Hà Tiếu|08497758131|tranhatieu@hospital.local|Hải Phòng|Phường An Biên|Số 407, Đường Cầu Đất, Phường An Biên, Lê Chân, Hải Phòng|DA547189784|2029-03-17
+B00000627|401160278|Trần Linh Sở|08216078460|tranlinhso@hospital.local|Biên Hòa|Phường Tân Biên|Số 255, Đường Đồng Khởi, Phường Tân Biên, Long Bình Tân, Biên Hòa|DN254606406|2027-07-21
+B00000628|959884854|Nguyễn Yến Tiếp|08560547511|nguyenyentiep@hospital.local|Biên Hòa|Phường Tân Mai|Số 37, Đường Phạm Văn Thuận, Phường Tân Mai, Trảng Dài, Biên Hòa|HA198734971|2029-05-05
+B00000629|909945882|Đỗ Lan Long|08447573480|dolanlong@hospital.local|Bình Dương|Phường Đông Hòa|Số 257, Đường Nguyễn Trãi, Phường Đông Hòa, Dĩ An, Bình Dương|DN133923501|2027-10-17
+B00000630|557201773|Dương Hà Sang|08799138904|duonghasang@hospital.local|Hà Nội|Phường Minh Khai|Số 276, Đường Bưởi, Phường Minh Khai, Hai Bà Trưng, Hà Nội|TA758382897|2027-09-09
+B00000631|180475270|Đỗ Vân Uyển|09230226586|dovanuyen@hospital.local|Đà Nẵng|Phường Hòa Hải|Số 395, Đường Võ Nguyên Giáp, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng|CT636265846|2028-10-06
+B00000632|202986812|Phạm Phương Uy|09394695577|phamphuonguy@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 274, Đường Trường Sa, Phường 7, Quận 3, TP. Hồ Chí Minh|HA853184783|2028-06-23
+B00000633|582670416|Trần Khánh Uyên|09099590055|trankhanhuyen@hospital.local|Hải Phòng|Phường Đông Khê|Số 202, Đường Trần Phú, Phường Đông Khê, Ngô Quyền, Hải Phòng|HD675065274|2029-04-22
+B00000634|732679553|Tạ Hiền Sở|08220408988|tahienso@hospital.local|Hà Nội|Phường Ô Chợ Dừa|Số 422, Đường Bưởi, Phường Ô Chợ Dừa, Đống Đa, Hà Nội|TG877196228|2029-04-06
+B00000635|335109715|Hoàng Thanh Hùng|09186420769|hoangthanhhung@hospital.local|Biên Hòa|Phường An Bình|Số 169, Đường Võ Thị Sáu, Phường An Bình, Long Bình Tân, Biên Hòa|HA515415903|2029-06-04
+B00000636|764507233|Trần Hà Tự|08512062892|tranhatu@hospital.local|Hà Nội|Phường Hàng Gai|Số 469, Đường Bưởi, Phường Hàng Gai, Hoàn Kiếm, Hà Nội|BA710438841|2027-11-19
+B00000637|571183510|Dương Linh Thích|08818715550|duonglinhthich@hospital.local|Hà Nội|Phường Quan Hoa|Số 64, Đường Nguyễn Văn Cừ, Phường Quan Hoa, Cầu Giấy, Hà Nội||
+B00000638|203919682|Lê Anh Kim|09424858834|leanhkim@hospital.local|Hải Phòng|Phường Vạn Mỹ|Số 400, Đường Lạch Tray, Phường Vạn Mỹ, Ngô Quyền, Hải Phòng||
+B00000639|571827677|Đặng Quốc Thúy|08043072228|dangquocthuy@hospital.local|Đà Nẵng|Phường Tam Thuận|Số 265, Đường Nguyễn Văn Linh, Phường Tam Thuận, Thanh Khê, Đà Nẵng|NT645680986|2029-05-16
+B00000640|148283013|Nguyễn Hữu Tiết|09645571710|nguyenhuutiet@hospital.local|Hải Dương|Phường Tân Bình|Số 437, Đường Phạm Ngũ Lão, Phường Tân Bình, Hải Dương, Hải Dương||
+B00000641|142885809|Dương Vân Mạnh|09113436636|duongvanmanh@hospital.local|Hải Phòng|Phường An Dương|Số 319, Đường Lạch Tray, Phường An Dương, Lê Chân, Hải Phòng|NT170947852|2029-03-10
+B00000642|716583040|Bùi Hà Thoát|09717795006|buihathoat@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 415, Đường Kinh Dương Vương, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|HD757652693|2027-10-19
+B00000643|253009942|Tạ Vân Thục|08944750715|tavanthuc@hospital.local|Đà Nẵng|Phường Hải Châu I|Số 431, Đường Võ Nguyên Giáp, Phường Hải Châu I, Hải Châu, Đà Nẵng|BH579828483|2028-05-15
+B00000644|877356068|Phạm Uyên Tông|08550446280|phamuyentong@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 94, Đường Lê Thánh Tôn, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang|BA955930162|2028-06-09
+B00000645|469624077|Hoàng Hữu Hồng|09497923496|hoanghuuhong@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 266, Đường Trần Phú, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang||
+B00000646|536032778|Đinh Hương Mỹ|09299024517|dinhhuongmy@hospital.local|Cần Thơ|Phường Bùi Hữu Nghĩa|Số 296, Đường 30 Tháng 4, Phường Bùi Hữu Nghĩa, Bình Thủy, Cần Thơ|DN641532198|2028-10-03
+B00000647|626580681|Lê Hữu Minh|08930787728|lehuuminh@hospital.local|TP. Hồ Chí Minh|Phường Bến Nghé|Số 132, Đường Trường Sa, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh|HCM162656471|2027-07-05
+B00000648|124661662|Nguyễn Khánh Lực|09432455015|nguyenkhanhluc@hospital.local|TP. Hồ Chí Minh|Phường 15|Số 14, Đường Trường Sa, Phường 15, Quận 10, TP. Hồ Chí Minh||
+B00000649|606392155|Đinh Phương Sáu|09894966555|dinhphuongsau@hospital.local|Hải Phòng|Phường An Biên|Số 353, Đường Lạch Tray, Phường An Biên, Lê Chân, Hải Phòng|VT678990447|2029-01-22
+B00000650|571044104|Nguyễn Văn Rên|09475583943|nguyenvanren@hospital.local|Biên Hòa|Phường Tân Biên|Số 247, Đường Võ Thị Sáu, Phường Tân Biên, Long Bình Tân, Biên Hòa|HCM304113282|2027-08-03
+B00000651|419633912|Dương Đình Sở|08654049310|duongdinhso@hospital.local|Bình Dương|Phường Tân Bình|Số 494, Đường Hùng Vương, Phường Tân Bình, Dĩ An, Bình Dương|TG682894792|2027-09-30
+B00000652|571434105|Phan Thị Tuy|08795915863|phanthituy@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 205, Đường Lý Thái Tổ, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|VT571383134|2028-12-14
+B00000653|196477248|Phan Hà Mộng|09076193400|phanhamong@hospital.local|Biên Hòa|Phường Tân Phong|Số 51, Đường Võ Thị Sáu, Phường Tân Phong, Trảng Dài, Biên Hòa|DA543774128|2029-04-24
+B00000654|937359902|Bùi Phương Tín|08818582244|buiphuongtin@hospital.local|Hà Nội|Phường Thanh Nhàn|Số 487, Đường Láng, Phường Thanh Nhàn, Hai Bà Trưng, Hà Nội|DA347419335|2028-12-12
+B00000655|781936021|Đỗ Vân Riêng|08572884786|dovanrieng@hospital.local|Hà Nội|Phường Quan Hoa|Số 471, Đường Giảng Võ, Phường Quan Hoa, Cầu Giấy, Hà Nội||
+B00000656|682768135|Phan Hiền Tuý|08062794562|phanhientuy@hospital.local|TP. Hồ Chí Minh|Phường Bến Nghé|Số 258, Đường Nguyễn Thị Minh Khai, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh|BA282969692|2029-02-24
+B00000657|331265811|Phan Yến Tuệ|09655880137|phanyentue@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 122, Đường Cách Mạng Tháng Tám, Phường 7, Quận 3, TP. Hồ Chí Minh|NT297766935|2027-10-12
+B00000658|425805593|Phan Phương Tinh|08722179647|phanphuongtinh@hospital.local|Biên Hòa|Phường Long Bình Tân|Số 350, Đường Võ Thị Sáu, Phường Long Bình Tân, Long Bình Tân, Biên Hòa||
+B00000659|493364727|Hồ Trang Oánh|09060278444|hotrangoanh@hospital.local|Hà Nội|Phường Thái Hà|Số 11, Đường Trần Duy Hưng, Phường Thái Hà, Đống Đa, Hà Nội|HP445735608|2028-06-07
+B00000660|841260291|Đỗ Vân Sở|08339335266|dovanso@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 23, Đường Lê Thánh Tôn, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|VT136907338|2028-08-24
+B00000661|936886944|Lê Lan Tuy|09115217275|lelantuy@hospital.local|Nha Trang|Phường Ninh Thạnh|Số 365, Đường Lê Thánh Tôn, Phường Ninh Thạnh, Ninh Hiệp, Nha Trang|VT971063474|2027-06-26
+B00000662|557064648|Đặng Vân Hào|09271029955|dangvanhao@hospital.local|Hà Nội|Phường Phúc Tân|Số 198, Đường Giảng Võ, Phường Phúc Tân, Hoàn Kiếm, Hà Nội|TG747463428|2028-07-11
+B00000663|834325995|Dương Minh Thuận|09492777902|duongminhthuan@hospital.local|Bình Dương|Phường Tân Bình|Số 182, Đường Nguyễn Trãi, Phường Tân Bình, Dĩ An, Bình Dương||
+B00000664|271637537|Đặng Thị Uyêu|09662726503|dangthiuyeu@hospital.local|Đà Nẵng|Phường Hòa Khê|Số 154, Đường Hoàng Sa, Phường Hòa Khê, Thanh Khê, Đà Nẵng||
+B00000665|871010221|Hoàng Hà Thìn|08715826790|hoanghathin@hospital.local|Bắc Ninh|Xã Ninh Xá|Số 393, Đường Kinh Dương Vương, Xã Ninh Xá, Huyện Thuận Thành, Bắc Ninh||
+B00000666|849029517|Đỗ Phương Thưa|08786713246|dophuongthua@hospital.local|Bình Dương|Phường Phú Cường|Số 72, Đường Nguyễn Trãi, Phường Phú Cường, Thủ Dầu Một, Bình Dương||
+B00000667|426932880|Đỗ Hà Tinh|08433859180|dohatinh@hospital.local|TP. Hồ Chí Minh|Phường 14|Số 434, Đường Nguyễn Thị Minh Khai, Phường 14, Quận 10, TP. Hồ Chí Minh||
+B00000668|868958540|Đặng Linh Toàng|08284875470|danglinhtoang@hospital.local|Hải Dương|Phường Trần Hưng Đạo|Số 47, Đường Nguyễn Trãi, Phường Trần Hưng Đạo, Hải Dương, Hải Dương|HP187942116|2029-04-12
+B00000669|922667697|Phan Vân Đạt|09263975011|phanvandat@hospital.local|Bình Dương|Phường Đông Hòa|Số 21, Đường Nguyễn Trãi, Phường Đông Hòa, Dĩ An, Bình Dương|DN391813380|2028-11-01
+B00000670|536547565|Hồ Văn Tiết|09477849258|hovantiet@hospital.local|TP. Hồ Chí Minh|Phường 14|Số 65, Đường Trường Sa, Phường 14, Quận 10, TP. Hồ Chí Minh|CT931209702|2027-09-03
+B00000671|357602442|Vũ Phương Tự|08110512827|vuphuongtu@hospital.local|TP. Hồ Chí Minh|Phường 2|Số 464, Đường Lê Văn Sỹ, Phường 2, Quận 5, TP. Hồ Chí Minh|BA903913092|2028-08-12
+B00000672|732111608|Phạm Vân Phi|09014895057|phamvanphi@hospital.local|Hải Phòng|Phường An Dương|Số 440, Đường Trần Phú, Phường An Dương, Lê Chân, Hải Phòng|CT512084417|2029-06-09
+B00000673|396388897|Lê Thị Tứ|08720566989|lethitu@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 315, Đường Cách Mạng Tháng Tám, Phường 8, Quận 5, TP. Hồ Chí Minh|BA956548476|2027-09-09
+B00000674|683948648|Tạ Thị Tâng|08073458951|tathitang@hospital.local|Bình Dương|Phường Tân Bình|Số 401, Đường Nguyễn Trãi, Phường Tân Bình, Dĩ An, Bình Dương|HP863626095|2029-01-05
+B00000675|119741769|Đinh Quốc Thiều|09673171594|dinhquocthieu@hospital.local|Bắc Ninh|Thị trấn Hồ|Số 497, Đường Lý Thái Tổ, Thị trấn Hồ, Huyện Thuận Thành, Bắc Ninh|BH507075714|2028-03-24
+B00000676|616863079|Đỗ Thanh Thía|09565043951|dothanhthia@hospital.local|Hải Dương|Phường Tân Bình|Số 350, Đường Nguyễn Trãi, Phường Tân Bình, Hải Dương, Hải Dương|HP862849224|2029-03-18
+B00000677|775528575|Tô Hương Long|08891298759|tohuonglong@hospital.local|TP. Hồ Chí Minh|Phường 8|Số 102, Đường Nguyễn Tri Phương, Phường 8, Quận 5, TP. Hồ Chí Minh||
+B00000678|643498264|Phan Hà Tiết|09950231969|phanhatiet@hospital.local|Bình Dương|Phường Phú Cường|Số 272, Đường Hùng Vương, Phường Phú Cường, Thủ Dầu Một, Bình Dương||
+B00000679|503939004|Dương Anh Thoa|08416890131|duonganhthoa@hospital.local|Biên Hòa|Phường Tân Phong|Số 146, Đường Phạm Văn Thuận, Phường Tân Phong, Trảng Dài, Biên Hòa|HP502486352|2028-09-18
+B00000680|385421668|Đặng Quốc Hưỡng|09511575186|dangquochuong@hospital.local|Cần Thơ|Phường An Khánh|Số 497, Đường Trần Văn Hoài, Phường An Khánh, Ninh Kiều, Cần Thơ||
+B00000681|416209682|Bùi Anh Toàng|08365454043|buianhtoang@hospital.local|Hà Nội|Phường Láng Thượng|Số 115, Đường Giảng Võ, Phường Láng Thượng, Đống Đa, Hà Nội||
+B00000682|609069574|Lê Văn Thêm|08791515266|levanthem@hospital.local|TP. Hồ Chí Minh|Phường Tân Định|Số 153, Đường Lê Văn Sỹ, Phường Tân Định, Quận 1, TP. Hồ Chí Minh||
+B00000683|462205016|Tạ Thị Tâng|09923559962|tathitang@hospital.local|TP. Hồ Chí Minh|Phường 7|Số 264, Đường Cách Mạng Tháng Tám, Phường 7, Quận 3, TP. Hồ Chí Minh|HD222447830|2028-10-13
+B00000684|665985046|Dương Hiền Tây|08938316462|duonghientay@hospital.local|Bình Dương|Phường Tân Bình|Số 168, Đường Nguyễn Trãi, Phường Tân Bình, Dĩ An, Bình Dương|HP368873596|2027-09-05
+B00000685|605784541|Trần Khánh Khải|08399737669|trankhanhkhai@hospital.local|Nha Trang|Phường Vĩnh Nguyên|Số 229, Đường Trần Phú, Phường Vĩnh Nguyên, Vĩnh Hòa, Nha Trang||
+B00000686|677692382|Đặng Phương Tiếu|08354178629|dangphuongtieu@hospital.local|Cần Thơ|Phường Long Hòa|Số 377, Đường 30 Tháng 4, Phường Long Hòa, Bình Thủy, Cần Thơ||
+B00000687|392415995|Đặng Anh Tưởng|09491424474|danganhtuong@hospital.local|Cần Thơ|Phường An Thới|Số 288, Đường 30 Tháng 4, Phường An Thới, Bình Thủy, Cần Thơ||
+B00000688|483728800|Phạm Hữu Hòa|08647710304|phamhuuhoa@hospital.local|Hải Phòng|Phường Đông Khê|Số 294, Đường Lạch Tray, Phường Đông Khê, Ngô Quyền, Hải Phòng|DN844910150|2027-10-15
+B00000689|124364542|Đỗ Hữu Kim|08638443351|dohuukim@hospital.local|Bình Dương|Phường Tân Bình|Số 77, Đường Hùng Vương, Phường Tân Bình, Dĩ An, Bình Dương|NT326420897|2028-02-14
+B00000690|995170048|Đinh Vân Thái|08773135398|dinhvanthai@hospital.local|Bình Dương|Phường Đông Hòa|Số 225, Đường Phú Lợi, Phường Đông Hòa, Dĩ An, Bình Dương||
+B00000691|807201936|Hồ Hữu Tịnh|09718513004|hohuutinh@hospital.local|Bình Dương|Phường Phú Cường|Số 47, Đường Hùng Vương, Phường Phú Cường, Thủ Dầu Một, Bình Dương|VT559621280|2027-08-15
+B00000692|295001924|Bùi Khánh Thục|09587465219|buikhanhthuc@hospital.local|Nha Trang|Phường Ninh Hiệp|Số 127, Đường Lê Thánh Tôn, Phường Ninh Hiệp, Ninh Hiệp, Nha Trang|BA793123278|2027-12-10
+B00000693|923130014|Tô Văn Nhân|08596070491|tovannhan@hospital.local|Đà Nẵng|Phường Hòa Hải|Số 458, Đường Nguyễn Văn Linh, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng|HD716412631|2028-06-15
+B00000694|439809294|Phan Vân Hồng|09140134231|phanvanhong@hospital.local|TP. Hồ Chí Minh|Phường Bến Nghé|Số 39, Đường Trường Sa, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh|DA124318037|2028-10-09
+B00000695|856359869|Vũ Vân Sơn|08587903635|vuvanson@hospital.local|Hải Phòng|Phường An Biên|Số 56, Đường Cầu Đất, Phường An Biên, Lê Chân, Hải Phòng|BH977013452|2028-08-25
+B00000696|638214765|Dương Hương Thạo|09991606517|duonghuongthao@hospital.local|TP. Hồ Chí Minh|Phường 15|Số 12, Đường Cách Mạng Tháng Tám, Phường 15, Quận 10, TP. Hồ Chí Minh|CT784550308|2028-07-27
+B00000697|633235429|Tạ Uyên Phụng|08630337381|tauyenphung@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 377, Đường Lý Thái Tổ, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|CT435849839|2029-04-04
+B00000698|367061569|Vũ Yến Tinh|08517004303|vuyentinh@hospital.local|Bắc Ninh|Phường Đồng Nguyên|Số 156, Đường Kinh Dương Vương, Phường Đồng Nguyên, Thị xã Từ Sơn, Bắc Ninh|CT483473211|2028-05-25
+B00000699|136921569|Hoàng Quốc Hải|08415246188|hoangquochai@hospital.local|Biên Hòa|Phường Tân Mai|Số 302, Đường Đồng Khởi, Phường Tân Mai, Trảng Dài, Biên Hòa|CT188018794|2028-04-22
+B00000700|524802080|Vũ Khánh Thoát|08460784391|vukhanhthoat@hospital.local|Biên Hòa|Phường An Bình|Số 129, Đường Phạm Văn Thuận, Phường An Bình, Long Bình Tân, Biên Hòa|TG794583357|2027-11-23
