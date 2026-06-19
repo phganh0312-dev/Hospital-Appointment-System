@@ -5,7 +5,7 @@ from managers.file_handler import FileHandler
 from managers.base_manager import (
     BaseManager, ValidationError, DataConsistencyError
 )
- 
+
  
 # =========================================================================
 # TRANSACTION CLASS - GHI NHẬN THAY ĐỔI (ĐÃ CHUẨN HÓA KHÔNG DÙNG DICT NATIVE)
@@ -25,6 +25,7 @@ class Transaction:
         
         # Sử dụng HashTable tự xây để lưu state trước khi thay đổi (Hỗ trợ Rollback khi lỗi)
         self.snapshots = HashTable() 
+        
  
  
 # =========================================================================
@@ -42,6 +43,7 @@ class AppointmentManager(BaseManager):
         self.schedule_manager = schedule_manager
         self.doctor_manager = doctor_manager
         self.user_manager = user_manager
+        self.patient_manager = user_manager.patient_manager if user_manager else None
         
         # Danh sách liên kết lưu lịch sử các Transaction xử lý lịch hẹn
         self.transactions = LinkedList()
@@ -58,7 +60,7 @@ class AppointmentManager(BaseManager):
             FileHandler.save_data(
                 "data/appointments.txt",
                 self.appointments,
-                lambda a: f"{a.id}|{a.patient_id}|{a.schedule_id}|{a.status}|{a.created_at}"
+                lambda a: f"{a.id}|{a.patient_id}|{a.schedule_id}|{a.status}|{getattr(a, 'payment_status', '')}"
             )
         except Exception as e:
             print(f"Lỗi đồng bộ file appointments.txt: {e}")
