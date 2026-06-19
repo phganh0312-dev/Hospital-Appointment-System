@@ -2,23 +2,25 @@ from structures.node import Node
 
 class LinkedList:
     def __init__(self): # Khởi tạo một danh sách liên kết mới với head và tail ban đầu là None
-        self.head = None
-        self.tail = None
+        self.head: Node | None = None  # SỬA NHẸ Ở ĐÂY: Khai báo rõ kiểu dữ liệu
+        self.tail: Node | None = None  # SỬA NHẸ Ở ĐÂY: Khai báo rõ kiểu dữ liệu
+        
     def append(self, value):  # Thêm nút vào cuối danh sách, độ phức tạp O(1)
         new_node = Node(value)
         if not self.head:  # Nếu danh sách rỗng, cả head và tail đều trỏ đến nút mới
             self.head = new_node
             self.tail = new_node
-        else:  # Nếu danh sách không rỗng, cập nhật tail để trỏ đến nút mới
+        elif self.tail:  # SỬA NHẸ Ở ĐÂY: Đổi 'else' thành 'elif self.tail' để Pylance chắc chắn tail khác None
             self.tail.next = new_node  # Thêm một nút mới vào sau tail hiện tại
             self.tail = new_node  # Bây giờ nút mới trở thành tail
+            
     def remove(self, id_key):  # Xóa nút có id (dạng chuỗi vd: 'D001') cụ thể, độ phức tạp O(n)
         s = str(id_key)
         if not (s and s[0].isalpha() and s[1:].isdigit()): # Kiểm tra định dạng id hợp lệ: phải bắt đầu bằng chữ cái và theo sau là số (vd: 'D001')
             print("ID không hợp lệ.")
             return
         current = self.head
-        previous = None  # Biến trỏ đến nút trước đó, ban đầu là None vì ở trước head
+        previous: Node | None = None  # SỬA NHẸ Ở ĐÂY: Thêm type hint cho previous
         while current:
             entity_id = getattr(current.value, 'id', None) # Nếu thực thể không có id thì trả về None
             if entity_id is not None and str(entity_id) == str(id_key):  # Nếu nút hiện tại không rỗng và có id cần xóa
@@ -31,6 +33,7 @@ class LinkedList:
                 return
             previous = current  # Cập nhật previous để trỏ đến nút hiện tại trước khi di chuyển sang nút tiếp theo
             current = current.next  # Di chuyển đến nút tiếp theo
+            
     def find_by_attribute(self, attr_name, value): # Tìm kiếm nút có giá trị của một thuộc tính cụ thể, độ phức tạp O(n)
         s = str(attr_name) # Tên thuộc tính (vd: 'name', 'id', 'phone'...)
         if not s:  # Kiểm tra nếu tên thuộc tính là rỗng hoặc không hợp lệ
@@ -47,6 +50,7 @@ class LinkedList:
                 return current.value  
             current = current.next # Di chuyển đến nút tiếp theo
         return None # Nếu không tìm thấy nút nào có giá trị cần tìm, trả về None
+        
     def display(self):  # Hiển thị tất cả các giá trị trong danh sách, độ phức tạp O(n)
         current = self.head
         if not current: # Nếu danh sách rỗng
@@ -58,6 +62,7 @@ class LinkedList:
             output += " ; " + str(current.value) # Thêm giá trị của nút hiện tại vào chuỗi kết quả, ngăn cách bằng " ; "
             current = current.next # Di chuyển đến nút tiếp theo
         print(output) # In ra chuỗi kết quả chứa tất cả các giá trị trong danh sách liên kết, ngăn cách bằng " ; "
+        
     def __iter__(self): # Cho phép lặp qua các nút trong LinkedList bằng cách sử dụng vòng lặp for hoặc các hàm lặp khác, độ phức tạp O(n)
         current = self.head
         while current:
