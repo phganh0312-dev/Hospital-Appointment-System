@@ -136,7 +136,7 @@ def generate_random_phone(existing_phones=None):
 
 def generate_random_cccd():
     """Tạo số CCCD ngẫu nhiên"""
-    return f"{random.randint(100000000, 999999999)}"
+    return f"{random.randint(10000000000, 99999999999)}"
 
 def generate_random_bhyt():
     """Tạo số BHYT ngẫu nhiên (có đầu chữ tỉnh) - 70% có BHYT"""
@@ -269,8 +269,15 @@ def generate_appointments(patients, schedules, num_appointments=300):
         appointment_id_counter += 1
         patient_id = random.choice([p.split('|')[0] for p in patients])
         schedule_id = schedules_list[i].split('|')[0]
+        
         status = random.choice(STATUSES)
-        payment_status = 'Đã thanh toán' if status != 'Đã đặt' else 'Chưa thanh toán'
+        
+        # Chỉ những ca đã khám hoặc hoàn thành mới được tính là đã trả tiền trực tiếp
+        if status in ['Đã khám', 'Đã hoàn thành']:
+            payment_status = 'Đã thanh toán'
+        else:
+            payment_status = 'Chưa thanh toán'
+            
         appointments.append(f"{appointment_id}|{patient_id}|{schedule_id}|{status}|{payment_status}")
         schedules_list[i] = schedules_list[i].replace('|False', '|True')
     return appointments

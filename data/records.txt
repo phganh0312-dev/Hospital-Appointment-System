@@ -1,300 +1,300 @@
-R00000001|A00000001|Sốt cao|Bệnh tim mạch|Loratadine 10mg/ngày
-R00000002|A00000002|Viêm mắt|Viêm đường tiết niệu|Paracetamol 500mg x3/ngày
-R00000003|A00000003|Hụt hơi, Khó thở|Viêm khớp|Omeprazole 20mg x2/ngày
-R00000004|A00000004|Mệt mỏi|Viêm phổi|Amoxicillin 500mg x3/ngày
-R00000005|A00000005|Đau ngực, Nôn, Viêm mắt|Hen phế quản|Omeprazole 20mg x2/ngày
-R00000006|A00000006|Táo bón, Đau lưng|Đau đầu căng thẳng|Amoxicillin 500mg x3/ngày
-R00000007|A00000007|Suy nhược, Hụt hơi|Rối loạn tiêu hóa|Ibuprofen 400mg x3/ngày
-R00000008|A00000008|Đau bụng, Đau đầu, Chóng mặt|Viêm đường tiết niệu|Aspirin 100mg/ngày
-R00000009|A00000009|Viêm mắt|Viêm amidan|Amoxicillin 500mg x3/ngày
-R00000010|A00000010|Viêm tai, Sốt cao, Hụt hơi|Cảm lạnh|Loratadine 10mg/ngày
-R00000011|A00000011|Viêm mắt, Táo bón|Bệnh tim mạch|Paracetamol 500mg x3/ngày
-R00000012|A00000012|Rối loạn giấc ngủ|Viêm da cơ địa|Omeprazole 20mg x2/ngày
-R00000013|A00000013|Chóng mặt|Rối loạn tiêu hóa|Ibuprofen 400mg x3/ngày
-R00000014|A00000014|Đau bụng, Viêm tai, Táo bón|Viêm amidan|Dextromethorphan 10mg x3/ngày
-R00000015|A00000015|Chóng mặt|Bệnh tim mạch|Loratadine 10mg/ngày
-R00000016|A00000016|Đau ngực, Viêm mắt|Đái tháo đường|Omeprazole 20mg x2/ngày
-R00000017|A00000017|Mệt mỏi, Đau họng|Viêm đường tiết niệu|Dextromethorphan 10mg x3/ngày
-R00000018|A00000018|Nôn|Đau đầu căng thẳng|Paracetamol 500mg x3/ngày
-R00000019|A00000019|Sốt cao, Đau ngực|Viêm khớp|Aspirin 100mg/ngày
-R00000020|A00000020|Chóng mặt, Khó thở|Đau đầu căng thẳng|Ibuprofen 400mg x3/ngày
-R00000021|A00000021|Rối loạn giấc ngủ, Sốt cao, Đau họng|Viêm gan|Aspirin 100mg/ngày
-R00000022|A00000022|Sụt cân, Phát ban, Khó thở|Cảm lạnh|Paracetamol 500mg x3/ngày
-R00000023|A00000023|Đau ngực|Thiếu máu|Omeprazole 20mg x2/ngày
-R00000024|A00000024|Phát ban, Táo bón, Đau họng|Huyết áp cao|Aspirin 100mg/ngày
-R00000025|A00000025|Chóng mặt|Viêm đường tiết niệu|Loratadine 10mg/ngày
-R00000026|A00000026|Mệt mỏi, Khó thở|Đau đầu căng thẳng|Paracetamol 500mg x3/ngày
-R00000027|A00000027|Chóng mặt|Viêm họng|Amoxicillin 500mg x3/ngày
-R00000028|A00000028|Suy nhược|Viêm da cơ địa|Paracetamol 500mg x3/ngày
-R00000029|A00000029|Viêm tai|Rối loạn tiêu hóa|Paracetamol 500mg x3/ngày
-R00000030|A00000030|Viêm mắt|Viêm xoang|Dextromethorphan 10mg x3/ngày
-R00000031|A00000031|Hụt hơi|Viêm họng|Omeprazole 20mg x2/ngày
-R00000032|A00000032|Đau lưng, Sốt cao, Nôn|Viêm họng|Dextromethorphan 10mg x3/ngày
-R00000033|A00000033|Rối loạn giấc ngủ|Đau đầu căng thẳng|Amoxicillin 500mg x3/ngày
-R00000034|A00000034|Suy nhược, Đau họng, Đau đầu|Cảm lạnh|Aspirin 100mg/ngày
-R00000035|A00000035|Tiêu chảy|Viêm da cơ địa|Aspirin 100mg/ngày
-R00000036|A00000036|Viêm mắt, Phát ban|Viêm họng|Loratadine 10mg/ngày
-R00000037|A00000037|Tiêu chảy|Viêm da cơ địa|Aspirin 100mg/ngày
-R00000038|A00000038|Mệt mỏi, Đau họng|Viêm xoang|Dextromethorphan 10mg x3/ngày
-R00000039|A00000039|Viêm tai|Thiếu máu|Aspirin 100mg/ngày
-R00000040|A00000040|Rối loạn giấc ngủ, Viêm tai, Sụt cân|Thiếu máu|Amoxicillin 500mg x3/ngày
-R00000041|A00000041|Sụt cân, Mệt mỏi, Đau đầu|Viêm dây thần kinh|Paracetamol 500mg x3/ngày
-R00000042|A00000042|Rối loạn giấc ngủ, Khó thở|Viêm amidan|Ibuprofen 400mg x3/ngày
-R00000043|A00000043|Hụt hơi, Suy nhược|Bệnh tim mạch|Paracetamol 500mg x3/ngày
-R00000044|A00000044|Chóng mặt|Viêm dây thần kinh|Vitamin C 500mg x2/ngày
-R00000045|A00000045|Chóng mặt, Rối loạn giấc ngủ|Đái tháo đường|Aspirin 100mg/ngày
-R00000046|A00000046|Đau ngực, Viêm tai, Nôn|Viêm khớp|Loratadine 10mg/ngày
-R00000047|A00000047|Viêm tai|Viêm gan|Aspirin 100mg/ngày
-R00000048|A00000048|Chóng mặt|Cảm lạnh|Amoxicillin 500mg x3/ngày
-R00000049|A00000049|Viêm tai, Phát ban, Đau họng|Tiêu chảy cấp|Vitamin C 500mg x2/ngày
-R00000050|A00000050|Nôn, Táo bón, Suy nhược|Viêm phổi|Paracetamol 500mg x3/ngày
-R00000051|A00000051|Sốt cao, Chóng mặt, Mệt mỏi|Đau đầu căng thẳng|Aspirin 100mg/ngày
-R00000052|A00000052|Táo bón, Đau lưng, Nôn|Tiêu chảy cấp|Loratadine 10mg/ngày
-R00000053|A00000053|Ho|Cảm lạnh|Omeprazole 20mg x2/ngày
-R00000054|A00000054|Đau bụng|Viêm xoang|Omeprazole 20mg x2/ngày
-R00000055|A00000055|Khó thở|Viêm tai giữa|Dextromethorphan 10mg x3/ngày
-R00000056|A00000056|Tiêu chảy|Viêm khớp|Omeprazole 20mg x2/ngày
-R00000057|A00000057|Đau lưng, Đau bụng|Viêm phổi|Vitamin C 500mg x2/ngày
-R00000058|A00000058|Nôn|Viêm khớp|Aspirin 100mg/ngày
-R00000059|A00000059|Mệt mỏi, Đau lưng|Huyết áp cao|Ibuprofen 400mg x3/ngày
-R00000060|A00000060|Tiêu chảy|Viêm da cơ địa|Omeprazole 20mg x2/ngày
-R00000061|A00000061|Viêm tai, Đau họng, Đau đầu|Viêm dây thần kinh|Loratadine 10mg/ngày
-R00000062|A00000062|Khó thở|Huyết áp cao|Omeprazole 20mg x2/ngày
-R00000063|A00000063|Rối loạn giấc ngủ, Đau ngực|Viêm dây thần kinh|Loratadine 10mg/ngày
-R00000064|A00000064|Sốt cao|Viêm đường tiết niệu|Vitamin C 500mg x2/ngày
-R00000065|A00000065|Rối loạn giấc ngủ, Nôn|Đái tháo đường|Omeprazole 20mg x2/ngày
-R00000066|A00000066|Khó thở, Hụt hơi|Thiếu máu|Dextromethorphan 10mg x3/ngày
-R00000067|A00000067|Đau đầu|Hen phế quản|Paracetamol 500mg x3/ngày
-R00000068|A00000068|Đau lưng, Nôn, Suy nhược|Viêm khớp|Vitamin C 500mg x2/ngày
-R00000069|A00000069|Viêm tai, Khó thở, Ho|Bệnh tim mạch|Paracetamol 500mg x3/ngày
-R00000070|A00000070|Rối loạn giấc ngủ, Tiêu chảy|Viêm gan|Amoxicillin 500mg x3/ngày
-R00000071|A00000071|Nôn|Viêm họng|Amoxicillin 500mg x3/ngày
-R00000072|A00000072|Mệt mỏi, Ho, Suy nhược|Cảm lạnh|Vitamin C 500mg x2/ngày
-R00000073|A00000073|Đau họng, Viêm tai, Chóng mặt|Viêm phổi|Vitamin C 500mg x2/ngày
-R00000074|A00000074|Hụt hơi, Viêm mắt|Loét dạ dày|Aspirin 100mg/ngày
-R00000075|A00000075|Hụt hơi, Phát ban, Táo bón|Bệnh tim mạch|Ibuprofen 400mg x3/ngày
-R00000076|A00000076|Suy nhược, Chóng mặt|Hen phế quản|Vitamin C 500mg x2/ngày
-R00000077|A00000077|Sốt cao|Loét dạ dày|Dextromethorphan 10mg x3/ngày
-R00000078|A00000078|Táo bón|Viêm họng|Aspirin 100mg/ngày
-R00000079|A00000079|Ho|Viêm phổi|Amoxicillin 500mg x3/ngày
-R00000080|A00000080|Viêm tai|Viêm amidan|Aspirin 100mg/ngày
-R00000081|A00000081|Sụt cân|Viêm tai giữa|Ibuprofen 400mg x3/ngày
-R00000082|A00000082|Khó thở|Viêm xoang|Amoxicillin 500mg x3/ngày
-R00000083|A00000083|Phát ban|Viêm phổi|Aspirin 100mg/ngày
-R00000084|A00000084|Đau ngực, Sốt cao|Viêm xoang|Loratadine 10mg/ngày
-R00000085|A00000085|Đau bụng|Viêm họng|Loratadine 10mg/ngày
-R00000086|A00000086|Mệt mỏi|Viêm gan|Paracetamol 500mg x3/ngày
-R00000087|A00000087|Ho|Viêm xoang|Amoxicillin 500mg x3/ngày
-R00000088|A00000088|Suy nhược, Tiêu chảy|Viêm họng|Loratadine 10mg/ngày
-R00000089|A00000089|Đau lưng, Đau bụng, Ho|Viêm đường tiết niệu|Amoxicillin 500mg x3/ngày
-R00000090|A00000090|Đau lưng|Đau đầu căng thẳng|Amoxicillin 500mg x3/ngày
-R00000091|A00000091|Rối loạn giấc ngủ, Đau ngực, Nôn|Tiêu chảy cấp|Dextromethorphan 10mg x3/ngày
-R00000092|A00000092|Viêm mắt, Viêm tai, Hụt hơi|Viêm xoang|Dextromethorphan 10mg x3/ngày
-R00000093|A00000093|Tiêu chảy|Huyết áp cao|Paracetamol 500mg x3/ngày
-R00000094|A00000094|Mệt mỏi|Tiêu chảy cấp|Dextromethorphan 10mg x3/ngày
-R00000095|A00000095|Sụt cân, Đau lưng, Hụt hơi|Hen phế quản|Amoxicillin 500mg x3/ngày
-R00000096|A00000096|Viêm tai|Tiêu chảy cấp|Aspirin 100mg/ngày
-R00000097|A00000097|Đau họng, Nôn|Viêm khớp|Paracetamol 500mg x3/ngày
-R00000098|A00000098|Tiêu chảy, Khó thở|Viêm da cơ địa|Loratadine 10mg/ngày
-R00000099|A00000099|Rối loạn giấc ngủ, Chóng mặt, Suy nhược|Viêm phổi|Vitamin C 500mg x2/ngày
-R00000100|A00000100|Hụt hơi|Viêm gan|Dextromethorphan 10mg x3/ngày
-R00000101|A00000101|Sụt cân, Mệt mỏi|Huyết áp cao|Vitamin C 500mg x2/ngày
-R00000102|A00000102|Đau họng, Sụt cân, Táo bón|Đau đầu căng thẳng|Ibuprofen 400mg x3/ngày
-R00000103|A00000103|Táo bón|Đau đầu căng thẳng|Loratadine 10mg/ngày
-R00000104|A00000104|Sụt cân, Viêm mắt|Viêm họng|Dextromethorphan 10mg x3/ngày
-R00000105|A00000105|Táo bón, Rối loạn giấc ngủ|Viêm xoang|Ibuprofen 400mg x3/ngày
-R00000106|A00000106|Tiêu chảy|Thiếu máu|Vitamin C 500mg x2/ngày
-R00000107|A00000107|Sụt cân|Viêm tai giữa|Vitamin C 500mg x2/ngày
-R00000108|A00000108|Viêm tai|Rối loạn tiêu hóa|Loratadine 10mg/ngày
-R00000109|A00000109|Đau bụng, Phát ban|Viêm họng|Amoxicillin 500mg x3/ngày
-R00000110|A00000110|Sốt cao, Sụt cân, Viêm mắt|Viêm họng|Amoxicillin 500mg x3/ngày
-R00000111|A00000111|Sụt cân, Khó thở, Tiêu chảy|Cảm lạnh|Omeprazole 20mg x2/ngày
-R00000112|A00000112|Nôn, Tiêu chảy, Mệt mỏi|Viêm khớp|Ibuprofen 400mg x3/ngày
-R00000113|A00000113|Phát ban, Đau họng|Hen phế quản|Amoxicillin 500mg x3/ngày
-R00000114|A00000114|Hụt hơi|Thiếu máu|Loratadine 10mg/ngày
-R00000115|A00000115|Phát ban, Khó thở, Rối loạn giấc ngủ|Loét dạ dày|Omeprazole 20mg x2/ngày
-R00000116|A00000116|Đau họng, Khó thở|Huyết áp cao|Vitamin C 500mg x2/ngày
-R00000117|A00000117|Sốt cao|Viêm họng|Omeprazole 20mg x2/ngày
-R00000118|A00000118|Đau lưng, Táo bón, Mệt mỏi|Thiếu máu|Aspirin 100mg/ngày
-R00000119|A00000119|Đau đầu, Táo bón, Suy nhược|Viêm khớp|Ibuprofen 400mg x3/ngày
-R00000120|A00000120|Sụt cân, Đau bụng, Tiêu chảy|Rối loạn tiêu hóa|Omeprazole 20mg x2/ngày
-R00000121|A00000121|Đau lưng, Chóng mặt|Đái tháo đường|Loratadine 10mg/ngày
-R00000122|A00000122|Đau bụng, Đau lưng|Đau đầu căng thẳng|Loratadine 10mg/ngày
-R00000123|A00000123|Đau bụng, Đau ngực|Viêm đường tiết niệu|Aspirin 100mg/ngày
-R00000124|A00000124|Nôn, Táo bón|Viêm họng|Ibuprofen 400mg x3/ngày
-R00000125|A00000125|Đau họng, Phát ban, Chóng mặt|Đau đầu căng thẳng|Paracetamol 500mg x3/ngày
-R00000126|A00000126|Sốt cao, Đau ngực|Thiếu máu|Loratadine 10mg/ngày
-R00000127|A00000127|Đau bụng|Viêm xoang|Dextromethorphan 10mg x3/ngày
-R00000128|A00000128|Viêm mắt|Viêm dây thần kinh|Vitamin C 500mg x2/ngày
-R00000129|A00000129|Phát ban, Đau ngực, Suy nhược|Viêm gan|Vitamin C 500mg x2/ngày
-R00000130|A00000130|Viêm tai|Rối loạn tiêu hóa|Loratadine 10mg/ngày
-R00000131|A00000131|Đau họng|Đái tháo đường|Dextromethorphan 10mg x3/ngày
-R00000132|A00000132|Đau họng, Đau lưng, Đau bụng|Đái tháo đường|Omeprazole 20mg x2/ngày
-R00000133|A00000133|Khó thở, Đau họng|Viêm đường tiết niệu|Amoxicillin 500mg x3/ngày
-R00000134|A00000134|Đau bụng, Viêm mắt|Viêm gan|Vitamin C 500mg x2/ngày
-R00000135|A00000135|Viêm mắt, Đau họng, Phát ban|Viêm khớp|Omeprazole 20mg x2/ngày
-R00000136|A00000136|Chóng mặt, Sốt cao, Đau bụng|Tiêu chảy cấp|Omeprazole 20mg x2/ngày
-R00000137|A00000137|Nôn|Viêm da cơ địa|Aspirin 100mg/ngày
-R00000138|A00000138|Hụt hơi, Ho|Đau đầu căng thẳng|Paracetamol 500mg x3/ngày
-R00000139|A00000139|Sụt cân|Thiếu máu|Aspirin 100mg/ngày
-R00000140|A00000140|Rối loạn giấc ngủ, Tiêu chảy, Sụt cân|Viêm gan|Ibuprofen 400mg x3/ngày
-R00000141|A00000141|Táo bón|Đái tháo đường|Amoxicillin 500mg x3/ngày
-R00000142|A00000142|Viêm tai, Đau họng|Viêm amidan|Omeprazole 20mg x2/ngày
-R00000143|A00000143|Đau đầu, Ho|Viêm xoang|Amoxicillin 500mg x3/ngày
-R00000144|A00000144|Đau bụng, Đau lưng, Suy nhược|Viêm khớp|Omeprazole 20mg x2/ngày
-R00000145|A00000145|Táo bón|Bệnh tim mạch|Aspirin 100mg/ngày
-R00000146|A00000146|Đau bụng|Viêm phổi|Loratadine 10mg/ngày
-R00000147|A00000147|Tiêu chảy, Rối loạn giấc ngủ, Khó thở|Loét dạ dày|Paracetamol 500mg x3/ngày
-R00000148|A00000148|Táo bón, Nôn|Tiêu chảy cấp|Omeprazole 20mg x2/ngày
-R00000149|A00000149|Sụt cân, Rối loạn giấc ngủ|Viêm khớp|Loratadine 10mg/ngày
-R00000150|A00000150|Viêm tai, Đau lưng, Hụt hơi|Đái tháo đường|Aspirin 100mg/ngày
-R00000151|A00000151|Hụt hơi, Ho|Viêm xoang|Omeprazole 20mg x2/ngày
-R00000152|A00000152|Chóng mặt, Nôn|Viêm da cơ địa|Ibuprofen 400mg x3/ngày
-R00000153|A00000153|Sốt cao, Đau ngực, Hụt hơi|Viêm tai giữa|Paracetamol 500mg x3/ngày
-R00000154|A00000154|Mệt mỏi|Bệnh tim mạch|Aspirin 100mg/ngày
-R00000155|A00000155|Viêm tai, Đau họng|Cảm lạnh|Aspirin 100mg/ngày
-R00000156|A00000156|Đau đầu, Tiêu chảy, Hụt hơi|Rối loạn tiêu hóa|Aspirin 100mg/ngày
-R00000157|A00000157|Viêm mắt|Đái tháo đường|Dextromethorphan 10mg x3/ngày
-R00000158|A00000158|Hụt hơi|Bệnh tim mạch|Amoxicillin 500mg x3/ngày
-R00000159|A00000159|Đau bụng, Tiêu chảy, Đau lưng|Loét dạ dày|Vitamin C 500mg x2/ngày
-R00000160|A00000160|Nôn, Suy nhược|Đái tháo đường|Ibuprofen 400mg x3/ngày
-R00000161|A00000161|Hụt hơi, Đau lưng, Sốt cao|Tiêu chảy cấp|Vitamin C 500mg x2/ngày
-R00000162|A00000162|Sốt cao, Chóng mặt, Đau lưng|Bệnh tim mạch|Amoxicillin 500mg x3/ngày
-R00000163|A00000163|Viêm mắt, Đau ngực|Viêm xoang|Paracetamol 500mg x3/ngày
-R00000164|A00000164|Táo bón|Viêm dây thần kinh|Amoxicillin 500mg x3/ngày
-R00000165|A00000165|Sụt cân|Viêm dây thần kinh|Aspirin 100mg/ngày
-R00000166|A00000166|Sụt cân, Đau lưng, Rối loạn giấc ngủ|Viêm gan|Amoxicillin 500mg x3/ngày
-R00000167|A00000167|Đau họng|Hen phế quản|Aspirin 100mg/ngày
-R00000168|A00000168|Hụt hơi, Sụt cân|Viêm tai giữa|Amoxicillin 500mg x3/ngày
-R00000169|A00000169|Táo bón|Viêm họng|Omeprazole 20mg x2/ngày
-R00000170|A00000170|Suy nhược, Mệt mỏi|Viêm họng|Dextromethorphan 10mg x3/ngày
-R00000171|A00000171|Rối loạn giấc ngủ, Mệt mỏi|Viêm xoang|Aspirin 100mg/ngày
-R00000172|A00000172|Táo bón, Tiêu chảy|Hen phế quản|Loratadine 10mg/ngày
-R00000173|A00000173|Chóng mặt, Nôn|Viêm tai giữa|Vitamin C 500mg x2/ngày
-R00000174|A00000174|Sụt cân, Đau bụng|Viêm đường tiết niệu|Paracetamol 500mg x3/ngày
-R00000175|A00000175|Đau họng, Nôn|Thiếu máu|Amoxicillin 500mg x3/ngày
-R00000176|A00000176|Đau đầu, Đau lưng, Tiêu chảy|Viêm xoang|Omeprazole 20mg x2/ngày
-R00000177|A00000177|Đau ngực|Cảm lạnh|Aspirin 100mg/ngày
-R00000178|A00000178|Rối loạn giấc ngủ, Sốt cao, Nôn|Huyết áp cao|Omeprazole 20mg x2/ngày
-R00000179|A00000179|Viêm mắt|Viêm dây thần kinh|Loratadine 10mg/ngày
-R00000180|A00000180|Sốt cao, Phát ban|Tiêu chảy cấp|Paracetamol 500mg x3/ngày
-R00000181|A00000181|Phát ban|Viêm da cơ địa|Ibuprofen 400mg x3/ngày
-R00000182|A00000182|Sốt cao, Mệt mỏi, Hụt hơi|Viêm amidan|Dextromethorphan 10mg x3/ngày
-R00000183|A00000183|Mệt mỏi, Ho|Viêm dây thần kinh|Aspirin 100mg/ngày
-R00000184|A00000184|Nôn, Suy nhược, Ho|Tiêu chảy cấp|Loratadine 10mg/ngày
-R00000185|A00000185|Chóng mặt, Tiêu chảy, Đau đầu|Tiêu chảy cấp|Ibuprofen 400mg x3/ngày
-R00000186|A00000186|Mệt mỏi, Đau ngực|Viêm dây thần kinh|Amoxicillin 500mg x3/ngày
-R00000187|A00000187|Suy nhược|Viêm họng|Amoxicillin 500mg x3/ngày
-R00000188|A00000188|Khó thở, Đau bụng, Suy nhược|Huyết áp cao|Amoxicillin 500mg x3/ngày
-R00000189|A00000189|Táo bón|Viêm đường tiết niệu|Dextromethorphan 10mg x3/ngày
-R00000190|A00000190|Suy nhược|Thiếu máu|Dextromethorphan 10mg x3/ngày
-R00000191|A00000191|Suy nhược, Đau lưng, Hụt hơi|Viêm phổi|Paracetamol 500mg x3/ngày
-R00000192|A00000192|Đau họng|Đau đầu căng thẳng|Dextromethorphan 10mg x3/ngày
-R00000193|A00000193|Tiêu chảy, Đau bụng|Hen phế quản|Aspirin 100mg/ngày
-R00000194|A00000194|Viêm tai, Sụt cân, Nôn|Bệnh tim mạch|Omeprazole 20mg x2/ngày
-R00000195|A00000195|Mệt mỏi, Đau bụng, Đau đầu|Đái tháo đường|Omeprazole 20mg x2/ngày
-R00000196|A00000196|Ho|Thiếu máu|Amoxicillin 500mg x3/ngày
-R00000197|A00000197|Táo bón, Đau ngực, Ho|Viêm da cơ địa|Paracetamol 500mg x3/ngày
-R00000198|A00000198|Đau ngực|Cảm lạnh|Dextromethorphan 10mg x3/ngày
-R00000199|A00000199|Rối loạn giấc ngủ, Đau họng, Suy nhược|Thiếu máu|Omeprazole 20mg x2/ngày
-R00000200|A00000200|Đau lưng, Suy nhược|Huyết áp cao|Omeprazole 20mg x2/ngày
-R00000201|A00000201|Chóng mặt, Tiêu chảy, Đau đầu|Viêm tai giữa|Dextromethorphan 10mg x3/ngày
-R00000202|A00000202|Phát ban|Viêm amidan|Loratadine 10mg/ngày
-R00000203|A00000203|Viêm tai, Rối loạn giấc ngủ, Táo bón|Viêm đường tiết niệu|Dextromethorphan 10mg x3/ngày
-R00000204|A00000204|Đau bụng|Cảm lạnh|Omeprazole 20mg x2/ngày
-R00000205|A00000205|Táo bón, Nôn, Sốt cao|Viêm gan|Omeprazole 20mg x2/ngày
-R00000206|A00000206|Mệt mỏi|Đau đầu căng thẳng|Loratadine 10mg/ngày
-R00000207|A00000207|Hụt hơi|Viêm xoang|Omeprazole 20mg x2/ngày
-R00000208|A00000208|Sốt cao, Nôn, Táo bón|Thiếu máu|Omeprazole 20mg x2/ngày
-R00000209|A00000209|Mệt mỏi|Viêm phổi|Paracetamol 500mg x3/ngày
-R00000210|A00000210|Phát ban, Ho|Đái tháo đường|Ibuprofen 400mg x3/ngày
-R00000211|A00000211|Sốt cao, Sụt cân, Hụt hơi|Bệnh tim mạch|Amoxicillin 500mg x3/ngày
-R00000212|A00000212|Mệt mỏi|Bệnh tim mạch|Loratadine 10mg/ngày
-R00000213|A00000213|Viêm mắt, Phát ban|Huyết áp cao|Omeprazole 20mg x2/ngày
-R00000214|A00000214|Viêm tai, Đau họng, Đau đầu|Viêm họng|Omeprazole 20mg x2/ngày
-R00000215|A00000215|Sốt cao|Viêm tai giữa|Vitamin C 500mg x2/ngày
-R00000216|A00000216|Tiêu chảy|Viêm dây thần kinh|Dextromethorphan 10mg x3/ngày
-R00000217|A00000217|Khó thở|Rối loạn tiêu hóa|Ibuprofen 400mg x3/ngày
-R00000218|A00000218|Rối loạn giấc ngủ|Viêm dây thần kinh|Omeprazole 20mg x2/ngày
-R00000219|A00000219|Đau họng, Nôn|Viêm xoang|Paracetamol 500mg x3/ngày
-R00000220|A00000220|Hụt hơi|Viêm gan|Amoxicillin 500mg x3/ngày
-R00000221|A00000221|Phát ban, Sụt cân, Khó thở|Hen phế quản|Paracetamol 500mg x3/ngày
-R00000222|A00000222|Viêm mắt, Phát ban, Đau ngực|Viêm da cơ địa|Omeprazole 20mg x2/ngày
-R00000223|A00000223|Sụt cân|Viêm tai giữa|Dextromethorphan 10mg x3/ngày
-R00000224|A00000224|Đau lưng|Huyết áp cao|Amoxicillin 500mg x3/ngày
-R00000225|A00000225|Đau lưng, Rối loạn giấc ngủ|Rối loạn tiêu hóa|Amoxicillin 500mg x3/ngày
-R00000226|A00000226|Sốt cao|Đau đầu căng thẳng|Ibuprofen 400mg x3/ngày
-R00000227|A00000227|Đau đầu, Mệt mỏi, Sốt cao|Loét dạ dày|Ibuprofen 400mg x3/ngày
-R00000228|A00000228|Đau họng|Viêm tai giữa|Amoxicillin 500mg x3/ngày
-R00000229|A00000229|Táo bón, Rối loạn giấc ngủ, Đau đầu|Thiếu máu|Ibuprofen 400mg x3/ngày
-R00000230|A00000230|Đau ngực, Hụt hơi, Mệt mỏi|Viêm họng|Loratadine 10mg/ngày
-R00000231|A00000231|Viêm tai, Đau lưng, Đau đầu|Cảm lạnh|Paracetamol 500mg x3/ngày
-R00000232|A00000232|Khó thở, Chóng mặt, Mệt mỏi|Viêm tai giữa|Aspirin 100mg/ngày
-R00000233|A00000233|Đau họng|Viêm amidan|Paracetamol 500mg x3/ngày
-R00000234|A00000234|Mệt mỏi, Rối loạn giấc ngủ, Ho|Đái tháo đường|Vitamin C 500mg x2/ngày
-R00000235|A00000235|Đau ngực, Đau đầu, Đau bụng|Viêm amidan|Dextromethorphan 10mg x3/ngày
-R00000236|A00000236|Chóng mặt, Đau đầu|Viêm đường tiết niệu|Loratadine 10mg/ngày
-R00000237|A00000237|Suy nhược, Chóng mặt, Viêm mắt|Loét dạ dày|Omeprazole 20mg x2/ngày
-R00000238|A00000238|Hụt hơi, Viêm mắt, Đau lưng|Viêm tai giữa|Aspirin 100mg/ngày
-R00000239|A00000239|Đau họng, Đau lưng, Táo bón|Viêm họng|Omeprazole 20mg x2/ngày
-R00000240|A00000240|Đau đầu, Suy nhược|Viêm khớp|Omeprazole 20mg x2/ngày
-R00000241|A00000241|Đau đầu|Viêm xoang|Omeprazole 20mg x2/ngày
-R00000242|A00000242|Phát ban, Ho|Cảm lạnh|Paracetamol 500mg x3/ngày
-R00000243|A00000243|Đau bụng, Phát ban, Đau lưng|Đái tháo đường|Ibuprofen 400mg x3/ngày
-R00000244|A00000244|Ho|Tiêu chảy cấp|Vitamin C 500mg x2/ngày
-R00000245|A00000245|Viêm mắt, Đau họng, Khó thở|Viêm phổi|Paracetamol 500mg x3/ngày
-R00000246|A00000246|Viêm mắt|Tiêu chảy cấp|Ibuprofen 400mg x3/ngày
-R00000247|A00000247|Nôn, Viêm tai, Chóng mặt|Hen phế quản|Vitamin C 500mg x2/ngày
-R00000248|A00000248|Đau ngực, Tiêu chảy, Sốt cao|Viêm dây thần kinh|Ibuprofen 400mg x3/ngày
-R00000249|A00000249|Tiêu chảy, Táo bón, Đau ngực|Viêm amidan|Dextromethorphan 10mg x3/ngày
-R00000250|A00000250|Chóng mặt, Suy nhược|Viêm gan|Vitamin C 500mg x2/ngày
-R00000251|A00000251|Phát ban|Huyết áp cao|Amoxicillin 500mg x3/ngày
-R00000252|A00000252|Chóng mặt, Sụt cân, Tiêu chảy|Đái tháo đường|Amoxicillin 500mg x3/ngày
-R00000253|A00000253|Đau ngực|Huyết áp cao|Ibuprofen 400mg x3/ngày
-R00000254|A00000254|Chóng mặt, Sốt cao, Đau lưng|Viêm họng|Loratadine 10mg/ngày
-R00000255|A00000255|Đau đầu|Viêm phổi|Amoxicillin 500mg x3/ngày
-R00000256|A00000256|Tiêu chảy, Hụt hơi|Viêm dây thần kinh|Amoxicillin 500mg x3/ngày
-R00000257|A00000257|Đau ngực, Khó thở|Cảm lạnh|Dextromethorphan 10mg x3/ngày
-R00000258|A00000258|Đau lưng, Hụt hơi, Viêm tai|Cảm lạnh|Paracetamol 500mg x3/ngày
-R00000259|A00000259|Táo bón, Sụt cân, Mệt mỏi|Đau đầu căng thẳng|Aspirin 100mg/ngày
-R00000260|A00000260|Sụt cân|Hen phế quản|Ibuprofen 400mg x3/ngày
-R00000261|A00000261|Hụt hơi, Viêm mắt, Suy nhược|Đái tháo đường|Vitamin C 500mg x2/ngày
-R00000262|A00000262|Sụt cân, Đau ngực|Viêm tai giữa|Paracetamol 500mg x3/ngày
-R00000263|A00000263|Viêm tai, Chóng mặt, Đau bụng|Đái tháo đường|Omeprazole 20mg x2/ngày
-R00000264|A00000264|Hụt hơi|Viêm xoang|Dextromethorphan 10mg x3/ngày
-R00000265|A00000265|Sốt cao|Cảm lạnh|Loratadine 10mg/ngày
-R00000266|A00000266|Đau đầu|Viêm gan|Aspirin 100mg/ngày
-R00000267|A00000267|Chóng mặt|Viêm phổi|Vitamin C 500mg x2/ngày
-R00000268|A00000268|Hụt hơi|Đau đầu căng thẳng|Loratadine 10mg/ngày
-R00000269|A00000269|Đau ngực, Tiêu chảy, Đau đầu|Hen phế quản|Amoxicillin 500mg x3/ngày
-R00000270|A00000270|Đau đầu, Phát ban, Táo bón|Viêm gan|Vitamin C 500mg x2/ngày
-R00000271|A00000271|Đau bụng, Táo bón, Viêm tai|Cảm lạnh|Ibuprofen 400mg x3/ngày
-R00000272|A00000272|Phát ban, Mệt mỏi, Đau lưng|Đái tháo đường|Vitamin C 500mg x2/ngày
-R00000273|A00000273|Chóng mặt, Suy nhược, Sốt cao|Viêm khớp|Amoxicillin 500mg x3/ngày
-R00000274|A00000274|Rối loạn giấc ngủ, Tiêu chảy|Huyết áp cao|Paracetamol 500mg x3/ngày
-R00000275|A00000275|Hụt hơi|Tiêu chảy cấp|Vitamin C 500mg x2/ngày
-R00000276|A00000276|Sốt cao|Đau đầu căng thẳng|Aspirin 100mg/ngày
-R00000277|A00000277|Tiêu chảy, Đau đầu|Rối loạn tiêu hóa|Vitamin C 500mg x2/ngày
-R00000278|A00000278|Đau ngực, Rối loạn giấc ngủ, Ho|Viêm gan|Dextromethorphan 10mg x3/ngày
-R00000279|A00000279|Tiêu chảy|Tiêu chảy cấp|Amoxicillin 500mg x3/ngày
-R00000280|A00000280|Tiêu chảy|Viêm da cơ địa|Aspirin 100mg/ngày
-R00000281|A00000281|Tiêu chảy, Hụt hơi, Đau họng|Viêm dây thần kinh|Dextromethorphan 10mg x3/ngày
-R00000282|A00000282|Tiêu chảy, Đau ngực, Ho|Viêm da cơ địa|Loratadine 10mg/ngày
-R00000283|A00000283|Khó thở|Đau đầu căng thẳng|Amoxicillin 500mg x3/ngày
-R00000284|A00000284|Ho|Loét dạ dày|Ibuprofen 400mg x3/ngày
-R00000285|A00000285|Đau ngực|Huyết áp cao|Ibuprofen 400mg x3/ngày
-R00000286|A00000286|Hụt hơi|Đau đầu căng thẳng|Loratadine 10mg/ngày
-R00000287|A00000287|Viêm tai, Suy nhược|Đái tháo đường|Paracetamol 500mg x3/ngày
-R00000288|A00000288|Táo bón, Đau họng|Đái tháo đường|Ibuprofen 400mg x3/ngày
-R00000289|A00000289|Khó thở|Huyết áp cao|Loratadine 10mg/ngày
-R00000290|A00000290|Đau lưng, Tiêu chảy|Rối loạn tiêu hóa|Ibuprofen 400mg x3/ngày
-R00000291|A00000291|Rối loạn giấc ngủ|Viêm amidan|Aspirin 100mg/ngày
-R00000292|A00000292|Đau ngực, Ho|Tiêu chảy cấp|Loratadine 10mg/ngày
-R00000293|A00000293|Viêm tai, Chóng mặt, Suy nhược|Loét dạ dày|Dextromethorphan 10mg x3/ngày
-R00000294|A00000294|Đau đầu|Viêm xoang|Ibuprofen 400mg x3/ngày
-R00000295|A00000295|Sụt cân|Viêm gan|Ibuprofen 400mg x3/ngày
-R00000296|A00000296|Mệt mỏi|Viêm da cơ địa|Ibuprofen 400mg x3/ngày
-R00000297|A00000297|Tiêu chảy, Nôn|Rối loạn tiêu hóa|Loratadine 10mg/ngày
-R00000298|A00000298|Chóng mặt|Thiếu máu|Ibuprofen 400mg x3/ngày
-R00000299|A00000299|Viêm mắt|Bệnh tim mạch|Omeprazole 20mg x2/ngày
-R00000300|A00000300|Hụt hơi, Viêm mắt, Khó thở|Viêm amidan|Omeprazole 20mg x2/ngày
+R00000001|A00000001|Nôn, Mệt mỏi, Đau lưng|Loét dạ dày|Omeprazole 20mg x2/ngày
+R00000002|A00000002|Viêm mắt|Viêm gan|Amoxicillin 500mg x3/ngày
+R00000003|A00000003|Đau lưng, Khó thở, Viêm tai|Viêm đường tiết niệu|Omeprazole 20mg x2/ngày
+R00000004|A00000004|Khó thở|Viêm da cơ địa|Loratadine 10mg/ngày
+R00000005|A00000005|Chóng mặt|Cảm lạnh|Amoxicillin 500mg x3/ngày
+R00000006|A00000006|Đau họng|Loét dạ dày|Loratadine 10mg/ngày
+R00000007|A00000007|Viêm tai, Đau họng, Suy nhược|Viêm xoang|Paracetamol 500mg x3/ngày
+R00000008|A00000008|Suy nhược, Rối loạn giấc ngủ, Phát ban|Viêm dây thần kinh|Ibuprofen 400mg x3/ngày
+R00000009|A00000009|Táo bón, Tiêu chảy, Đau bụng|Viêm khớp|Vitamin C 500mg x2/ngày
+R00000010|A00000010|Phát ban, Hụt hơi|Viêm da cơ địa|Aspirin 100mg/ngày
+R00000011|A00000011|Suy nhược, Viêm tai|Hen phế quản|Ibuprofen 400mg x3/ngày
+R00000012|A00000012|Ho, Phát ban|Rối loạn tiêu hóa|Dextromethorphan 10mg x3/ngày
+R00000013|A00000013|Đau bụng, Suy nhược, Nôn|Rối loạn tiêu hóa|Amoxicillin 500mg x3/ngày
+R00000014|A00000014|Chóng mặt, Tiêu chảy|Viêm tai giữa|Ibuprofen 400mg x3/ngày
+R00000015|A00000015|Đau bụng|Đau đầu căng thẳng|Ibuprofen 400mg x3/ngày
+R00000016|A00000016|Đau lưng, Chóng mặt|Viêm tai giữa|Amoxicillin 500mg x3/ngày
+R00000017|A00000017|Viêm mắt, Ho, Đau ngực|Viêm tai giữa|Ibuprofen 400mg x3/ngày
+R00000018|A00000018|Viêm tai, Đau họng, Đau ngực|Viêm da cơ địa|Ibuprofen 400mg x3/ngày
+R00000019|A00000019|Tiêu chảy, Viêm tai|Hen phế quản|Loratadine 10mg/ngày
+R00000020|A00000020|Đau bụng|Viêm xoang|Vitamin C 500mg x2/ngày
+R00000021|A00000021|Tiêu chảy, Đau đầu, Viêm mắt|Hen phế quản|Vitamin C 500mg x2/ngày
+R00000022|A00000022|Chóng mặt|Tiêu chảy cấp|Omeprazole 20mg x2/ngày
+R00000023|A00000023|Suy nhược, Ho, Phát ban|Viêm gan|Loratadine 10mg/ngày
+R00000024|A00000024|Táo bón, Đau đầu|Bệnh tim mạch|Dextromethorphan 10mg x3/ngày
+R00000025|A00000025|Sốt cao|Loét dạ dày|Paracetamol 500mg x3/ngày
+R00000026|A00000026|Đau đầu, Phát ban|Rối loạn tiêu hóa|Dextromethorphan 10mg x3/ngày
+R00000027|A00000027|Hụt hơi, Rối loạn giấc ngủ|Viêm họng|Ibuprofen 400mg x3/ngày
+R00000028|A00000028|Đau ngực|Bệnh tim mạch|Aspirin 100mg/ngày
+R00000029|A00000029|Chóng mặt, Đau ngực, Sụt cân|Thiếu máu|Paracetamol 500mg x3/ngày
+R00000030|A00000030|Hụt hơi|Viêm khớp|Loratadine 10mg/ngày
+R00000031|A00000031|Nôn|Viêm dây thần kinh|Omeprazole 20mg x2/ngày
+R00000032|A00000032|Viêm mắt|Viêm gan|Dextromethorphan 10mg x3/ngày
+R00000033|A00000033|Phát ban, Chóng mặt|Tiêu chảy cấp|Paracetamol 500mg x3/ngày
+R00000034|A00000034|Đau lưng, Tiêu chảy, Hụt hơi|Viêm họng|Paracetamol 500mg x3/ngày
+R00000035|A00000035|Ho, Táo bón|Viêm xoang|Dextromethorphan 10mg x3/ngày
+R00000036|A00000036|Viêm tai, Mệt mỏi|Viêm xoang|Omeprazole 20mg x2/ngày
+R00000037|A00000037|Phát ban|Huyết áp cao|Omeprazole 20mg x2/ngày
+R00000038|A00000038|Hụt hơi, Phát ban|Viêm gan|Aspirin 100mg/ngày
+R00000039|A00000039|Đau lưng, Đau bụng|Đái tháo đường|Loratadine 10mg/ngày
+R00000040|A00000040|Khó thở|Thiếu máu|Loratadine 10mg/ngày
+R00000041|A00000041|Đau lưng|Hen phế quản|Loratadine 10mg/ngày
+R00000042|A00000042|Đau họng, Suy nhược|Loét dạ dày|Loratadine 10mg/ngày
+R00000043|A00000043|Đau ngực, Suy nhược|Loét dạ dày|Dextromethorphan 10mg x3/ngày
+R00000044|A00000044|Sốt cao, Đau bụng|Viêm họng|Loratadine 10mg/ngày
+R00000045|A00000045|Viêm mắt|Viêm đường tiết niệu|Vitamin C 500mg x2/ngày
+R00000046|A00000046|Đau họng|Cảm lạnh|Amoxicillin 500mg x3/ngày
+R00000047|A00000047|Viêm tai|Viêm phổi|Ibuprofen 400mg x3/ngày
+R00000048|A00000048|Hụt hơi, Khó thở|Viêm khớp|Amoxicillin 500mg x3/ngày
+R00000049|A00000049|Đau họng, Đau bụng|Tiêu chảy cấp|Amoxicillin 500mg x3/ngày
+R00000050|A00000050|Sụt cân, Mệt mỏi, Táo bón|Bệnh tim mạch|Vitamin C 500mg x2/ngày
+R00000051|A00000051|Hụt hơi, Đau bụng, Sụt cân|Viêm phổi|Amoxicillin 500mg x3/ngày
+R00000052|A00000052|Chóng mặt, Suy nhược, Nôn|Huyết áp cao|Dextromethorphan 10mg x3/ngày
+R00000053|A00000053|Chóng mặt, Đau lưng|Tiêu chảy cấp|Aspirin 100mg/ngày
+R00000054|A00000054|Rối loạn giấc ngủ, Đau bụng|Viêm họng|Aspirin 100mg/ngày
+R00000055|A00000055|Đau bụng, Chóng mặt|Viêm dây thần kinh|Amoxicillin 500mg x3/ngày
+R00000056|A00000056|Mệt mỏi|Viêm khớp|Loratadine 10mg/ngày
+R00000057|A00000057|Đau lưng, Viêm mắt|Viêm tai giữa|Vitamin C 500mg x2/ngày
+R00000058|A00000058|Đau bụng, Phát ban|Viêm gan|Paracetamol 500mg x3/ngày
+R00000059|A00000059|Sốt cao|Viêm phổi|Paracetamol 500mg x3/ngày
+R00000060|A00000060|Hụt hơi, Mệt mỏi, Đau lưng|Viêm xoang|Aspirin 100mg/ngày
+R00000061|A00000061|Tiêu chảy|Viêm tai giữa|Paracetamol 500mg x3/ngày
+R00000062|A00000062|Chóng mặt, Suy nhược|Viêm gan|Ibuprofen 400mg x3/ngày
+R00000063|A00000063|Mệt mỏi, Hụt hơi, Sốt cao|Viêm đường tiết niệu|Amoxicillin 500mg x3/ngày
+R00000064|A00000064|Tiêu chảy|Viêm da cơ địa|Dextromethorphan 10mg x3/ngày
+R00000065|A00000065|Đau đầu, Nôn, Phát ban|Loét dạ dày|Dextromethorphan 10mg x3/ngày
+R00000066|A00000066|Đau đầu|Viêm tai giữa|Aspirin 100mg/ngày
+R00000067|A00000067|Rối loạn giấc ngủ, Đau đầu, Tiêu chảy|Rối loạn tiêu hóa|Dextromethorphan 10mg x3/ngày
+R00000068|A00000068|Táo bón, Đau ngực|Viêm xoang|Dextromethorphan 10mg x3/ngày
+R00000069|A00000069|Phát ban, Mệt mỏi|Tiêu chảy cấp|Aspirin 100mg/ngày
+R00000070|A00000070|Viêm mắt, Phát ban|Thiếu máu|Loratadine 10mg/ngày
+R00000071|A00000071|Suy nhược|Đái tháo đường|Vitamin C 500mg x2/ngày
+R00000072|A00000072|Táo bón, Sụt cân|Loét dạ dày|Dextromethorphan 10mg x3/ngày
+R00000073|A00000073|Đau lưng, Nôn|Cảm lạnh|Aspirin 100mg/ngày
+R00000074|A00000074|Đau bụng|Bệnh tim mạch|Paracetamol 500mg x3/ngày
+R00000075|A00000075|Phát ban|Đau đầu căng thẳng|Paracetamol 500mg x3/ngày
+R00000076|A00000076|Rối loạn giấc ngủ, Đau ngực|Loét dạ dày|Aspirin 100mg/ngày
+R00000077|A00000077|Phát ban, Viêm tai, Nôn|Hen phế quản|Omeprazole 20mg x2/ngày
+R00000078|A00000078|Đau ngực, Nôn, Táo bón|Viêm khớp|Ibuprofen 400mg x3/ngày
+R00000079|A00000079|Đau ngực|Huyết áp cao|Vitamin C 500mg x2/ngày
+R00000080|A00000080|Viêm tai, Chóng mặt, Viêm mắt|Viêm xoang|Paracetamol 500mg x3/ngày
+R00000081|A00000081|Mệt mỏi, Suy nhược, Sốt cao|Viêm amidan|Ibuprofen 400mg x3/ngày
+R00000082|A00000082|Viêm mắt, Khó thở, Suy nhược|Đái tháo đường|Omeprazole 20mg x2/ngày
+R00000083|A00000083|Táo bón|Thiếu máu|Loratadine 10mg/ngày
+R00000084|A00000084|Hụt hơi, Viêm mắt, Suy nhược|Huyết áp cao|Aspirin 100mg/ngày
+R00000085|A00000085|Mệt mỏi, Đau bụng, Phát ban|Viêm da cơ địa|Paracetamol 500mg x3/ngày
+R00000086|A00000086|Đau lưng, Đau ngực|Viêm gan|Aspirin 100mg/ngày
+R00000087|A00000087|Viêm tai, Phát ban, Sụt cân|Viêm tai giữa|Paracetamol 500mg x3/ngày
+R00000088|A00000088|Đau họng|Viêm tai giữa|Vitamin C 500mg x2/ngày
+R00000089|A00000089|Chóng mặt, Hụt hơi|Viêm da cơ địa|Vitamin C 500mg x2/ngày
+R00000090|A00000090|Đau lưng, Đau bụng, Ho|Cảm lạnh|Loratadine 10mg/ngày
+R00000091|A00000091|Sốt cao, Viêm mắt|Thiếu máu|Dextromethorphan 10mg x3/ngày
+R00000092|A00000092|Viêm mắt, Tiêu chảy, Sụt cân|Viêm gan|Paracetamol 500mg x3/ngày
+R00000093|A00000093|Phát ban|Hen phế quản|Aspirin 100mg/ngày
+R00000094|A00000094|Đau đầu, Táo bón|Viêm đường tiết niệu|Aspirin 100mg/ngày
+R00000095|A00000095|Suy nhược, Ho, Khó thở|Viêm họng|Loratadine 10mg/ngày
+R00000096|A00000096|Suy nhược|Đái tháo đường|Ibuprofen 400mg x3/ngày
+R00000097|A00000097|Chóng mặt|Huyết áp cao|Ibuprofen 400mg x3/ngày
+R00000098|A00000098|Chóng mặt, Mệt mỏi, Viêm mắt|Viêm da cơ địa|Vitamin C 500mg x2/ngày
+R00000099|A00000099|Khó thở, Tiêu chảy|Viêm amidan|Ibuprofen 400mg x3/ngày
+R00000100|A00000100|Khó thở|Đau đầu căng thẳng|Aspirin 100mg/ngày
+R00000101|A00000101|Đau bụng, Tiêu chảy, Táo bón|Đau đầu căng thẳng|Omeprazole 20mg x2/ngày
+R00000102|A00000102|Nôn, Viêm mắt|Đái tháo đường|Omeprazole 20mg x2/ngày
+R00000103|A00000103|Ho, Nôn, Sụt cân|Viêm da cơ địa|Omeprazole 20mg x2/ngày
+R00000104|A00000104|Mệt mỏi|Viêm dây thần kinh|Omeprazole 20mg x2/ngày
+R00000105|A00000105|Rối loạn giấc ngủ|Thiếu máu|Aspirin 100mg/ngày
+R00000106|A00000106|Nôn, Đau họng|Thiếu máu|Ibuprofen 400mg x3/ngày
+R00000107|A00000107|Viêm tai, Khó thở|Thiếu máu|Omeprazole 20mg x2/ngày
+R00000108|A00000108|Rối loạn giấc ngủ, Suy nhược, Sụt cân|Viêm phổi|Paracetamol 500mg x3/ngày
+R00000109|A00000109|Hụt hơi, Sốt cao, Khó thở|Loét dạ dày|Paracetamol 500mg x3/ngày
+R00000110|A00000110|Suy nhược|Viêm tai giữa|Vitamin C 500mg x2/ngày
+R00000111|A00000111|Nôn, Đau họng|Viêm xoang|Omeprazole 20mg x2/ngày
+R00000112|A00000112|Đau đầu, Nôn, Táo bón|Viêm tai giữa|Paracetamol 500mg x3/ngày
+R00000113|A00000113|Sụt cân, Suy nhược|Viêm amidan|Aspirin 100mg/ngày
+R00000114|A00000114|Đau ngực|Viêm gan|Omeprazole 20mg x2/ngày
+R00000115|A00000115|Sốt cao, Đau lưng|Viêm amidan|Loratadine 10mg/ngày
+R00000116|A00000116|Đau họng, Rối loạn giấc ngủ|Đái tháo đường|Dextromethorphan 10mg x3/ngày
+R00000117|A00000117|Táo bón, Ho|Đau đầu căng thẳng|Amoxicillin 500mg x3/ngày
+R00000118|A00000118|Đau lưng, Rối loạn giấc ngủ|Loét dạ dày|Vitamin C 500mg x2/ngày
+R00000119|A00000119|Ho|Rối loạn tiêu hóa|Dextromethorphan 10mg x3/ngày
+R00000120|A00000120|Đau họng, Viêm tai, Táo bón|Viêm họng|Amoxicillin 500mg x3/ngày
+R00000121|A00000121|Khó thở, Hụt hơi|Tiêu chảy cấp|Aspirin 100mg/ngày
+R00000122|A00000122|Tiêu chảy, Ho|Viêm amidan|Ibuprofen 400mg x3/ngày
+R00000123|A00000123|Khó thở, Đau bụng, Nôn|Viêm họng|Paracetamol 500mg x3/ngày
+R00000124|A00000124|Viêm mắt|Hen phế quản|Aspirin 100mg/ngày
+R00000125|A00000125|Sụt cân, Rối loạn giấc ngủ, Chóng mặt|Rối loạn tiêu hóa|Loratadine 10mg/ngày
+R00000126|A00000126|Chóng mặt, Nôn, Tiêu chảy|Rối loạn tiêu hóa|Dextromethorphan 10mg x3/ngày
+R00000127|A00000127|Rối loạn giấc ngủ, Ho|Viêm phổi|Aspirin 100mg/ngày
+R00000128|A00000128|Hụt hơi|Viêm da cơ địa|Omeprazole 20mg x2/ngày
+R00000129|A00000129|Phát ban, Rối loạn giấc ngủ|Viêm đường tiết niệu|Ibuprofen 400mg x3/ngày
+R00000130|A00000130|Tiêu chảy, Ho|Viêm xoang|Vitamin C 500mg x2/ngày
+R00000131|A00000131|Viêm tai, Phát ban|Rối loạn tiêu hóa|Loratadine 10mg/ngày
+R00000132|A00000132|Đau lưng|Viêm gan|Omeprazole 20mg x2/ngày
+R00000133|A00000133|Táo bón, Khó thở|Tiêu chảy cấp|Dextromethorphan 10mg x3/ngày
+R00000134|A00000134|Đau đầu, Khó thở|Viêm gan|Loratadine 10mg/ngày
+R00000135|A00000135|Nôn, Táo bón|Viêm gan|Dextromethorphan 10mg x3/ngày
+R00000136|A00000136|Ho, Tiêu chảy, Khó thở|Viêm đường tiết niệu|Aspirin 100mg/ngày
+R00000137|A00000137|Viêm tai|Viêm xoang|Vitamin C 500mg x2/ngày
+R00000138|A00000138|Chóng mặt, Mệt mỏi|Viêm tai giữa|Paracetamol 500mg x3/ngày
+R00000139|A00000139|Hụt hơi|Đau đầu căng thẳng|Dextromethorphan 10mg x3/ngày
+R00000140|A00000140|Rối loạn giấc ngủ, Khó thở, Sụt cân|Viêm amidan|Dextromethorphan 10mg x3/ngày
+R00000141|A00000141|Viêm tai, Phát ban|Viêm khớp|Loratadine 10mg/ngày
+R00000142|A00000142|Sụt cân|Thiếu máu|Paracetamol 500mg x3/ngày
+R00000143|A00000143|Viêm mắt|Huyết áp cao|Omeprazole 20mg x2/ngày
+R00000144|A00000144|Ho, Nôn|Viêm xoang|Vitamin C 500mg x2/ngày
+R00000145|A00000145|Rối loạn giấc ngủ, Hụt hơi, Đau ngực|Viêm gan|Loratadine 10mg/ngày
+R00000146|A00000146|Đau bụng|Đái tháo đường|Ibuprofen 400mg x3/ngày
+R00000147|A00000147|Táo bón, Mệt mỏi, Nôn|Thiếu máu|Loratadine 10mg/ngày
+R00000148|A00000148|Viêm mắt|Loét dạ dày|Aspirin 100mg/ngày
+R00000149|A00000149|Đau lưng|Hen phế quản|Omeprazole 20mg x2/ngày
+R00000150|A00000150|Hụt hơi|Bệnh tim mạch|Loratadine 10mg/ngày
+R00000151|A00000151|Suy nhược|Huyết áp cao|Vitamin C 500mg x2/ngày
+R00000152|A00000152|Phát ban|Viêm họng|Aspirin 100mg/ngày
+R00000153|A00000153|Sụt cân, Đau lưng|Đau đầu căng thẳng|Loratadine 10mg/ngày
+R00000154|A00000154|Đau họng, Chóng mặt, Hụt hơi|Thiếu máu|Paracetamol 500mg x3/ngày
+R00000155|A00000155|Nôn|Hen phế quản|Amoxicillin 500mg x3/ngày
+R00000156|A00000156|Táo bón|Tiêu chảy cấp|Amoxicillin 500mg x3/ngày
+R00000157|A00000157|Sốt cao, Viêm tai, Táo bón|Huyết áp cao|Ibuprofen 400mg x3/ngày
+R00000158|A00000158|Sốt cao, Đau lưng|Viêm xoang|Loratadine 10mg/ngày
+R00000159|A00000159|Đau đầu|Loét dạ dày|Dextromethorphan 10mg x3/ngày
+R00000160|A00000160|Đau đầu, Sụt cân, Ho|Cảm lạnh|Aspirin 100mg/ngày
+R00000161|A00000161|Hụt hơi, Đau ngực, Nôn|Viêm dây thần kinh|Dextromethorphan 10mg x3/ngày
+R00000162|A00000162|Sốt cao, Nôn, Phát ban|Viêm dây thần kinh|Omeprazole 20mg x2/ngày
+R00000163|A00000163|Viêm tai, Suy nhược, Táo bón|Viêm phổi|Ibuprofen 400mg x3/ngày
+R00000164|A00000164|Ho, Mệt mỏi|Viêm khớp|Paracetamol 500mg x3/ngày
+R00000165|A00000165|Nôn|Bệnh tim mạch|Omeprazole 20mg x2/ngày
+R00000166|A00000166|Phát ban, Viêm mắt, Khó thở|Viêm xoang|Loratadine 10mg/ngày
+R00000167|A00000167|Đau họng|Viêm amidan|Omeprazole 20mg x2/ngày
+R00000168|A00000168|Đau bụng|Đau đầu căng thẳng|Amoxicillin 500mg x3/ngày
+R00000169|A00000169|Ho, Nôn, Phát ban|Tiêu chảy cấp|Loratadine 10mg/ngày
+R00000170|A00000170|Nôn|Viêm họng|Omeprazole 20mg x2/ngày
+R00000171|A00000171|Tiêu chảy, Táo bón, Đau ngực|Viêm amidan|Vitamin C 500mg x2/ngày
+R00000172|A00000172|Rối loạn giấc ngủ, Phát ban, Đau ngực|Thiếu máu|Paracetamol 500mg x3/ngày
+R00000173|A00000173|Phát ban, Sụt cân, Khó thở|Viêm gan|Amoxicillin 500mg x3/ngày
+R00000174|A00000174|Chóng mặt, Mệt mỏi|Loét dạ dày|Paracetamol 500mg x3/ngày
+R00000175|A00000175|Rối loạn giấc ngủ|Rối loạn tiêu hóa|Loratadine 10mg/ngày
+R00000176|A00000176|Đau họng, Đau bụng, Đau đầu|Viêm phổi|Omeprazole 20mg x2/ngày
+R00000177|A00000177|Đau bụng, Ho, Mệt mỏi|Hen phế quản|Loratadine 10mg/ngày
+R00000178|A00000178|Đau lưng|Viêm dây thần kinh|Dextromethorphan 10mg x3/ngày
+R00000179|A00000179|Suy nhược|Viêm tai giữa|Omeprazole 20mg x2/ngày
+R00000180|A00000180|Nôn|Bệnh tim mạch|Vitamin C 500mg x2/ngày
+R00000181|A00000181|Chóng mặt, Táo bón, Suy nhược|Viêm amidan|Omeprazole 20mg x2/ngày
+R00000182|A00000182|Nôn, Rối loạn giấc ngủ, Sốt cao|Viêm đường tiết niệu|Paracetamol 500mg x3/ngày
+R00000183|A00000183|Rối loạn giấc ngủ, Đau họng, Suy nhược|Viêm dây thần kinh|Paracetamol 500mg x3/ngày
+R00000184|A00000184|Đau họng, Phát ban|Viêm khớp|Dextromethorphan 10mg x3/ngày
+R00000185|A00000185|Đau họng, Táo bón|Viêm họng|Loratadine 10mg/ngày
+R00000186|A00000186|Đau đầu|Đau đầu căng thẳng|Omeprazole 20mg x2/ngày
+R00000187|A00000187|Đau lưng|Viêm khớp|Loratadine 10mg/ngày
+R00000188|A00000188|Táo bón|Rối loạn tiêu hóa|Dextromethorphan 10mg x3/ngày
+R00000189|A00000189|Táo bón|Viêm tai giữa|Loratadine 10mg/ngày
+R00000190|A00000190|Ho, Đau bụng, Đau đầu|Huyết áp cao|Ibuprofen 400mg x3/ngày
+R00000191|A00000191|Hụt hơi|Viêm đường tiết niệu|Ibuprofen 400mg x3/ngày
+R00000192|A00000192|Ho, Táo bón|Rối loạn tiêu hóa|Amoxicillin 500mg x3/ngày
+R00000193|A00000193|Phát ban, Viêm tai|Viêm da cơ địa|Vitamin C 500mg x2/ngày
+R00000194|A00000194|Sốt cao|Viêm dây thần kinh|Ibuprofen 400mg x3/ngày
+R00000195|A00000195|Viêm mắt, Sụt cân, Mệt mỏi|Đái tháo đường|Vitamin C 500mg x2/ngày
+R00000196|A00000196|Phát ban, Táo bón, Viêm mắt|Viêm đường tiết niệu|Loratadine 10mg/ngày
+R00000197|A00000197|Viêm mắt|Cảm lạnh|Amoxicillin 500mg x3/ngày
+R00000198|A00000198|Viêm mắt, Tiêu chảy|Viêm xoang|Paracetamol 500mg x3/ngày
+R00000199|A00000199|Đau bụng, Suy nhược, Ho|Viêm amidan|Aspirin 100mg/ngày
+R00000200|A00000200|Viêm tai, Đau họng, Phát ban|Viêm đường tiết niệu|Vitamin C 500mg x2/ngày
+R00000201|A00000201|Đau họng|Viêm khớp|Omeprazole 20mg x2/ngày
+R00000202|A00000202|Tiêu chảy|Huyết áp cao|Vitamin C 500mg x2/ngày
+R00000203|A00000203|Ho, Đau bụng, Nôn|Tiêu chảy cấp|Aspirin 100mg/ngày
+R00000204|A00000204|Đau lưng, Viêm mắt|Viêm họng|Ibuprofen 400mg x3/ngày
+R00000205|A00000205|Phát ban|Loét dạ dày|Loratadine 10mg/ngày
+R00000206|A00000206|Khó thở, Táo bón|Thiếu máu|Omeprazole 20mg x2/ngày
+R00000207|A00000207|Chóng mặt|Loét dạ dày|Dextromethorphan 10mg x3/ngày
+R00000208|A00000208|Mệt mỏi|Rối loạn tiêu hóa|Omeprazole 20mg x2/ngày
+R00000209|A00000209|Mệt mỏi, Đau bụng|Rối loạn tiêu hóa|Paracetamol 500mg x3/ngày
+R00000210|A00000210|Đau đầu|Viêm đường tiết niệu|Vitamin C 500mg x2/ngày
+R00000211|A00000211|Ho|Bệnh tim mạch|Ibuprofen 400mg x3/ngày
+R00000212|A00000212|Đau bụng, Chóng mặt|Thiếu máu|Aspirin 100mg/ngày
+R00000213|A00000213|Tiêu chảy, Viêm mắt, Đau lưng|Viêm amidan|Loratadine 10mg/ngày
+R00000214|A00000214|Suy nhược, Mệt mỏi|Viêm phổi|Ibuprofen 400mg x3/ngày
+R00000215|A00000215|Đau đầu|Viêm tai giữa|Paracetamol 500mg x3/ngày
+R00000216|A00000216|Ho|Viêm xoang|Aspirin 100mg/ngày
+R00000217|A00000217|Đau lưng|Đái tháo đường|Omeprazole 20mg x2/ngày
+R00000218|A00000218|Viêm mắt|Cảm lạnh|Loratadine 10mg/ngày
+R00000219|A00000219|Đau ngực, Nôn|Hen phế quản|Loratadine 10mg/ngày
+R00000220|A00000220|Đau họng, Suy nhược, Hụt hơi|Viêm họng|Paracetamol 500mg x3/ngày
+R00000221|A00000221|Tiêu chảy, Khó thở, Suy nhược|Hen phế quản|Aspirin 100mg/ngày
+R00000222|A00000222|Đau ngực, Rối loạn giấc ngủ|Viêm da cơ địa|Dextromethorphan 10mg x3/ngày
+R00000223|A00000223|Chóng mặt, Táo bón, Suy nhược|Viêm đường tiết niệu|Omeprazole 20mg x2/ngày
+R00000224|A00000224|Hụt hơi|Viêm da cơ địa|Ibuprofen 400mg x3/ngày
+R00000225|A00000225|Viêm mắt, Viêm tai|Đái tháo đường|Amoxicillin 500mg x3/ngày
+R00000226|A00000226|Phát ban, Đau họng|Bệnh tim mạch|Aspirin 100mg/ngày
+R00000227|A00000227|Nôn, Chóng mặt, Đau ngực|Rối loạn tiêu hóa|Omeprazole 20mg x2/ngày
+R00000228|A00000228|Suy nhược, Đau họng, Khó thở|Viêm gan|Loratadine 10mg/ngày
+R00000229|A00000229|Mệt mỏi, Hụt hơi|Viêm khớp|Loratadine 10mg/ngày
+R00000230|A00000230|Suy nhược|Thiếu máu|Vitamin C 500mg x2/ngày
+R00000231|A00000231|Đau lưng|Bệnh tim mạch|Loratadine 10mg/ngày
+R00000232|A00000232|Rối loạn giấc ngủ, Mệt mỏi|Đái tháo đường|Paracetamol 500mg x3/ngày
+R00000233|A00000233|Rối loạn giấc ngủ, Suy nhược, Chóng mặt|Viêm gan|Vitamin C 500mg x2/ngày
+R00000234|A00000234|Viêm mắt, Đau ngực, Đau lưng|Đái tháo đường|Vitamin C 500mg x2/ngày
+R00000235|A00000235|Đau ngực, Đau họng, Khó thở|Huyết áp cao|Dextromethorphan 10mg x3/ngày
+R00000236|A00000236|Chóng mặt, Sốt cao, Đau họng|Rối loạn tiêu hóa|Aspirin 100mg/ngày
+R00000237|A00000237|Táo bón, Đau đầu, Khó thở|Đau đầu căng thẳng|Omeprazole 20mg x2/ngày
+R00000238|A00000238|Sụt cân, Mệt mỏi, Rối loạn giấc ngủ|Viêm amidan|Vitamin C 500mg x2/ngày
+R00000239|A00000239|Tiêu chảy, Phát ban, Sốt cao|Hen phế quản|Ibuprofen 400mg x3/ngày
+R00000240|A00000240|Chóng mặt, Đau đầu, Đau lưng|Thiếu máu|Ibuprofen 400mg x3/ngày
+R00000241|A00000241|Ho|Bệnh tim mạch|Loratadine 10mg/ngày
+R00000242|A00000242|Đau đầu, Phát ban, Khó thở|Viêm dây thần kinh|Vitamin C 500mg x2/ngày
+R00000243|A00000243|Suy nhược|Viêm khớp|Dextromethorphan 10mg x3/ngày
+R00000244|A00000244|Phát ban, Nôn|Viêm da cơ địa|Omeprazole 20mg x2/ngày
+R00000245|A00000245|Viêm mắt, Khó thở, Viêm tai|Tiêu chảy cấp|Ibuprofen 400mg x3/ngày
+R00000246|A00000246|Đau đầu, Suy nhược, Sụt cân|Bệnh tim mạch|Dextromethorphan 10mg x3/ngày
+R00000247|A00000247|Rối loạn giấc ngủ, Nôn, Mệt mỏi|Viêm da cơ địa|Vitamin C 500mg x2/ngày
+R00000248|A00000248|Rối loạn giấc ngủ, Phát ban|Viêm da cơ địa|Loratadine 10mg/ngày
+R00000249|A00000249|Khó thở|Hen phế quản|Aspirin 100mg/ngày
+R00000250|A00000250|Tiêu chảy, Đau bụng|Viêm xoang|Paracetamol 500mg x3/ngày
+R00000251|A00000251|Đau đầu, Rối loạn giấc ngủ, Đau lưng|Đau đầu căng thẳng|Amoxicillin 500mg x3/ngày
+R00000252|A00000252|Viêm tai, Táo bón|Huyết áp cao|Amoxicillin 500mg x3/ngày
+R00000253|A00000253|Ho, Viêm tai, Sốt cao|Viêm tai giữa|Ibuprofen 400mg x3/ngày
+R00000254|A00000254|Ho, Rối loạn giấc ngủ, Sụt cân|Đái tháo đường|Paracetamol 500mg x3/ngày
+R00000255|A00000255|Đau bụng, Hụt hơi|Viêm xoang|Paracetamol 500mg x3/ngày
+R00000256|A00000256|Mệt mỏi, Đau đầu, Táo bón|Viêm xoang|Amoxicillin 500mg x3/ngày
+R00000257|A00000257|Phát ban, Chóng mặt|Viêm gan|Ibuprofen 400mg x3/ngày
+R00000258|A00000258|Mệt mỏi, Viêm tai|Viêm họng|Aspirin 100mg/ngày
+R00000259|A00000259|Sốt cao, Đau ngực|Viêm gan|Dextromethorphan 10mg x3/ngày
+R00000260|A00000260|Đau ngực, Sụt cân|Viêm khớp|Aspirin 100mg/ngày
+R00000261|A00000261|Mệt mỏi|Viêm họng|Ibuprofen 400mg x3/ngày
+R00000262|A00000262|Đau đầu, Viêm mắt|Rối loạn tiêu hóa|Dextromethorphan 10mg x3/ngày
+R00000263|A00000263|Viêm mắt|Viêm dây thần kinh|Amoxicillin 500mg x3/ngày
+R00000264|A00000264|Tiêu chảy|Đau đầu căng thẳng|Dextromethorphan 10mg x3/ngày
+R00000265|A00000265|Đau đầu, Sốt cao, Nôn|Thiếu máu|Omeprazole 20mg x2/ngày
+R00000266|A00000266|Đau ngực|Viêm phổi|Loratadine 10mg/ngày
+R00000267|A00000267|Phát ban, Mệt mỏi, Suy nhược|Đái tháo đường|Paracetamol 500mg x3/ngày
+R00000268|A00000268|Sụt cân|Viêm đường tiết niệu|Omeprazole 20mg x2/ngày
+R00000269|A00000269|Viêm mắt, Sụt cân, Hụt hơi|Viêm họng|Omeprazole 20mg x2/ngày
+R00000270|A00000270|Suy nhược, Đau đầu, Rối loạn giấc ngủ|Đau đầu căng thẳng|Amoxicillin 500mg x3/ngày
+R00000271|A00000271|Rối loạn giấc ngủ, Sốt cao|Tiêu chảy cấp|Vitamin C 500mg x2/ngày
+R00000272|A00000272|Đau lưng, Phát ban, Sốt cao|Loét dạ dày|Paracetamol 500mg x3/ngày
+R00000273|A00000273|Đau ngực, Khó thở|Viêm amidan|Loratadine 10mg/ngày
+R00000274|A00000274|Sụt cân|Viêm gan|Aspirin 100mg/ngày
+R00000275|A00000275|Tiêu chảy|Huyết áp cao|Omeprazole 20mg x2/ngày
+R00000276|A00000276|Viêm mắt|Viêm đường tiết niệu|Paracetamol 500mg x3/ngày
+R00000277|A00000277|Sốt cao, Đau ngực, Đau họng|Viêm đường tiết niệu|Ibuprofen 400mg x3/ngày
+R00000278|A00000278|Đau họng, Rối loạn giấc ngủ|Bệnh tim mạch|Omeprazole 20mg x2/ngày
+R00000279|A00000279|Sốt cao, Đau bụng, Đau đầu|Thiếu máu|Ibuprofen 400mg x3/ngày
+R00000280|A00000280|Sốt cao, Ho, Rối loạn giấc ngủ|Thiếu máu|Dextromethorphan 10mg x3/ngày
+R00000281|A00000281|Suy nhược, Đau lưng, Tiêu chảy|Viêm khớp|Vitamin C 500mg x2/ngày
+R00000282|A00000282|Nôn, Mệt mỏi|Hen phế quản|Omeprazole 20mg x2/ngày
+R00000283|A00000283|Đau họng, Tiêu chảy, Mệt mỏi|Thiếu máu|Omeprazole 20mg x2/ngày
+R00000284|A00000284|Đau ngực, Mệt mỏi, Nôn|Loét dạ dày|Ibuprofen 400mg x3/ngày
+R00000285|A00000285|Sụt cân, Đau lưng|Viêm dây thần kinh|Amoxicillin 500mg x3/ngày
+R00000286|A00000286|Hụt hơi, Táo bón|Viêm dây thần kinh|Vitamin C 500mg x2/ngày
+R00000287|A00000287|Mệt mỏi, Hụt hơi, Đau bụng|Viêm tai giữa|Ibuprofen 400mg x3/ngày
+R00000288|A00000288|Đau đầu, Suy nhược|Tiêu chảy cấp|Loratadine 10mg/ngày
+R00000289|A00000289|Đau bụng|Viêm gan|Ibuprofen 400mg x3/ngày
+R00000290|A00000290|Mệt mỏi|Đái tháo đường|Aspirin 100mg/ngày
+R00000291|A00000291|Mệt mỏi, Hụt hơi|Viêm họng|Ibuprofen 400mg x3/ngày
+R00000292|A00000292|Sốt cao, Khó thở, Đau ngực|Viêm da cơ địa|Dextromethorphan 10mg x3/ngày
+R00000293|A00000293|Khó thở|Viêm khớp|Paracetamol 500mg x3/ngày
+R00000294|A00000294|Ho, Tiêu chảy|Viêm họng|Dextromethorphan 10mg x3/ngày
+R00000295|A00000295|Sụt cân, Chóng mặt, Tiêu chảy|Viêm đường tiết niệu|Dextromethorphan 10mg x3/ngày
+R00000296|A00000296|Viêm mắt, Đau bụng|Bệnh tim mạch|Aspirin 100mg/ngày
+R00000297|A00000297|Sụt cân, Mệt mỏi|Viêm xoang|Omeprazole 20mg x2/ngày
+R00000298|A00000298|Nôn|Viêm da cơ địa|Amoxicillin 500mg x3/ngày
+R00000299|A00000299|Táo bón, Đau họng|Loét dạ dày|Loratadine 10mg/ngày
+R00000300|A00000300|Táo bón, Đau bụng|Tiêu chảy cấp|Ibuprofen 400mg x3/ngày
