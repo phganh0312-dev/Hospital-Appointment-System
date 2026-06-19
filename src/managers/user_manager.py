@@ -8,6 +8,7 @@ from managers.base_manager import BaseManager
 
 
 class UserManager(BaseManager):
+    # Ham quan ly tai khoan: dang ky, dang nhap, cap phat ID, doi mat khau, khoa tai khoan
     def __init__(self, users=None, patient_manager=None, doctor_manager=None, schedule_manager=None, appointment_manager=None):
         super().__init__()
         self.users = users or HashTable()
@@ -138,6 +139,7 @@ class UserManager(BaseManager):
 
         return True, "Dang ky thanh cong"
 
+    # Ham xac thuc nguoi dung bang phone/email va password
     def authenticate(self, identifier, password):
         found_user = None
         current = self.users.values().head
@@ -152,20 +154,23 @@ class UserManager(BaseManager):
             return False, "Khong tim thay tai khoan trong he thong"
 
         user_id = getattr(found_user, 'user_id', '')
-        if self.locked_accounts.get(user_id, False):
-            return False, "Tai khoan da bi khoa do nhap sai mat khau qua 5 lan."
+        # Kiem tra tai khoan da bi khoa (lock_counter >= 5)
+        if (self.locked_accounts.get(user_id, 0) or 0) >= 5:
+            return False, "Tai khoan da bi khoa do nhap sai mat khau 5 lan."
 
         if getattr(found_user, 'password', '') == password:
-            self.locked_accounts.set(user_id, False)
+            # Reset counter neu dang nhap thanh cong
+            self.locked_accounts.set(user_id, 0)
             self.failed_attempts.remove(user_id)
             return True, found_user
 
         attempts = self.failed_attempts.get(user_id, 0) or 0
         attempts += 1
         self.failed_attempts.set(user_id, attempts)
+        # Cap nhat lock counter = so lan nhap sai
+        self.locked_accounts.set(user_id, attempts)
 
         if attempts >= 5:
-            self.locked_accounts.set(user_id, True)
             return False, "Tai khoan da bi khoa do nhap sai mat khau 5 lan."
 
         return False, f"Sai mat khau. Ban con {5 - attempts} lan thu."

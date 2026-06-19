@@ -6,6 +6,7 @@ import datetime
 
 
 class ScheduleManager(BaseManager):
+    # Ham quan ly lich khac bac si: them, sua, xoa, dat/huy lich khach, kiem tra trung lich
     def __init__(self, schedules=None):
         self.schedules = schedules or LinkedList()
 
@@ -126,9 +127,13 @@ class ScheduleManager(BaseManager):
             current = current.next
         return False
 
+    # Kiem tra co the sua lich khac hay khong (phai trong tuong lai va chua co ai dat)
     def can_update_schedule(self, schedule_id):
         schedule = self.find_schedule_by_id(schedule_id)
         if not schedule:
+            return False
+        # Khong cho sua lich da duoc dat
+        if getattr(schedule, 'is_booked', False):
             return False
         from datetime import datetime
         today = datetime.now().date()

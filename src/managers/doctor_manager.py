@@ -25,6 +25,7 @@ class ScheduleSlotInfo:
 
 
 class DoctorManager(BaseManager):
+    # Ham quan ly thong tin bac si: them, sua, xoa, tim kiem, xem lich khac bac si
     def __init__(self, doctors=None, schedule_manager=None, appointment_manager=None, user_manager=None):
         super().__init__()
         self.doctors = doctors or LinkedList()

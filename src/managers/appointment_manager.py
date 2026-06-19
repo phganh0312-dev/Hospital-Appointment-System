@@ -32,11 +32,7 @@ class Transaction:
 # MAIN APPOINTMENT MANAGER CLASS
 # =========================================================================
 class AppointmentManager(BaseManager):
-    """
-    Quản lý luồng đặt và hủy cuộc hẹn khám của Bệnh nhân.
-    Đã chuẩn hóa 100% KHÔNG sử dụng list [] hay dict {} native của Python.
-    """
-    
+    # Ham quan ly cuoc hen: them, huy, tim kiem cuoc hen, kiem tra xung dot thoigian
     def __init__(self, appointments=None, schedule_manager=None, doctor_manager=None, user_manager=None):
         super().__init__()
         self.appointments = appointments or LinkedList()
@@ -118,6 +114,7 @@ class AppointmentManager(BaseManager):
                 self.appointments.append(appointment)
                 self._save_to_file()
  
+    # Ham huy cuoc hen va giai phong schedule cho bac si
     def cancel_appointment(self, app_id):
         """Hủy cuộc hẹn khám và giải phóng slot lịch của bác sĩ"""
         with self.lock:
@@ -125,8 +122,13 @@ class AppointmentManager(BaseManager):
             if not app:
                 raise ValidationError("Cuộc hẹn không tồn tại để hủy.")
             
-            if getattr(app, 'status', '') in ['CANCELLED', 'Đã hủy']:
+            current_status = getattr(app, 'status', '')
+            # Khong cho huy lich da khám hoặc hoàn thành
+            if current_status in ['CANCELLED', 'Đã hủy']:
                 raise ValidationError("Cuộc hẹn này đã được thực hiện hủy từ trước.")
+            
+            if current_status in ['COMPLETED', 'Đã khám', 'Da hoan thanh']:
+                raise ValidationError("Không thể hủy lịch đã khám xong")
             
             # KHỞI TẠO TRANSACTION HỦY
             txn = Transaction("CANCEL_APPOINTMENT", self, app_id)

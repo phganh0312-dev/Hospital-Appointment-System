@@ -4,6 +4,7 @@ from managers.file_handler import FileHandler
 
 
 class MedicalRecordManager:
+    # Ham quan ly benh an: them, sua, xoa benh an cua benh nhan sau khi kham xong
     def __init__(self, medical_records=None, appointment_manager=None, schedule_manager=None):
         self.medical_records = medical_records or LinkedList()
         self.appointment_manager = appointment_manager

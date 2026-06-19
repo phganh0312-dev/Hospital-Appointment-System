@@ -5,6 +5,7 @@ from managers.file_handler import FileHandler
 
 
 class PatientManager(BaseManager):
+    # Ham quan ly thong tin benh nhan: them, sua, xoa, tim kiem benh nhan
     def __init__(self, patients=None, appointment_manager=None, user_manager=None):
         self.patients = patients or HashTable()
         self.appointment_manager = appointment_manager
@@ -41,6 +42,7 @@ class PatientManager(BaseManager):
             current = current.next
         return None
 
+    # Cap nhat thong tin benh nhan (ten, dia chi, email, etc)
     def update_patient(self, identifier, updates):
         patient = self.patients.get(identifier)
         if not patient:
@@ -49,8 +51,18 @@ class PatientManager(BaseManager):
             raise ValueError('Khong tim thay benh nhan')
 
         old_phone = getattr(patient, 'phone', '')
-        new_phone = updates.get('phone')
-        new_email = updates.get('email')
+        new_phone = None
+        new_email = None
+        
+        # Kiem tra updates co phai HashTable khong de lay .items()
+        if hasattr(updates, 'items'):
+            items_iter = updates.items()
+            if hasattr(items_iter, 'head'):
+                current = items_iter.head
+            else:
+                current = None
+        else:
+            current = None
 
         allowed_fields = (
             "full_name",
@@ -63,11 +75,14 @@ class PatientManager(BaseManager):
             "bhyt_expiry"
         )
 
-        current = updates.items().head
         while current:
             key = current.value.key
             value = current.value.value
             if key in allowed_fields:
+                if key == 'phone':
+                    new_phone = value
+                elif key == 'email':
+                    new_email = value
                 setattr(patient, key, value)
             current = current.next
 
