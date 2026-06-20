@@ -51,7 +51,7 @@ def main_menu(managers):
             province = get_input("Nhap Tinh / Thanh pho: ")
             ward = get_input("Nhap Quan / Huyen / Phuong: ")
             detailed_address = get_input("Nhap dia chi nha chi tiet: ")
-            password = get_input("Nhap mat khau: ")
+            password = get_input("Nhap mat khau (Yeu cau co it nhat 1 chu cai va 1 chu so): ")
             confirm_password = get_input("Nhap lai mat khau xac nhan: ")
             
             try:
