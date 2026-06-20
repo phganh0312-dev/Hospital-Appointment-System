@@ -1,48 +1,41 @@
 import datetime
-from entities.doctor import Doctor
-from structures.linked_list import LinkedList
+
 
 class Schedule:
-    def __init__(self, id, doctor_id, date, time_slot, is_booked=False):
+    def __init__(self, id, doctor_id, date, time_slot, is_booked=False, day_of_week=None, slot_num=None):
         self.id = id
         self.doctor_id = doctor_id
-        self.date = self._validate_date_within_three_months(date) # Kiểm tra và chuẩn hóa ngày, đảm bảo nó nằm trong vòng 3 tháng kể từ hôm nay
+        self.date = self._validate_date_within_three_months(date)
         self.time_slot = time_slot
         self.is_booked = bool(is_booked)
+        self.day_of_week = day_of_week
+        self.slot_num = slot_num
 
-    def book(self): # Nếu ca đã được đặt trước đó, trả về False. Nếu chưa, đặt ca và trả về True
-        if self.is_booked:
-            return False
-        self.is_booked = True
-        return True
+    def __str__(self):
+        status = 'Da dat' if self.is_booked else 'Trong'
+        return f"{self.id} - Bac si:{self.doctor_id} - {self.date} {self.time_slot} - {status}"
 
-    def unbook(self): # Nếu ca chưa được đặt trước đó, trả về False. Nếu đã đặt, hủy đặt ca và trả về True
-        if not self.is_booked:
-            return False
-        self.is_booked = False
-        return True
-
-    def __str__(self): 
-        status = 'Đã đặt' if self.is_booked else 'Trống' # Hiển thị trạng thái của ca khám dựa trên thuộc tính is_booked
-        date_str = self.date.isoformat() if isinstance(self.date, datetime.date) else str(self.date) # Chuyển đổi ngày thành chuỗi ISO nếu nó là đối tượng datetime.date, nếu không thì giữ nguyên dạng chuỗi ban đầu
-        return f"{self.id} - Bác sĩ:{self.doctor_id} - {date_str} {self.time_slot} - {status}"
+    def _parse_date(self, date_input):
+        if isinstance(date_input, datetime.datetime):
+            return date_input.date()
+        if isinstance(date_input, datetime.date):
+            return date_input
+        if isinstance(date_input, str):
+            try:
+                return datetime.date.fromisoformat(date_input)
+            except Exception:
+                parts = date_input.split('/')
+                if len(parts) == 3:
+                    try:
+                        return datetime.date(int(parts[2]), int(parts[1]), int(parts[0]))
+                    except Exception:
+                        pass
+        raise ValueError('Dinh dang ngay khong hop le')
 
     def _validate_date_within_three_months(self, date_input):
-        
-        if isinstance(date_input, datetime.datetime): # Nếu date_input là một đối tượng datetime.datetime, chuyển đổi nó thành datetime.date bằng cách lấy phần ngày
-            date_obj = date_input.date()
-        elif isinstance(date_input, datetime.date): # Nếu date_input đã là một đối tượng datetime.date, sử dụng nó trực tiếp mà không cần chuyển đổi
-            date_obj = date_input
-        elif isinstance(date_input, str): # Nếu date_input là một chuỗi
-            try:
-                date_obj = datetime.date.fromisoformat(date_input) # Cố gắng chuyển đổi chuỗi date_input thành một đối tượng datetime.date sử dụng định dạng ISO (YYYY-MM-DD)
-            except Exception:
-                raise ValueError('Định dạng ngày không hợp lệ.') 
-        else:
-            raise ValueError('Loại ngày không được hỗ trợ.') # Nếu date_input không phải là datetime.datetime, datetime.date hoặc str
-
-        today = datetime.date.today() # Lấy ngày hiện tại để so sánh với date_obj
-        max_date = today + datetime.timedelta(days=90) # Tính toán ngày tối đa cho phép bằng cách cộng thêm 90 ngày (tương đương với 3 tháng) vào ngày hiện tại
-        if not (today <= date_obj <= max_date): # Kiểm tra nếu date_obj nằm ngoài khoảng từ ngày hiện tại đến ngày tối đa
-            raise ValueError('Hệ thống chỉ giới hạn quản lý thời gian ca trực trong vòng 3 tháng.')
+        date_obj = self._parse_date(date_input)
+        today = datetime.date.today()
+        max_date = today + datetime.timedelta(days=90)
+        if not (today <= date_obj <= max_date):
+            raise ValueError('He thong chi quan ly ca truc trong vong 3 thang')
         return date_obj
