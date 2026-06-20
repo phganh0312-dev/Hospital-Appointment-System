@@ -3,9 +3,8 @@ from structures.linked_list import LinkedList
 from structures.hash_table import HashTable
 from managers.file_handler import FileHandler
 from managers.base_manager import (
-    BaseManager, ValidationError, DataConsistencyError
+    BaseManager, ValidationError, DataConsistencyError, AppointmentStatus
 )
-
  
 # =========================================================================
 # TRANSACTION CLASS - GHI NHẬN THAY ĐỔI (ĐÃ CHUẨN HÓA KHÔNG DÙNG DICT NATIVE)
@@ -98,7 +97,7 @@ class AppointmentManager(BaseManager):
                     self.schedule_manager._save_to_file()
                     
                     # Cập nhật trạng thái cuộc hẹn ban đầu và nạp vào danh sách
-                    appointment.status = "PENDING"
+                    appointment.status = AppointmentStatus.PENDING
                     self.appointments.append(appointment)
                     self._save_to_file()
                     
@@ -122,12 +121,12 @@ class AppointmentManager(BaseManager):
             if not app:
                 raise ValidationError("Cuộc hẹn không tồn tại để hủy.")
             
-            current_status = getattr(app, 'status', '')
-            # Khong cho huy lich da khám hoặc hoàn thành
-            if current_status in ['CANCELLED', 'Đã hủy']:
+            current_status = AppointmentStatus.normalize(getattr(app, 'status', ''))
+            # Không cho hủy cuộc hẹn đã bị hủy trước đó
+            if current_status == AppointmentStatus.CANCELLED:
                 raise ValidationError("Cuộc hẹn này đã được thực hiện hủy từ trước.")
-            
-            if current_status in ['COMPLETED', 'Đã khám', 'Da hoan thanh']:
+            # Không cho hủy cuộc hẹn đã hoàn tất khám
+            if current_status == AppointmentStatus.COMPLETED:
                 raise ValidationError("Không thể hủy lịch đã khám xong")
             
             # KHỞI TẠO TRANSACTION HỦY
@@ -144,7 +143,7 @@ class AppointmentManager(BaseManager):
             
             try:
                 # Tiến hành cập nhật hủy trạng thái
-                app.status = "CANCELLED"
+                app.status = AppointmentStatus.CANCELLED
                 if self.schedule_manager and sched:
                     setattr(sched, 'is_booked', False)
                     self.schedule_manager._save_to_file()

@@ -33,13 +33,17 @@ class AppointmentStatus:
         if not status:
             return AppointmentStatus.PENDING
         s = str(status).strip().upper()
-        if s in ("ĐÃ ĐẶT", "CHỜ KHÁM"): 
+        # Đã là mã chuẩn (tiếng Anh) thì giữ nguyên
+        if AppointmentStatus.is_valid(s):
+            return s
+        # Tiếng Việt (có dấu và không dấu) -> mã chuẩn
+        if s in ("ĐÃ ĐẶT", "CHỜ KHÁM", "DA DAT", "CHO KHAM"):
             return AppointmentStatus.PENDING
-        if s == "ĐÃ XÁC NHẬN": 
+        if s in ("ĐÃ XÁC NHẬN", "DA XAC NHAN"):
             return AppointmentStatus.CONFIRMED
-        if s == "ĐÃ KHÁM": 
+        if s in ("ĐÃ KHÁM", "ĐÃ HOÀN THÀNH", "DA KHAM", "DA HOAN THANH"):
             return AppointmentStatus.COMPLETED
-        if s == "ĐÃ HỦY": 
+        if s in ("ĐÃ HỦY", "DA HUY"):
             return AppointmentStatus.CANCELLED
         return s
 

@@ -2,7 +2,7 @@ import threading
 from structures.linked_list import LinkedList
 from structures.hash_table import HashTable
 from entities.doctor import Doctor
-from managers.base_manager import BaseManager, ValidationError, DataConsistencyError
+from managers.base_manager import BaseManager, ValidationError, DataConsistencyError, AppointmentStatus
 from managers.file_handler import FileHandler
 
 
@@ -105,8 +105,8 @@ class DoctorManager(BaseManager):
                     app = current_a.value
                     sched = self.schedule_manager.find_schedule_by_id(getattr(app, 'schedule_id', None))
                     if sched and getattr(sched, 'doctor_id', None) == doctor_id:
-                        status = getattr(app, 'status', '')
-                        if status not in ('COMPLETED', 'CANCELLED', 'Đã khám', 'Đã hủy'):
+                        status = AppointmentStatus.normalize(getattr(app, 'status', ''))
+                        if status not in (AppointmentStatus.COMPLETED, AppointmentStatus.CANCELLED):
                             raise DataConsistencyError("Bac si dang co lich hen chua hoan tat")
                     current_a = current_a.next
 
@@ -175,7 +175,7 @@ class DoctorManager(BaseManager):
         current_a = self.appointment_manager.appointments.head
         while current_a:
             app = current_a.value
-            if getattr(app, 'status', '') in ('COMPLETED', 'Đã khám', 'Đã hoàn thành'):
+            if AppointmentStatus.normalize(getattr(app, 'status', '')) == AppointmentStatus.COMPLETED:
                 sched = self.schedule_manager.find_schedule_by_id(getattr(app, 'schedule_id', None))
                 if sched:
                     doc = self.find_doctor_by_id(getattr(sched, 'doctor_id', None))

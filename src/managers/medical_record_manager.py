@@ -1,6 +1,7 @@
 from structures.linked_list import LinkedList
 from entities.medical_record import MedicalRecord
 from managers.file_handler import FileHandler
+from managers.base_manager import AppointmentStatus
 
 
 class MedicalRecordManager:
@@ -40,7 +41,7 @@ class MedicalRecordManager:
         if not schedule or getattr(schedule, 'doctor_id', '') != doctor_id:
             raise PermissionError("Bac si khong co quyen tao benh an cho cuoc kham nay")
 
-        if getattr(appointment, 'status', '') not in ("COMPLETED", "Da kham", "Da hoan thanh"):
+        if AppointmentStatus.normalize(getattr(appointment, 'status', '')) != AppointmentStatus.COMPLETED:
             raise ValueError("Chi tao benh an sau khi hoan thanh kham")
 
         if self.find_by_appointment_id(record.appointment_id):
