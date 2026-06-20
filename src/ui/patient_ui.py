@@ -121,7 +121,7 @@ def patient_menu(managers, current_user):
 
                 patient = patient_manager.find_patient_by_id(patient_id)
 
-                has_bhyt = get_input("Ban co BHYT khong? (Y/N): ").upper()
+                has_bhyt = get_input("Ban muon nhap BHYT (chon N neu da cap nhat BHYT)? (Y/N): ").upper()
 
                 if has_bhyt == "Y":
                     bhyt_code = get_input("Nhap ma BHYT: ")
