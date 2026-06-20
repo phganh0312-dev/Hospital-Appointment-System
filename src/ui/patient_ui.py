@@ -171,7 +171,7 @@ def patient_menu(managers, current_user):
                     continue
 
                 bhyt_code = get_input("Nhap ma BHYT: ")
-                bhyt_expiry = get_input("Nhap han BHYT: ")
+                bhyt_expiry = get_input("Nhap han BHYT (YYYY-MM-DD): ")
 
                 patient.bhyt_code = bhyt_code
                 patient.bhyt_expiry = bhyt_expiry
