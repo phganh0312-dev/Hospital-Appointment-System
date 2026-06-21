@@ -6,7 +6,6 @@ import datetime
 
 
 class ScheduleManager(BaseManager):
-    # Ham quan ly lich khac bac si: them, sua, xoa, dat/huy lich khach, kiem tra trung lich
     def __init__(self, schedules=None):
         self.schedules = schedules or LinkedList()
 
