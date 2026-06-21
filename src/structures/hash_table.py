@@ -3,7 +3,6 @@ from structures.linked_list import LinkedList
 
 
 class HashEntry:
-    """Object luu cap key-value, thay cho tuple/dict native."""
 
     def __init__(self, key, value):
         self.key = key
