@@ -9,11 +9,11 @@ class Doctor:
         self.phone = phone
         if base_price is not None:
             try:
-                self.base_price = int(base_price) # Chuyển đổi base_price thành số nguyên
+                self.base_price = int(base_price)
             except Exception:
                 key = (specialty or 'Cơ bản').strip().lower() 
-                self.base_price = 150000 if key == 'cơ bản' else 500000 # Nếu không chuyển đổi được, xác định base_price dựa trên specialty: nếu specialty là 'Cơ bản' thì base_price là 150000, ngược lại là 500000
-        else: # Nếu base_price không được cung cấp
+                self.base_price = 150000 if key == 'cơ bản' else 500000 
+        else: 
             key = (specialty or 'Cơ bản').strip().lower()
             self.base_price = 150000 if key == 'cơ bản' else 500000 
 
