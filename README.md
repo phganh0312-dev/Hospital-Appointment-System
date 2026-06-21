@@ -1,173 +1,347 @@
-# 🏥 Hospital Appointment Management System
+# HỆ THỐNG QUẢN LÝ LỊCH KHÁM BỆNH VIỆN
 
-Hệ thống Quản lý Lịch khám Bệnh viện được xây dựng bằng **Python OOP** nhằm hỗ trợ quản lý bác sĩ, bệnh nhân, lịch khám và bệnh án. Dự án được phát triển theo kiến trúc phân tầng (Layered Architecture), sử dụng cấu trúc dữ liệu tự cài đặt và lưu trữ dữ liệu bằng tệp văn bản.
+## Mô tả dự án
 
----
+Đây là chương trình mô phỏng hệ thống quản lý lịch khám bệnh được xây dựng bằng Python theo mô hình hướng đối tượng (OOP). Hệ thống hỗ trợ ba vai trò người dùng gồm **Admin**, **Doctor** và **Patient**, cho phép quản lý tài khoản, lịch khám, cuộc hẹn và hồ sơ bệnh án.
 
-## 📌 Mục tiêu
+Mục tiêu của đề tài là vận dụng các kiến thức về:
 
-* Quản lý thông tin bác sĩ theo chuyên khoa.
-* Quản lý hồ sơ bệnh nhân.
-* Đăng ký và quản lý lịch khám.
-* Kiểm tra trùng lịch hẹn.
-* Quản lý bệnh án sau khám.
-* Thống kê và báo cáo dữ liệu.
+* Lập trình hướng đối tượng.
+* Cấu trúc dữ liệu và giải thuật.
+* Tổ chức mã nguồn theo kiến trúc nhiều tầng.
+* Quản lý dữ liệu bằng tệp văn bản.
 
 ---
 
-## ✨ Chức năng chính
+# Mô tả mã nguồn
 
-### 👨‍⚕️ Quản lý bác sĩ
+## Điểm bắt đầu chương trình
 
-* Thêm, sửa, xóa thông tin bác sĩ.
-* Quản lý chuyên khoa.
-* Quản lý lịch làm việc và khung giờ khám.
-
-### 👤 Quản lý bệnh nhân
-
-* Lưu trữ thông tin cá nhân.
-* Quản lý hồ sơ khám bệnh.
-
-### 📅 Quản lý lịch khám
-
-* Đặt lịch theo chuyên khoa.
-* Chọn bác sĩ.
-* Chọn khung giờ phù hợp.
-* Kiểm tra và xử lý trùng lịch.
-* Hủy hoặc cập nhật lịch khám.
-
-### 📋 Quản lý bệnh án
-
-* Ghi nhận triệu chứng.
-* Kết luận chẩn đoán.
-* Lưu đơn thuốc sau mỗi lần khám.
-
-### 📊 Báo cáo thống kê
-
-* Số cuộc hẹn trong ngày.
-* Bác sĩ được đăng ký nhiều nhất.
-* Số lần khám.
-* Doanh thu khám bệnh.
-
----
-
-## 🏗️ Kiến trúc hệ thống
+Toàn bộ chương trình được khởi động từ:
 
 ```text
-Presentation Layer (UI)
-        │
-        ▼
-Manager / Controller Layer
-        │
-        ▼
-Entities Layer
-        │
-        ▼
-Data Storage (.txt)
+app.py
+```
+
+Hàm `main()` thực hiện:
+
+1. Khởi tạo các Manager.
+2. Liên kết các Manager với nhau (Dependency Injection).
+3. Nạp dữ liệu từ các tệp lưu trữ.
+4. Chuyển điều khiển đến giao diện chính.
+
+Luồng tổng quát:
+
+```text
+app.py
+│
+├── Khởi tạo Managers
+├── Load dữ liệu
+├── Main Menu
+│
+├── Admin UI
+├── Doctor UI
+└── Patient UI
 ```
 
 ---
 
-## 📂 Cấu trúc thư mục
+# Kiến trúc mã nguồn
 
 ```text
-hospital-appointment-system/
+Hospital-Appointment-System/
 │
-├── src/
-│   ├── entities/
-│   │   ├── patient.py
-│   │   ├── doctor.py
-│   │   ├── appointment.py
-│   │   ├── medical_record.py
-│   │   └── doctor_schedule.py
-│   │
-│   ├── managers/
-│   │   ├── hospital_manager.py
-│   │   └── file_handler.py
-│   │
-│   ├── structures/
-│   │   ├── linked_list.py
-│   │   └── node.py
-│   │
-│   ├── ui/
-│   │   ├── patient_ui.py
-│   │   ├── admin_ui.py
-│   │   ├── doctor_ui.py
-│   │   └── menu.py
-│   │
-│   └── app.py
+├── app.py
 │
 ├── data/
-│   ├── doctors.txt
-│   ├── patients.txt
-│   ├── schedules.txt
-│   ├── appointments.txt
-│   └── records.txt
 │
-├── docs/
-│   ├── report.docx
-│   └── images/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+└── src/
+    ├── structures/
+    ├── entities/
+    ├── managers/
+    └── ui/
 ```
 
----
-
-## 💻 Công nghệ sử dụng
-
-* Python 3
-* Object-Oriented Programming (OOP)
-* Linked List tự cài đặt
-* File Text (.txt)
-* Git & GitHub
+Hệ thống được chia thành 4 tầng độc lập.
 
 ---
 
-## 🚀 Cách chạy chương trình
+## 1. structures/
 
-Clone repository:
+Cài đặt các cấu trúc dữ liệu nền tảng.
+
+```text
+structures/
+├── node.py
+├── linked_list.py
+└── hash_table.py
+```
+
+### linked_list.py
+
+Tự xây dựng danh sách liên kết đơn dùng để:
+
+* Lưu danh sách bác sĩ.
+* Lưu lịch khám.
+* Lưu cuộc hẹn.
+* Lưu bệnh án.
+
+Các thao tác chính:
+
+* append()
+* remove()
+* find()
+* iteration()
+
+### hash_table.py
+
+Tự cài đặt Hash Table theo phương pháp Separate Chaining.
+
+Được sử dụng cho:
+
+* Tra cứu bệnh nhân theo số điện thoại.
+* Tra cứu tài khoản người dùng.
+* Theo dõi trạng thái đăng nhập.
+* Theo dõi số lần đăng nhập sai.
+
+Mục tiêu là giảm thời gian tìm kiếm từ O(n) xuống trung bình O(1).
+
+---
+
+## 2. entities/
+
+Định nghĩa các đối tượng dữ liệu nghiệp vụ.
+
+```text
+entities/
+├── user.py
+├── doctor.py
+├── patient.py
+├── appointment.py
+├── doctor_schedule.py
+└── medical_record.py
+```
+
+Mỗi lớp chỉ chịu trách nhiệm lưu trữ dữ liệu và biểu diễn một thực thể trong hệ thống.
+
+Ví dụ:
+
+### User
+
+Lưu thông tin đăng nhập:
+
+```text
+user_id
+phone
+email
+password
+role
+linked_id
+```
+
+### Doctor
+
+Lưu thông tin bác sĩ:
+
+```text
+id
+name
+specialty
+base_price
+phone
+```
+
+### Appointment
+
+Biểu diễn một cuộc hẹn khám giữa bệnh nhân và bác sĩ.
+
+---
+
+## 3. managers/
+
+Đây là tầng xử lý nghiệp vụ chính của hệ thống.
+
+```text
+managers/
+├── base_manager.py
+├── file_handler.py
+├── user_manager.py
+├── doctor_manager.py
+├── patient_manager.py
+├── appointment_manager.py
+├── schedule_manager.py
+└── hospital_manager.py
+```
+
+### BaseManager
+
+Lớp cơ sở dùng chung cho các Manager.
+
+Cung cấp:
+
+* Nạp dữ liệu.
+* Lưu dữ liệu.
+* Các thao tác quản lý cơ bản.
+
+### UserManager
+
+Xử lý:
+
+* Đăng ký tài khoản.
+* Đăng nhập.
+* Đổi mật khẩu.
+* Khóa tài khoản sau 5 lần đăng nhập sai.
+
+### DoctorManager
+
+Xử lý:
+
+* Quản lý bác sĩ.
+* Tìm kiếm bác sĩ.
+* Thống kê doanh thu.
+
+### PatientManager
+
+Xử lý:
+
+* Hồ sơ bệnh nhân.
+* Thông tin BHYT.
+
+### ScheduleManager
+
+Xử lý:
+
+* Tạo lịch khám.
+* Chỉnh sửa lịch khám.
+* Kiểm tra lịch còn trống.
+
+### AppointmentManager
+
+Xử lý nghiệp vụ quan trọng nhất:
+
+* Đặt lịch khám.
+* Hủy lịch khám.
+* Kiểm tra trùng lịch.
+* Đồng bộ trạng thái lịch khám.
+
+---
+
+## 4. ui/
+
+Tầng giao diện Console.
+
+```text
+ui/
+├── main_menu.py
+├── admin_ui.py
+├── doctor_ui.py
+├── patient_ui.py
+└── menu_utils.py
+```
+
+Tầng này chỉ:
+
+* Nhận dữ liệu từ người dùng.
+* Hiển thị kết quả.
+* Gọi các hàm nghiệp vụ trong Manager.
+
+Không chứa logic xử lý dữ liệu.
+
+---
+
+# Dữ liệu lưu trữ
+
+Dữ liệu được lưu dưới dạng văn bản trong thư mục:
+
+```text
+data/
+```
+
+Gồm:
+
+```text
+user_credentials.txt
+doctors.txt
+patients.txt
+schedules.txt
+appointments.txt
+records.txt
+```
+
+Khi khởi động:
+
+```text
+File -> Entity -> Manager
+```
+
+Khi cập nhật dữ liệu:
+
+```text
+Manager -> File
+```
+
+Mọi thay đổi đều được ghi xuống tệp ngay sau khi thao tác thành công nhằm hạn chế mất dữ liệu khi chương trình dừng đột ngột.
+
+---
+
+# Các nghiệp vụ chính cần xem trong mã nguồn
+
+Nếu muốn đánh giá nhanh chương trình, có thể xem các chức năng sau:
+
+### Đăng nhập và phân quyền
+
+```text
+UserManager.authenticate()
+```
+
+* Đăng nhập bằng email hoặc số điện thoại.
+* Theo dõi số lần nhập sai.
+* Khóa tài khoản sau 5 lần thất bại.
+
+### Đặt lịch khám
+
+```text
+AppointmentManager.book_appointment()
+```
+
+* Kiểm tra lịch tồn tại.
+* Kiểm tra lịch đã được đặt hay chưa.
+* Tạo cuộc hẹn.
+* Cập nhật trạng thái lịch.
+
+### Quản lý hồ sơ bệnh án
+
+```text
+MedicalRecordManager.add_record()
+```
+
+* Kiểm tra quyền của bác sĩ.
+* Kiểm tra cuộc hẹn đã hoàn thành.
+* Ngăn tạo trùng hồ sơ bệnh án.
+
+### Tìm kiếm bệnh nhân
+
+```text
+PatientManager.find_by_phone()
+```
+
+Sử dụng Hash Table để tối ưu tốc độ tra cứu.
+
+---
+
+# Yêu cầu chạy chương trình
 
 ```bash
-git clone <repository-url>
+python app.py
 ```
 
-Di chuyển vào thư mục dự án:
+Yêu cầu:
 
-```bash
-cd hospital-appointment-system
-```
-
-Chạy chương trình:
-
-```bash
-python src/app.py
-```
+* Python 3.x
+* Không sử dụng thư viện ngoài chuẩn Python
 
 ---
 
-## 👥 Thành viên
+# Ghi chú
 
-| Thành viên | Vai trò                                                                   |
-| ---------- | ------------------------------------------------------------------------- |
-| TV1        | Core Logic, LinkedList, Doctor, DoctorSchedule, HospitalManager, Thống kê |
-| TV2        | Appointment, FileHandler, Đọc/Ghi dữ liệu, Kiểm tra trùng lịch            |
-| TV3        | Patient, MedicalRecord, Giao diện người dùng, Kiểm thử                    |
-
----
-
-## 📄 Báo cáo
-
-Dự án được thực hiện cho học phần **Kỹ thuật lập trình**, áp dụng các nguyên tắc:
-
-* Object-Oriented Programming (OOP)
-* Layered Architecture
-* Custom Data Structure
-* File-based Data Management
-
----
-
-## 📜 License
-
-Dự án được phát triển phục vụ mục đích học tập và nghiên cứu.
+Trong dự án này nhóm tập trung vào việc xây dựng cấu trúc dữ liệu, thiết kế hướng đối tượng và mô hình xử lý nghiệp vụ trên môi trường Console. Hệ thống được tổ chức theo hướng dễ mở rộng để có thể phát triển thành ứng dụng GUI hoặc Web trong tương lai.
