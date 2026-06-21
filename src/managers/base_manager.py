@@ -1,17 +1,11 @@
 import datetime
 
-# ==========================================
-# CÁC CLASS EXCEPTION TỰ ĐỊNH NGHĨA
-# ==========================================
 class ValidationError(Exception):
     pass
 
 class DataConsistencyError(Exception):
     pass
 
-# ==========================================
-# QUẢN LÝ TRẠNG THÁI CUỘC HẸN (KHÔNG DÙNG DICT/LIST)
-# ==========================================
 class AppointmentStatus:
     PENDING = "PENDING"
     CONFIRMED = "CONFIRMED"
@@ -63,10 +57,6 @@ class AppointmentStateMachine:
             raise ValidationError(f"Không thể chuyển trạng thái từ '{appointment.status}' sang '{new_status}'")
         appointment.status = new_status
 
-
-# ==========================================
-# BASE MANAGER CHỨA CÁC THUẬT TOÁN DÙNG CHUNG
-# ==========================================
 class BaseManager:
     def _to_date(self, date_input):
         if isinstance(date_input, datetime.datetime):
