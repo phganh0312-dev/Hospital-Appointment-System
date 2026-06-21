@@ -334,11 +334,7 @@ Sử dụng Hash Table để tối ưu tốc độ tra cứu.
 ```bash
 python app.py
 ```
-
-Yêu cầu:
-
 * Python 3.x
-* Không sử dụng thư viện ngoài chuẩn Python
 
 ---
 
