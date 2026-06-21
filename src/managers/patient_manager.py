@@ -5,7 +5,6 @@ from managers.file_handler import FileHandler
 
 
 class PatientManager(BaseManager):
-    # Ham quan ly thong tin benh nhan: them, sua, xoa, tim kiem benh nhan
     def __init__(self, patients=None, appointment_manager=None, user_manager=None):
         self.patients = patients or HashTable()
         self.appointment_manager = appointment_manager
