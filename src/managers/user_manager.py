@@ -8,7 +8,6 @@ from managers.base_manager import BaseManager
 
 
 class UserManager(BaseManager):
-    # Ham quan ly tai khoan: dang ky, dang nhap, cap phat ID, doi mat khau, khoa tai khoan
     def __init__(self, users=None, patient_manager=None, doctor_manager=None, schedule_manager=None, appointment_manager=None):
         super().__init__()
         self.users = users or HashTable()
